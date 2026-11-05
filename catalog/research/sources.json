@@ -1,0 +1,162 @@
+[
+  {
+    "id": "nealfun",
+    "name": "Neal.fun",
+    "url": "https://neal.fun/",
+    "focus": "interactive",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "uselessweb",
+    "name": "The Useless Web",
+    "url": "https://theuselessweb.com/",
+    "focus": "absurd",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "wiby",
+    "name": "Wiby",
+    "url": "https://wiby.me/",
+    "focus": "indie_web",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "marginalia",
+    "name": "Marginalia Search",
+    "url": "https://search.marginalia.nu/",
+    "focus": "indie_web",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "archiveorg",
+    "name": "Internet Archive",
+    "url": "https://archive.org/",
+    "focus": "historical",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "itch",
+    "name": "itch.io",
+    "url": "https://itch.io/",
+    "focus": "experimental_games",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "experiments",
+    "name": "Chrome Experiments",
+    "url": "https://experiments.withgoogle.com/",
+    "focus": "interactive",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "rhizome",
+    "name": "Rhizome",
+    "url": "https://rhizome.org/",
+    "focus": "net_art",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "areweweb",
+    "name": "The HTML Review",
+    "url": "https://thehtml.review/",
+    "focus": "web_art",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "github",
+    "name": "GitHub Explore",
+    "url": "https://github.com/explore",
+    "focus": "open_source",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "github-awesome-useless-websites",
+    "name": "Awesome Useless Websites (CC0)",
+    "url": "https://github.com/scriptex/awesome-useless-websites",
+    "focus": "absurd",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "fuckyoutube-websites",
+    "name": "fuckyoutube.lol Websites (517 listed)",
+    "url": "https://www.fuckyoutube.lol/websites",
+    "focus": "indie_web",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "odd-sites",
+    "name": "Odd Sites",
+    "url": "https://www.odd-sites.com/",
+    "focus": "weird_web",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "cloudhiker",
+    "name": "Cloudhiker",
+    "url": "https://cloudhiker.net/",
+    "focus": "indie_web",
+    "status": "research_source",
+    "last_checked_at": null
+  },
+  {
+    "id": "hn-show",
+    "name": "Hacker News, Show HN (via the Algolia search API)",
+    "url": "https://hn.algolia.com/api/v1/search?tags=show_hn",
+    "focus": "indie_projects",
+    "status": "research_source",
+    "last_checked_at": "2026-11-05"
+  },
+  {
+    "id": "justonemoretab",
+    "name": "JustOneMoreTab",
+    "url": "https://justonemoretab.com/",
+    "focus": "curated",
+    "status": "research_source",
+    "last_checked_at": "2026-11-05"
+  },
+  {
+    "id": "awesome-useless",
+    "name": "awesome-useless-websites",
+    "url": "https://github.com/scriptex/awesome-useless-websites",
+    "focus": "absurd",
+    "status": "research_source",
+    "last_checked_at": "2026-11-05"
+  },
+  {
+    "id": "unknownindex",
+    "name": "UnknownIndex",
+    "url": "https://unknownindex.com/",
+    "focus": "curated",
+    "status": "research_source",
+    "last_checked_at": "2026-11-05"
+  },
+  {
+    "id": "iambored",
+    "name": "IamBored.site",
+    "url": "https://iambored.site/",
+    "focus": "curated",
+    "status": "research_source",
+    "last_checked_at": "2026-11-05"
+  },
+  {
+    "id": "oddsites",
+    "name": "Odd Sites",
+    "url": "https://www.odd-sites.com/",
+    "focus": "absurd",
+    "status": "research_source",
+    "last_checked_at": "2026-11-05"
+  }
+]

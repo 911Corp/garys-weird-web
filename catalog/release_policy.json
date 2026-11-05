@@ -1,0 +1,17 @@
+{
+  "catalog_version": "1.1.0",
+  "minimum_published_destinations": 500,
+  "target_candidate_pool": 750,
+  "recommended_candidate_pool": 1000,
+  "minimum_distinct_domains": 200,
+  "maximum_domain_share": 0.05,
+  "required_status": "VERIFIED",
+  "required_reviews": [
+    "content_reviewed",
+    "safety_reviewed",
+    "mobile_checked"
+  ],
+  "allow_release_with_less_than_minimum": false,
+  "random_only_published": true,
+  "notes": "500 fully reviewed entries is a hard public V1 gate. safety_reviewed means the automated check in docs/CATALOG.md passed, not a security audit."
+}

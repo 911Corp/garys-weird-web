@@ -1,0 +1,803 @@
+# url	name	category	weird	useful	nostalgia	timesink	tags	description
+https://www.windows93.net/	Windows 93	weird	5	1	5	4	fake-os,parody,browser	A parody desktop operating system that runs in the browser, full of joke programs and broken-on-purpose windows.
+https://theuselessweb.com/	The Useless Web	weird	4	1	4	4	random,button,directory	One button that sends you to a random pointless website. A direct ancestor of what you are using now.
+https://www.pixelthoughts.co/	Pixel Thoughts	weird	3	2	1	1	calm,space,one-minute	Type a stressful thought into a star and watch it shrink away over 60 seconds.
+https://cat-bounce.com/	Cat Bounce!	weird	4	1	4	1	cats,physics,classic	Cats bounce around your screen. You can throw them.
+https://pointerpointer.com/	Pointer Pointer	weird	5	1	3	2	cursor,photos,interactive	Move your cursor and stop. The site finds a photo of a person pointing at exactly that spot.
+https://hackertyper.net/	Hacker Typer	weird	3	1	3	1	typing,code,prank	Mash any keys and convincing code pours onto the screen, as seen in every film about hackers. Online since 2011.
+https://papertoilet.com/	Paper Toilet	weird	4	1	3	1	net-art,rafael-rozendaal,interactive	A 2006 web artwork by Rafaël Rozendaal: a toilet roll you can unspool with your mouse.
+https://longdogechallenge.com/	The Long Doge Challenge	weird	4	1	3	2	scrolling,meme,challenge	A doge whose neck goes on for as long as you are willing to keep scrolling.
+http://www.eelslap.com/	Eel Slap!	weird	4	1	4	1	interactive,video,classic	Drag your mouse across the screen to slap a man in the face with an eel, frame by frame.
+https://koalastothemax.com/	Koalas to the Max	weird	3	1	3	2	interactive,pixels,image	Circles split into smaller circles under your cursor until a hidden image of koalas appears.
+https://www.window-swap.com/	WindowSwap	weird	3	1	1	3	people,video,calm	Look out of someone else's window: short videos of real views filmed by people around the world.
+https://bongo.cat/	Bongo Cat	weird	3	1	3	2	meme,music,keyboard	Play instruments with your keyboard while a cat from the meme hits them for you.
+https://museumofbadart.org/	Museum of Bad Art	weird	4	1	2	3	art,museum,humor	The online home of a real museum dedicated to art too bad to be ignored.
+https://isitchristmas.com/	Is It Christmas?	weird	3	2	3	1	single-purpose,calendar,classic	Answers one question, and on nearly every day of the year the answer is no.
+https://adarkroom.doublespeakgames.com/	A Dark Room	games	3	1	2	5	text,incremental,minimalist	A minimalist text adventure that starts with a cold room and a fire, then slowly turns into something else.
+https://www.decisionproblem.com/paperclips/	Universal Paperclips	games	4	1	2	5	incremental,ai,clicker	An incremental game where you play an AI built to make paperclips. Desktop browser recommended.
+https://ncase.me/trust/	The Evolution of Trust	games	2	4	1	2	game-theory,explainer,playable	An interactive guide to the game theory of why and how people trust each other.
+https://candybox2.github.io/	Candy Box 2	games	4	1	3	5	text,ascii,incremental	A browser RPG drawn in ASCII that starts with a counter of candies and keeps opening up.
+https://quickdraw.withgoogle.com/	Quick, Draw!	games	2	2	1	2	doodles,neural-network,google	Doodle against the clock while a neural network tries to recognise what you drew.
+https://www.linerider.com/	Line Rider	games	3	1	5	5	drawing,physics,sandbox	Draw a track and watch a small sledder ride it. The sandbox game that launched a thousand elaborate tracks.
+https://littlealchemy.com/	Little Alchemy	games	2	1	3	4	crafting,puzzle,combinations	Start with four basic elements and combine them until you reach dinosaurs, unicorns and spaceships.
+https://www.foddy.net/legacy/Athletics.html	QWOP	games	4	1	4	3	flash-era,ragdoll,impossible	Run 100 metres by controlling each thigh and calf separately. Most people fall over at once.
+https://semantle.com/	Semantle	games	2	2	1	3	words,daily,puzzle	A daily word game where each guess is scored by how close its meaning is to the hidden word.
+https://sandspiel.club/	Sandspiel	games	3	1	2	5	falling-sand,simulation,sandbox	A falling-sand game with elements such as water, fire, lava, plants and fungus that react to each other.
+https://www.thewikigame.com/	The Wiki Game	games	2	2	1	4	wikipedia,race,multiplayer	Race other players from one Wikipedia article to another using only the links.
+https://oskarstalberg.com/Townscaper/	Townscaper	games	2	1	1	4	building,toy,webgl	Click on water to grow a small colourful town. There is no goal. The WebGL build needs a desktop browser.
+https://www.photopea.com/	Photopea	tools	1	5	1	2	image-editor,free,browser	A full photo editor in the browser that opens PSD files and works without an install.
+https://squoosh.app/	Squoosh	tools	1	5	1	1	images,compression,codecs	Compress an image with different codecs and compare the result side by side, in the browser.
+https://excalidraw.com/	Excalidraw	tools	2	5	1	2	whiteboard,diagrams,hand-drawn	A collaborative whiteboard for diagrams that look hand-drawn.
+https://regex101.com/	regex101	tools	1	5	1	2	regex,developer,debugger	Build, test and debug regular expressions, with real-time matches and an explanation of each part.
+https://gchq.github.io/CyberChef/	CyberChef	tools	3	5	1	3	encoding,security,data	A web app from GCHQ for encoding, encryption, compression and data analysis, chained together like a recipe.
+https://explainshell.com/	explainshell	tools	1	5	1	1	command-line,developer,reference	Paste a shell command and see each argument matched to its help text.
+https://crontab.guru/	Crontab Guru	tools	1	5	1	1	cron,developer,reference	A small editor that translates cron schedule expressions into plain language.
+https://marginalia-search.com/	Marginalia Search	tools	3	4	3	4	search,small-web,independent	A small independent search engine that favours surprising, text-heavy websites over big commercial ones.
+https://wiby.me/	Wiby	tools	3	3	5	4	search,old-web,lightweight	A search engine for older-style, lightweight personal pages. It has a button that surprises you.
+https://www.spacejam.com/1996/	Space Jam (1996)	history	3	1	5	1	1990s,film,preserved	The official website for the 1996 film, kept online in its original style of tiled stars and planets.
+http://info.cern.ch/hypertext/WWW/TheProject.html	The World Wide Web Project	history	2	2	5	1	first-website,cern,origin	The page from the first website, describing a wide-area hypermedia project called the World Wide Web.
+https://line-mode.cern.ch/	Line Mode Browser 2013	history	3	1	5	1	cern,simulator,browser	A CERN project that recreates the early text-only line mode browser so you can use the web as it looked then.
+https://theoldnet.com/	The Old Net	history	3	2	5	4	wayback,old-web,browsing	Enter an address and a year between the 1990s and the 2000s to browse the web as it was archived back then.
+https://oldweb.today/	OldWeb.today	history	3	2	5	4	emulation,old-browsers,archive	Run emulated vintage browsers in your own browser and use them to view archived web pages.
+https://geocities.restorativland.org/	The Geocities Gallery	history	4	1	5	5	geocities,archive,personal-pages	A restored visual gallery of archived GeoCities sites, sorted by neighborhood. Some of the old pages may be objectionable.
+http://www.milliondollarhomepage.com/	The Million Dollar Homepage	history	4	1	5	2	2000s,ads,pixels	Alex Tew's page of one million pixels sold as ads to pay for university. Many of the links are now dead.
+http://textfiles.com/	textfiles.com	history	3	2	5	5	bbs,archive,text	A vast archive of text files from the bulletin board era, kept as plain directories.
+https://www.folklore.org/	Folklore.org	history	1	2	5	4	macintosh,apple,stories	First-hand stories about the making of the original Macintosh, now presented by the Computer History Museum.
+https://www.cameronsworld.net/	Cameron's World	history	5	1	5	2	geocities,collage,net-art	A web collage of text and images excavated from the buried neighbourhoods of GeoCities.
+https://patatap.com/	Patatap	creative	3	1	2	2	sound,animation,keyboard	Press keys to trigger sounds and shapes. A portable animation and sound kit.
+https://bruno-simon.com/	Bruno Simon	creative	3	1	1	2	portfolio,3d,webgl	A developer's portfolio you explore by driving a small car through a 3D world. Heavy on old hardware.
+https://weavesilk.com/	Silk	creative	2	1	2	3	generative,drawing,symmetry	Draw with flowing, mirrored strands of light and make generative art with no skill required.
+https://strudel.cc/	Strudel	creative	3	2	1	5	live-coding,music,tidalcycles	Live-code music in the browser with a JavaScript port of the TidalCycles pattern language.
+https://hydra.ojack.xyz/	Hydra	creative	4	2	1	4	live-coding,visuals,video-synth	Live-code networked visuals in the browser, patched together like an analog video synthesizer.
+https://www.dwitter.net/	Dwitter	creative	4	2	1	4	javascript,code-golf,demos	A social network for visual JavaScript demos limited to 140 characters.
+https://thebookofshaders.com/	The Book of Shaders	creative	1	4	1	4	shaders,glsl,tutorial	A gentle step-by-step guide through the abstract universe of fragment shaders.
+https://turtletoy.net/	Turtletoy	creative	2	2	1	3	plotter,javascript,turtle	Write JavaScript turtle graphics in the browser and make hand-coded, plottable art.
+https://tixy.land/	tixy.land	creative	3	2	1	3	code-golf,javascript,grid	A minimalist coding toy: control 16 by 16 dots with a single JavaScript function.
+https://musiclab.chromeexperiments.com/	Chrome Music Lab	creative	2	3	1	3	music,learning,experiments	Simple playable experiments that show how music works, for any age.
+https://zoomquilt.org/	The Zoomquilt	creative	5	1	3	2	infinite-zoom,painting,collaborative	A collaborative painting from 2004 that zooms inward forever.
+https://solar.lowtechmagazine.com/	Low-Tech Magazine (solar)	retro	4	3	2	4	solar,sustainability,offline	A solar-powered website that shows its battery level and sometimes goes offline when the sun does not cooperate.
+http://toastytech.com/guis/	Graphical User Interface Gallery	retro	2	2	5	4	gui,operating-systems,screenshots	A long-running personal gallery of old interfaces, from Xerox and GEM to BeOS and OS/2.
+https://www.pouet.net/	pouët.net	retro	4	2	5	5	demoscene,database,community	The main online resource of the demoscene: decades of tiny programs that make computers do impossible things.
+http://visual6502.org/	Visual 6502	retro	4	3	4	3	cpu,transistors,simulation	A transistor-level simulation of the 6502 processor, the chip behind the Apple II and the Commodore 64.
+https://int10h.org/oldschool-pc-fonts/	The Ultimate Oldschool PC Font Pack	retro	2	4	5	3	fonts,dos,bios	A huge collection of classic text mode, system and BIOS fonts from DOS-era IBM PCs and compatibles.
+https://16colo.rs/	16colo.rs	retro	3	2	5	5	ansi,ascii,bbs	An archive of ANSI and ASCII art, preserving artpacks released through the BBS underground.
+https://www.nand2tetris.org/	From Nand to Tetris	retro	2	5	2	5	course,computer-architecture,learning	A course that builds a modern computer from first principles, starting with a single logic gate.
+https://eater.net/	Ben Eater	retro	2	5	2	5	electronics,breadboard,videos	Tutorial videos on electronics and computer architecture, including building computers on breadboards.
+http://bitsavers.org/	Bitsavers	retro	2	4	5	5	archive,manuals,software	An enormous archive of old computer manuals, software and documents.
+https://www.pcjs.org/	PCjs Machines	emulation	3	3	5	4	javascript,dos,windows	Online machine emulators written in JavaScript that run DOS, Windows, OS/2 and other vintage software.
+https://copy.sh/v86/	v86	emulation	3	3	4	3	x86,webassembly,windows-98	Run KolibriOS, Linux or Windows 98 inside a browser tab.
+https://infinitemac.org/	Infinite Mac	emulation	3	2	5	4	macintosh,classic-mac-os,browser	Classic Macintosh systems running in the browser, loaded with period software.
+https://bellard.org/jslinux/	JSLinux	emulation	3	3	2	3	linux,browser,fabrice-bellard	Boot Linux and other operating systems inside your browser.
+https://ruffle.rs/	Ruffle	emulation	2	4	5	2	flash,rust,webassembly	A Flash Player emulator written in Rust, built to keep old Flash content playable.
+https://flashpointarchive.org/	Flashpoint Archive	emulation	3	3	5	5	flash,preservation,games	A community effort to preserve games, animations and interactive experiences from the web.
+https://archive.org/details/malwaremuseum	The Malware Museum	emulation	5	1	5	2	malware,internet-archive,dos	An Internet Archive collection of old DOS viruses, neutered and emulated so you can watch their on-screen effects safely.
+https://8bitworkshop.com/	8bitworkshop	emulation	2	3	4	4	8-bit,programming,ide	Write code for classic game hardware in the browser and see it run instantly.
+https://tic80.com/	TIC-80	emulation	3	2	4	5	fantasy-console,open-source,games	A free and open-source fantasy computer for making, playing and sharing tiny games.
+https://science.nasa.gov/eyes/	NASA's Eyes	science	1	3	1	4	nasa,space,3d	NASA's 3D applications for exploring real mission data about Earth, the solar system and beyond.
+https://htwins.net/scale2/	The Scale of the Universe 2	science	2	3	3	3	scale,zoom,universe	Scroll from the smallest known scales up to the size of the universe. Created by Cary Huang.
+https://stellarium-web.org/	Stellarium Web	science	1	4	1	3	astronomy,planetarium,star-map	A planetarium in the browser that shows a realistic star map for your sky.
+https://phet.colorado.edu/	PhET Simulations	science	1	5	1	3	simulations,education,physics	Free interactive simulations for physics, chemistry, biology and earth science.
+https://fold.it/	Foldit	science	3	4	1	5	proteins,citizen-science,puzzle	A puzzle game where players fold proteins, and the solutions feed real science.
+https://oeis.org/	OEIS	science	3	4	2	4	mathematics,sequences,reference	The On-Line Encyclopedia of Integer Sequences. Type in some numbers and find out what they are.
+https://www.onezoom.org/	OneZoom	science	3	3	1	4	tree-of-life,biology,zoom	Explore the tree of life as one continuous zoomable map.
+https://earth.fm/	Earth.fm	science	2	2	1	3	nature,sound,non-profit	A non-profit library of immersive nature sounds recorded around the world.
+https://www.heavens-above.com/	Heavens-Above	science	1	4	4	2	satellites,iss,observing	Satellite predictions and other astronomical data for your location, so you can step outside and look up.
+https://earth.nullschool.net/	earth	visualizations	2	3	1	3	wind,weather,globe	An animated globe of current wind, weather, ocean and pollution conditions, drawn from supercomputer forecasts.
+https://www.shipmap.org/	Shipmap.org	visualizations	2	2	1	2	shipping,trade,map	An animated map of global cargo shipping by Kiln and the UCL Energy Institute.
+https://www.submarinecablemap.com/	Submarine Cable Map	visualizations	3	3	1	3	internet,cables,infrastructure	TeleGeography's map of the undersea cables that carry the Internet between continents.
+https://www.lightningmaps.org/	LightningMaps.org	visualizations	3	2	1	3	lightning,real-time,blitzortung	Lightning strikes appearing on a world map in real time.
+https://pudding.cool/	The Pudding	visualizations	2	3	1	5	visual-essays,data,journalism	Visual essays that explain ideas with data and interaction.
+https://visualgo.net/	VisuAlgo	visualizations	1	5	1	3	algorithms,data-structures,animation	Data structures and algorithms visualised through animation, started in 2011 by Steven Halim.
+https://ciechanow.ski/	Bartosz Ciechanowski	visualizations	2	5	1	5	interactive-articles,engineering,science	Long interactive articles about science and engineering, with models you can manipulate as you read.
+https://www.neilfilms.com/ww2/	The Fallen of World War II	visualizations	1	3	1	2	history,data-documentary,war	An interactive, data-driven documentary by Neil Halloran on the human cost of the war. Serious subject.
+https://dinosaurpictures.org/ancient-earth	Ancient Earth Globe	visualizations	3	2	1	3	globe,geology,deep-time	Search an address and see where it sat on Earth across a billion years of history.
+https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles	Wikipedia: Unusual Articles	rabbit-holes	4	2	2	5	wikipedia,list,oddities	Wikipedia editors' own list of its strangest articles.
+https://scp-wiki.wikidot.com/	SCP Foundation	rabbit-holes	5	1	3	5	fiction,horror,collaborative	A collaborative fiction wiki written as the declassified files of a secret containment agency. Contains horror.
+https://everything2.com/	Everything2	rabbit-holes	3	2	4	5	community,writing,old-web	A long-running community of fiction, nonfiction, poetry and reviews, all linked together.
+https://libraryofbabel.info/	Library of Babel	rabbit-holes	5	1	2	4	borges,text,infinite	A digital version of Borges's library, holding every possible page of text.
+https://www.damninteresting.com/	Damn Interesting	rabbit-holes	3	3	3	5	stories,science,history	Obscure true stories from science, history and psychology, published since 2005.
+https://publicdomainreview.org/	The Public Domain Review	rabbit-holes	3	3	4	5	public-domain,art,journal	A not-for-profit online journal of curious and compelling works from the history of art and ideas.
+https://radio.garden/	Radio Garden	rabbit-holes	3	2	1	5	radio,globe,live	Rotate the globe and listen to live local radio from wherever you stop.
+https://everynoise.com/	Every Noise at Once	rabbit-holes	4	2	2	5	music,genres,map	A map of musical genres by Glenn McDonald, from the familiar to the very specific.
+
+https://thisissand.com/	Thisissand	art	2	1	2	3	sand,art,toy	Pour coloured pixels of sand into layered landscapes and share what you made.
+https://www.mapcrunch.com/	MapCrunch	weird	3	1	1	3	street-view,random,travel	Press a button and land on a random Street View somewhere on Earth.
+https://asoftmurmur.com/	A Soft Murmur	tools	1	4	1	2	ambient,focus,sound	Mix ambient sounds together to wash away distraction.
+https://checkboxrace.com/	Checkbox Race!	games	3	1	1	1	checkboxes,speed,one-minute	Tick a row of 100 checkboxes as fast as you can against the clock.
+https://findtheinvisiblecow.com/	Find the Invisible Cow	games	3	1	2	1	audio,mouse,classic	Move your cursor around an empty page and follow the sound to find a hidden cow.
+https://screamintothevoid.com/	Scream Into the Void	weird	3	1	1	1	void,catharsis,typing	Type your feelings into a black hole and press the button.
+https://www.boredbutton.com/	Bored Button	weird	2	1	3	4	random,button,directory	One red button that sends you to a random small game or distraction.
+https://thequietplaceproject.xyz/	The Quiet Place Project	weird	2	2	2	1	calm,meditation,short	A short guided pause in a quiet, empty page.
+https://www.incredibox.com/	Incredibox	games	2	1	2	3	music,beatbox,toy	Drag sounds onto a crew of beatboxers and build a track.
+https://stars.chromeexperiments.com/	100,000 Stars	world	2	2	1	2	stars,3d,milky-way	A 3D map of the stars around our sun, rendered in the browser.
+https://www.music-map.com/	Music-Map	mysteries	2	2	1	3	music,map,discovery	Type an artist and see similar artists float around it on a map.
+https://app.radiooooo.com/	Radiooooo	world	3	1	4	5	music,map,decades	Pick a country and a decade on a map and hear what was playing there.
+https://wikitrivia.tomjwatson.com/	Wikitrivia	games	2	2	1	3	wikipedia,timeline,quiz	Place facts from Wikipedia in chronological order.
+https://webamp.org/	Webamp	retro	3	2	5	3	winamp,1990s,player	Winamp 2 reimplemented in the browser, complete with the classic demo track.
+https://windows96.net/	Windows 96	weird	4	1	5	4	fake-os,parody,browser	A fictional Windows-style operating system that boots inside a tab.
+https://thehtml.review/	The HTML Review	art	3	2	1	4	literature,journal,web-native	An annual journal of literature made to exist only as web pages.
+https://ncase.me/loopy/	LOOPY	tools	2	3	1	3	systems,simulation,drawing	Draw a diagram of circles and arrows and it becomes a working simulation.
+https://ncase.me/polygons/	Parable of the Polygons	world	2	4	1	2	explainer,bias,playable	A playable post on how small individual biases can add up to a segregated society.
+https://www.lightpollutionmap.info/	Light Pollution Map	world	2	3	1	3	night-sky,map,data	A world map of how much artificial light hides the night sky.
+https://madebyevan.com/webgl-water/	WebGL Water	art	2	1	2	1	webgl,simulation,demo	Drag your cursor through a real-time water simulation with a floating sphere.
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/	WebGL Fluid Simulation	art	3	1	1	3	webgl,simulation,colour	Drag across the screen to stir glowing fluid that keeps moving on its own.
+https://particle-clicker.web.cern.ch/	Particle Clicker	games	3	2	2	5	incremental,physics,cern	An incremental game hosted at CERN where you run a particle physics lab by clicking.
+https://make-everything-ok.com/	Make Everything OK	weird	3	1	4	1	button,single-purpose,classic	One button. Press it and everything will be OK.
+https://www.nyan.cat/	Nyan Cat	weird	4	1	5	1	meme,loop,classic	The looping pixel cat meme, with a timer counting how long you have watched.
+https://www.rainymood.com/	Rainy Mood	tools	1	4	3	2	rain,focus,sound	A looping rain soundtrack for sleeping or studying.
+https://blank.org/	blank.org	weird	5	1	3	1	nothing,minimal,single-purpose	A page with nothing on it, on purpose.
+https://www.ismycomputeron.com/	Is My Computer On?	weird	4	1	3	1	single-purpose,minimal,joke	Answers one question, and the answer is always YES.
+https://hasthelargehadroncolliderdestroyedtheworldyet.com/	Has the LHC Destroyed the World Yet?	weird	4	1	4	1	single-purpose,physics,joke	A page that gives a one-word status update on the end of the world.
+https://trypap.com/	Passive Aggressive Passwords	weird	3	1	2	1	passwords,humor,typing	Type a password and a form responds with the disappointment of your in-laws.
+https://www.hmpg.net/	End of the Internet	weird	4	1	5	1	joke,old-web,classic	Congratulations. You have reached the last page of the Internet.
+https://iambored.site/	IamBored.site	weird	2	1	1	4	random,button,directory	Press the button and get sent to a random corner of the Internet.
+https://wrongulator.com/	Wrongulator	weird	4	1	1	1	calculator,joke,useless	A calculator that promises to be wrong every time.
+https://www.thepointless.com/	thepointless.com	weird	3	1	4	3	old-web,humor,personal-site	A long-running humour site that calls itself a solitary bastion of sensibility.
+https://instantrimshot.com/	Instant Rimshot	weird	2	1	4	1	sound,joke,button	A big red button that plays a drum rimshot, for when a joke needs one.
+https://leavepage.aurelitec.com/	leave page	weird	3	1	1	1	sound,minimal,dusty-domains	A tiny art page that starts by asking if your sound is on.
+https://archive.org/	Internet Archive	archives	2	5	5	5	wayback,library,preservation	A non-profit library of free books, films, software, music and billions of saved web pages.
+https://obsoletemedia.org/	Museum of Obsolete Media	archives	3	3	5	4	formats,tape,hardware	A catalogue of recording and storage formats that nobody uses any more.
+https://www.futureme.org/	FutureMe	tools	2	3	3	1	letters,email,time-capsule	Write a letter to yourself and have it delivered on a date in the future.
+https://musicmap.info/	Musicmap	art	2	3	2	5	music,genres,history	A genealogy of popular music genres drawn as one big interactive chart.
+https://www.typatone.com/	Typatone	art	2	1	1	2	typing,music,toy	Each letter you type corresponds to a sound, so your words become a melody.
+https://play2048.co/	2048	games	1	1	3	4	puzzle,numbers,classic	Slide tiles together until you reach 2048. The original version.
+https://www.geoguessr.com/quiz/seterra	Seterra	world	1	4	3	4	geography,quiz,maps	Map quizzes for countries, capitals and flags.
+https://virtualvacation.us/guess	City Guesser	games	2	2	1	4	video,geography,guessing	Watch a walking video from an unknown street and guess the city.
+https://www.windy.com/	Windy	world	1	5	1	3	weather,wind,map	Animated wind, radar and forecast layers on a world map.
+https://www.openstreetmap.org/	OpenStreetMap	tools	1	5	2	3	map,open-data,community	A free map of the world built by volunteers.
+https://www.openrailwaymap.org/	OpenRailwayMap	world	3	3	1	4	railways,map,infrastructure	A world map of railway infrastructure, down to speed limits and signalling.
+https://www.solarsystemscope.com/	Solar System Scope	world	1	3	1	3	planets,3d,space	A 3D model of the solar system and the night sky.
+https://mapoftheuniverse.net/	The Map of the Universe	world	2	2	1	2	galaxies,map,scroll	A scrolling map of real galaxies, from the Milky Way to the edge of what can be seen.
+https://explorabl.es/	Explorable Explanations	tools	2	4	1	4	explainers,directory,interactive	A directory of interactive explanations of how things work.
+https://www.desmos.com/calculator	Desmos	tools	1	5	1	3	graphing,math,calculator	A free graphing calculator that plots equations as you type.
+https://demonstrations.wolfram.com/	Wolfram Demonstrations	world	2	4	2	4	math,science,interactive	Thousands of small interactive notebooks on mathematics and science.
+https://www.piskelapp.com/	Piskel	tools	1	4	2	3	pixel-art,sprites,editor	A free browser editor for animated sprites and pixel art.
+https://www.tldraw.com/	tldraw	tools	1	5	1	2	whiteboard,canvas,collaboration	A free collaborative whiteboard with no sign-up needed.
+https://asciiflow.com/	ASCIIFlow	tools	2	4	3	2	ascii,diagrams,text	Draw boxes and arrows in plain text characters, right in the browser.
+https://caniuse.com/	Can I Use	tools	1	5	1	1	browsers,developer,reference	Browser support tables for front-end web features.
+https://jakearchibald.github.io/svgomg/	SVGOMG	tools	1	5	1	1	svg,optimization,developer	A visual interface for shrinking SVG files.
+https://tiny-helpers.dev/	Tiny Helpers	tools	1	4	1	3	directory,developer,utilities	A collection of free single-purpose online tools for web developers.
+https://coolors.co/	Coolors	tools	1	5	1	2	colour,palette,design	Press the space bar to generate colour palettes.
+https://fontjoy.com/	Fontjoy	tools	1	4	1	2	fonts,pairing,design	Generate font pairings in one click.
+https://threejs.org/examples/	three.js examples	art	2	4	1	4	3d,webgl,demos	A long list of working 3D demos built with the three.js library.
+https://js1k.com/	JS1k	art	4	2	3	4	javascript,code-golf,competition	A JavaScript competition where every entry had to fit in one kilobyte.
+https://www.mamedev.org/	MAME	retro	2	4	5	3	arcade,emulation,preservation	The project that preserves decades of arcade machines through emulation.
+https://hiddenpalace.org/	Hidden Palace	retro	3	2	5	5	prototypes,games,preservation	A community archive of unreleased video game prototypes and development material.
+https://quickdraw.withgoogle.com/data	Quick, Draw! The Data	world	3	2	1	3	doodles,data,visualization	Browse millions of doodles drawn by people playing Quick, Draw!
+https://artsandculture.google.com/	Google Arts & Culture	art	1	3	1	5	museums,art,collections	Art collections and exhibits from museums around the world.
+https://artvee.com/	Artvee	art	1	4	2	4	public-domain,paintings,posters	Browse and download high-resolution classic art.
+https://www.davidrumsey.com/	David Rumsey Map Collection	archives	2	4	5	5	maps,history,collection	A vast historical map collection you can zoom into.
+https://skribbl.io/	skribbl.io	games	2	1	2	4	multiplayer,drawing,guessing	Draw a word while other players race to guess it.
+https://lichess.org/	lichess	games	1	4	1	5	chess,open-source,free	A free online chess server with no ads and no registration required.
+https://www.fallenlondon.com/	Fallen London	games	4	1	2	5	text,gothic,story	A gothic browser game set in a London stolen by bats, forty years ago.
+https://notpron.com/notpron/	Notpron	mysteries	4	1	5	5	riddle,puzzle,hard	David Münnich's online riddle, billed as the hardest on the Internet.
+https://www.cipherchallenge.org/	National Cipher Challenge	mysteries	2	3	1	5	cryptography,puzzle,competition	A University of Southampton competition built around a serial mathematical mystery with coded messages.
+https://wikiroulette.co/	WikiRoulette	mysteries	3	2	1	5	wikipedia,random,reading	Random Wikipedia pages, one after another.
+https://www.infiniteconversation.com/	The Infinite Conversation	weird	5	1	1	3	ai,generated,endless	An AI-generated discussion between Werner Herzog and Slavoj Žižek that never ends. Neither man is really speaking.
+https://listen.hatnote.com/	Listen to Wikipedia	art	3	1	1	3	wikipedia,sound,live	Wikipedia edits, heard as bells and strings as they happen.
+https://pudding.cool/2018/12/3d-cities-story/	Population Mountains	world	2	2	1	2	cities,population,3d	City populations drawn as 3D landscapes.
+https://onemillioncheckboxes.com/	One Million Checkboxes	weird	4	1	1	2	checkboxes,collective,experiment	A web experiment by eieio where strangers shared a million checkboxes. They checked every box.
+https://robohash.org/	RoboHash	tools	2	3	2	1	avatars,robots,generator	Type any text and get a unique robot image for it.
+https://thenicestplace.net/	The Nicest Place on the Internet	weird	2	1	3	2	wholesome,video,hugs	A page full of people offering you a hug.
+https://poolsuite.net/	Poolsuite	art	3	1	5	4	radio,1990s,fake-os	Summer internet radio inside a playful retro desktop.
+https://kittensgame.com/web/	Kittens Game	games	3	1	2	5	incremental,text,kittens	A text-based incremental game about building a civilisation of kittens.
+https://minesweeperonline.com/	Minesweeper Online	games	1	1	5	4	minesweeper,classic,leaderboards	Classic Minesweeper in the browser, with daily leaderboards.
+https://pairdrop.net/	PairDrop	tools	1	5	1	1	file-sharing,peer-to-peer,open-source	Send files between nearby devices from the browser with no setup.
+https://haveibeenpwned.com/	Have I Been Pwned	tools	1	5	1	1	security,breaches,email	Check whether your email address has appeared in a data breach.
+https://www.wolframalpha.com/	WolframAlpha	tools	2	5	1	4	computation,math,answers	Type a question and get a computed answer instead of a list of links.
+https://mynoise.net/	myNoise	tools	1	4	1	3	soundscapes,focus,sleep	Adjustable soundscapes and noise generators for focus and sleep.
+https://knowyourmeme.com/	Know Your Meme	archives	2	3	4	5	memes,database,internet-culture	A database documenting Internet memes and where they came from.
+https://neocities.org/	Neocities	archives	3	3	5	5	personal-sites,hosting,small-web	Free hosting for handmade personal websites, plus a directory for browsing them.
+https://killedbygoogle.com/	Killed by Google	archives	3	2	4	3	graveyard,google,products	A graveyard of every product Google has shut down.
+https://csszengarden.com/	CSS Zen Garden	archives	2	3	5	2	css,design,history	One HTML page restyled by many designers, to show what CSS could do.
+https://www.xanadu.com/	Project Xanadu	archives	4	1	5	3	hypertext,history,ted-nelson	The site of the original hypertext project, founded in 1960.
+https://editor.p5js.org/	p5.js Web Editor	art	1	4	1	4	creative-coding,javascript,editor	Write and run p5.js sketches in the browser.
+https://experiments.withgoogle.com/	Experiments with Google	art	2	2	2	5	experiments,collection,ai	Over a thousand creative experiments collected since 2009.
+https://sonic-pi.net/	Sonic Pi	art	2	4	1	4	live-coding,music,download	A free tool for making music by writing code.
+https://natureofcode.com/	The Nature of Code	art	1	4	1	5	book,simulation,javascript	A free online book on simulating natural systems with code.
+https://generativeartistry.com/	Generative Artistry	art	1	3	1	3	tutorials,generative,podcast	Interactive tutorials on making art with code.
+https://computerhistory.org/	Computer History Museum	retro	1	3	5	4	museum,history,computers	The website of the Computer History Museum.
+https://www.computinghistory.org.uk/	Centre for Computing History	retro	1	3	5	4	museum,cambridge,computers	A computer and video game museum based in Cambridge, UK.
+https://guidebookgallery.org/	GUIdebook	retro	2	3	5	4	gui,screenshots,history	A gallery preserving graphical user interfaces, from the screenshots to the sounds.
+https://theretroweb.com/	The Retro Web	retro	2	4	5	4	motherboards,bios,hardware	A database of motherboards, chips, BIOS images and manuals.
+https://www.retroarch.com/	RetroArch	retro	1	4	4	4	emulation,frontend,games	A frontend for emulators, game engines and media players.
+https://js-dos.com/	js-dos	retro	2	3	4	2	emulation,dos,javascript	A simple way to run DOS and Windows 9x programs in the browser.
+https://vamigaweb.github.io/	vAmigaWeb	retro	3	2	5	3	emulation,amiga,browser	A cycle-exact Amiga emulator that runs in the browser.
+https://www.lexaloffle.com/pico-8.php	PICO-8	retro	3	2	4	5	fantasy-console,games,emulation	A fantasy console for making, sharing and playing tiny games.
+https://www.zooniverse.org/	Zooniverse	world	2	4	1	5	citizen-science,research,volunteers	People-powered research: help real projects by classifying data.
+https://eternagame.org/	Eterna	world	3	4	1	5	rna,citizen-science,puzzle	Solve puzzles to design RNA molecules and advance research.
+https://mathworld.wolfram.com/	MathWorld	world	1	5	3	5	mathematics,encyclopedia,reference	An extensive online encyclopedia of mathematics.
+https://ptable.com/	Ptable	world	1	5	2	2	chemistry,periodic-table,reference	An interactive periodic table with orbitals, isotopes and compounds.
+https://www.inaturalist.org/	iNaturalist	world	1	4	1	4	nature,citizen-science,identification	Record the plants and animals you find and help map life on Earth.
+https://setosa.io/ev/	Explained Visually	world	1	4	1	3	explainers,math,interactive	An experiment in making hard ideas intuitive with interactive graphics.
+https://www.ventusky.com/	Ventusky	world	1	4	1	3	weather,map,forecast	Live wind, rain and temperature maps with dozens of weather layers.
+https://informationisbeautiful.net/	Information is Beautiful	world	1	3	2	4	infographics,data,visualization	Data and information distilled into infographics.
+https://ourworldindata.org/	Our World in Data	world	1	5	1	5	data,research,charts	Research and charts about the world's largest problems.
+https://www.gapminder.org/tools/	Gapminder Tools	world	1	4	1	3	bubbles,data,visualization	Animated bubble charts of income and life expectancy across countries and years.
+https://www.falstad.com/circuit/	Circuit Simulator	world	2	5	3	4	electronics,simulation,applet	An electronic circuit simulator with animated current flow.
+https://www.thetruesize.com/	The True Size Of	world	3	3	1	2	maps,mercator,countries	Drag countries around a map to compare their real size.
+https://histography.io/	Histography	world	3	2	1	3	timeline,history,wikipedia	A timeline of history where every dot is an event from Wikipedia.
+https://www.cabinetmagazine.org/	Cabinet	mysteries	4	2	3	5	magazine,art,culture	A magazine of art and culture, with a searchable archive of past issues.
+https://www.futilitycloset.com/	Futility Closet	mysteries	3	2	4	5	curiosities,history,podcast	An idler's miscellany of compendious amusements.
+https://www.oldbookillustrations.com/	Old Book Illustrations	archives	2	4	4	4	engravings,public-domain,images	Restored public domain images scanned from old books.
+https://www.gutenberg.org/	Project Gutenberg	archives	1	5	4	5	ebooks,public-domain,library	A library of free eBooks whose US copyright has expired.
+https://kagi.com/smallweb	Kagi Small Web	mysteries	3	3	2	5	small-web,random,blogs	Discover personal blogs and independent sites, one random post at a time.
+https://ubu.com/	UbuWeb	mysteries	4	2	4	5	avant-garde,archive,film	An archive of avant-garde film, sound and writing, founded in 1996.
+https://www.openculture.com/	Open Culture	mysteries	2	4	2	5	free-culture,courses,films	A guide to free cultural and educational media.
+http://catb.org/jargon/	The Jargon File	archives	3	3	5	4	hacker-slang,dictionary,history	The classic dictionary of hacker slang.
+http://www.atlasoftheuniverse.com/	An Atlas of The Universe	world	2	3	4	3	maps,stars,galaxies	Maps zooming out from the nearest stars to the whole visible universe.
+http://hint.fm/wind/	Wind Map	world	2	2	2	2	wind,usa,visualization	Live wind patterns over the United States, drawn as moving lines.
+
+https://neal.fun/spend/	Spend Bill Gates' Money	games	3	1	2	2	money,simulation,neal-fun	Spend 100 billion dollars of someone else's money, one absurd purchase at a time.
+https://neal.fun/password-game/	The Password Game	games	4	1	2	3	puzzle,absurd,neal-fun	A game that tests your password strength, your patience and your will to live.
+https://neal.fun/absurd-trolley-problems/	Absurd Trolley Problems	games	4	1	1	2	ethics,absurd,neal-fun	Increasingly absurd trolley problems. Help humanity solve philosophy.
+https://neal.fun/infinite-craft/	Infinite Craft	games	3	1	1	5	crafting,endless,neal-fun	Start with Water, Fire, Wind and Earth and combine them into nearly anything.
+https://neal.fun/perfect-circle/	Draw a Perfect Circle	games	3	1	1	2	drawing,challenge,neal-fun	Draw a circle freehand and see how close to perfect you get.
+https://neal.fun/asteroid-launcher/	Asteroid Launcher	world	3	2	1	2	simulation,space,neal-fun	Design an asteroid, launch it at Earth and simulate the effects of the impact.
+https://neal.fun/size-of-space/	The Size of Space	world	2	3	1	2	scale,space,neal-fun	Compare the Earth, the Sun, black holes and the Milky Way at true scale.
+https://neal.fun/deep-sea/	The Deep Sea	world	3	3	1	2	ocean,scroll,neal-fun	Scroll down through the ocean to the Mariana Trench and meet what lives there.
+https://neal.fun/space-elevator/	Space Elevator	world	3	2	1	2	atmosphere,scroll,neal-fun	Ride the world's only space elevator up through the atmosphere.
+https://neal.fun/internet-artifacts/	Internet Artifacts	archives	2	2	5	3	history,museum,neal-fun	An interactive museum of objects from the history of the Internet.
+https://neal.fun/earth-reviews/	Earth Reviews	weird	4	1	1	2	reviews,humor,neal-fun	A review site for Earth itself. Review things on Earth to help improve the simulation.
+https://neal.fun/sandboxels/	Sandboxels	games	3	1	2	5	falling-sand,simulation,neal-fun	A falling-sand simulator with over 500 materials, heat and chemical reactions.
+https://neal.fun/life-stats/	Life Stats	world	2	2	1	2	statistics,lifetime,neal-fun	Find out what has happened in your lifetime, down to how many times you have blinked.
+https://neal.fun/auction-game/	The Auction Game	games	2	1	1	2	art,prices,neal-fun	Guess the prices of paintings sold at auction.
+https://neal.fun/ambient-chaos/	Ambient Chaos	weird	4	2	1	2	sound,ambient,neal-fun	An ambient sound maker that goes too far: rain mixed with construction and arguing couples.
+https://neal.fun/progress/	Progress	world	3	1	1	2	progress-bars,time,neal-fun	The world as progress bars, from the next minute to the death of the universe.
+https://neal.fun/wonders-of-street-view/	Wonders of Street View	weird	4	1	1	3	street-view,oddities,neal-fun	The weird and wonderful things caught on Google Street View.
+https://www.atlasobscura.com/	Atlas Obscura	mysteries	4	4	2	5	places,travel,curiosities	A guide to curious and wondrous places around the world.
+https://tvtropes.org/	TV Tropes	mysteries	3	3	3	5	tropes,wiki,fiction	The all-devouring pop-culture wiki. Open one trope and lose the afternoon.
+https://web.archive.org/	Wayback Machine	archives	2	5	5	5	archive,preservation,old-web	More than a trillion web pages saved over time.
+https://orteil.dashnet.org/cookieclicker/	Cookie Clicker	games	4	1	4	5	incremental,clicker,classic	The game where you click a cookie, and then things get out of hand.
+https://www.lingscars.com/	LING's Cars	weird	4	1	4	2	car-leasing,maximalism,classic	A real UK car leasing site, long famous for its design.
+https://www.webdesignmuseum.org/	Web Design Museum	archives	2	3	5	4	screenshots,flash,history	Thousands of screenshots and videos of websites and software from the 1990s to the late 2000s.
+https://chance.toys/	Lucky Nickel	games	3	1	2	3	keyboard,casebook,toms-toys	A small keyboard-driven game with a casebook to fill.
+https://sliding.toys/mystic-square/8-puzzle/daily	Daily 8 Puzzle	games	1	1	4	2	sliding,daily,puzzle	A daily sliding tile puzzle.
+https://maze.toys/mazes/mini/daily	Maze Toys Daily Mini	games	1	1	2	2	maze,daily,puzzle	A small daily maze to keep a streak going.
+https://optical.toys/	Optical Toys	world	4	3	1	3	illusions,perception,explainers	Optical illusions and brain-bending toys, each one explained.
+https://paint.toys/zen-garden	Zen Garden	art	2	1	1	2	calm,sand,paint-toys	Drag to rake patterns in the sand.
+https://paint.toys/kintsugi	Kintsugi	art	3	1	1	2	ceramics,repair,paint-toys	Draw a line across a bowl to break it, then mend it with gold.
+https://puginarug.com/	The Pug in a Rug	weird	5	1	2	1	pug,meme,single-purpose	A rippling pug. A counter records how long you have been honouring it.
+https://memory.toys/classic/easy	Memory Toys Classic	games	1	1	3	2	memory,cards,puzzle	Flip cards, find the pairs. The classic memory game.
+https://alwaysjudgeabookbyitscover.com/	Always Judge a Book by Its Cover	art	3	2	2	2	books,covers,gallery	A gallery that recommends books only because they have great covers.
+https://clicking.toys/peg-solitaire/english	English Peg Solitaire	games	1	1	4	2	peg-solitaire,puzzle,classic	Jump pegs until, ideally, only one remains.
+https://weirdorconfusing.com/	Weird or Confusing	weird	4	1	2	4	products,oddities,random	Oddities, pranks and a few things that make no sense, from real online shops.
+https://checkbox.toys/scale	Checkbox Olympics	games	4	1	1	2	checkboxes,reflex,sport	Sport events played entirely with checkboxes.
+https://binarypiano.com/	Binary Piano	art	4	1	1	2	binary,music,experiment	A music player that plays numbers counting up in binary.
+https://musical.toys/toys/snapegiator	Snapegiator	games	3	1	2	2	music,snake,musical-toys	Snake, but the snake composes as it moves.
+https://mondrianandme.com/	Mondrian and Me	art	3	1	1	2	painting,useless-web,toy	Make your own Mondrian. A Useless Web project.
+https://cruel.toys/maze	Cruel Maze	games	3	1	1	2	maze,fog,cruel	Escape the maze through the fog, if you can.
+https://onesquareminesweeper.com/	One Square Minesweeper	weird	5	1	4	1	minesweeper,useless-web,joke	Minesweeper on a board of exactly one square.
+https://cursoreffects.com/	90's Cursor Effects	art	3	2	5	2	cursor,1990s,javascript	Click to cycle through the cursor trails of the old web, ready to add to your site.
+https://floatingqrcode.com/	The Floating QR Code	weird	4	1	1	1	qr-code,useless-web,joke	A QR code that floats away. A Useless Web project.
+https://thatsthefinger.com/	That's the Finger	weird	4	1	3	1	cursor,joke,useless-web	A giant pixel hand. Deal with it.
+https://paint.toys/sand	Sand in a Bottle	art	2	1	2	2	sand,paint-toys,calm	Pour coloured sand into a bottle.
+https://ant.toys/	ant toys	games	4	1	1	2	tiny,games,joke	Ludicrously tiny playable games. What is this, a website for ants?
+https://thevintageweb.com/	The Vintage Web	archives	3	1	5	4	random,old-web,button	Press a button and land on a vintage website.
+https://toms.toys/	Toms Toys	games	2	1	1	4	directory,daily,puzzles	A cosy corner of the Internet for bite-sized daily puzzles.
+https://burymewithmymoney.com/	Bury Me With My Money	weird	5	1	4	1	gold,sound,classic	Touch anywhere and the money rains down.
+https://smashthewalls.com/	Smash the Walls	weird	3	1	2	1	mike-bodge,click,toy	A Mike Bodge page: click and smash through wall after wall.
+https://jacksonpollock.org/	Jackson Pollock by Miltos	art	3	1	5	2	painting,mouse,classic	Move your mouse and paint like Jackson Pollock on a blank page.
+https://duckstreet.net/	duckstreet	games	4	1	1	4	idle,ducks,clicker	An idle duck-collecting game. Click ducks.
+https://drawing.garden/	drawing.garden	art	3	1	1	2	plants,drawing,garden	Draw with your cursor and plants grow along the line.
+https://paint.toys/symmetry	Symmetry Painter	art	2	1	1	2	symmetry,paint-toys,mandala	Paint with strokes mirrored in radial symmetry.
+https://musical.toys/toys/tetrachord	Tetrachord	games	3	1	3	2	tetris,music,musical-toys	Tetris, but the blocks play music.
+https://rotatingsandwiches.com/	Rotating Sandwiches	weird	5	1	2	1	sandwiches,loop,single-purpose	Sandwiches, rotating. That is it.
+https://wordski.run/	Wordski	games	3	1	1	2	words,ski,daily	Spell words diagonally down a ski slope.
+https://paint.toys/	Paint Toys	art	2	1	1	3	directory,painting,canvas	A small playground of creative canvases.
+https://chrismckenzie.com/	Chris McKenzie	art	4	1	1	1	3d,portfolio,experiment	A personal site that is one strange rotating object.
+https://thezen.zone/	The Zen Zone	tools	2	3	1	2	meditation,calm,minimal	A minimalistic meditation area with soothing activities.
+https://ihasabucket.com/	I Has a Bucket	weird	4	1	5	1	meme,lolcats,walrus	The walrus and the bucket, immortalised on one page.
+https://corndogoncorndog.com/	Corn Dog on Corn Dog	weird	5	1	2	1	food,loop,joke	A plate. Corn dogs on it. On corn dogs.
+https://optical.toys/flashed-face-distortion	Flashed Face Distortion	world	4	2	1	1	illusion,perception,faces	Faces flashed side by side warp into monsters when you stare at the centre.
+https://imaninja.com/	I'm a Ninja	weird	4	1	4	1	flash-era,ninja,joke	You are looking at a website that says it is a ninja.
+https://paint.toys/calligram	Calligram Creator	art	2	1	1	2	text,painting,paint-toys	Paint with words instead of colours.
+https://nullingthevoid.com/	Nulling the Void	weird	4	1	1	1	void,cursor,experiment	Drifting shapes in a black page that respond to you.
+https://muchbetterthanthis.com/	Much Better Than This	art	3	1	2	1	net-art,rafael-rozendaal,loop	A web artwork of two silhouettes by Rafaël Rozendaal.
+https://clicking.toys/flip-grid/neat-nine/3-holes	Neat Nine Flip Grid	games	1	1	1	2	lights-out,grid,puzzle	Flip tiles in a grid until they all light up.
+https://musical.toys/toys/polyrhythm	Polyrhythm	art	2	2	1	2	rhythm,music,visual	Shapes that show how overlapping rhythms line up.
+https://potatoortomato.com/	Potato or Tomato	weird	4	1	1	1	words,pronunciation,joke	A very serious quiz about two vegetables.
+https://iamawesome.com/	I Am Awesome	weird	4	1	3	1	joke,minimal,single-purpose	A page that tells you something and insists it is true.
+https://crouton.net/	crouton.net	weird	5	1	5	1	crouton,old-web,single-purpose	A single crouton on an otherwise empty web page.
+https://unicodesnowmanforyou.com/	Unicode Snowman for You	weird	4	1	3	1	unicode,snowman,single-purpose	A gigantic Unicode snowman, just for you.
+https://memory.toys/maze/easy	Memory Maze	games	2	1	1	2	memory,maze,puzzle	See the path, then walk it from memory.
+https://boringboringboring.com/	Infinite Abyss	weird	4	1	1	1	text,scroll,boring	The word BORING, and it goes on.
+https://existentialcrisis.com/	Existential Crisis	weird	4	1	1	1	void,minimal,mood	A dark page for exactly what the name says.
+https://oct82.com/	There Is Nothing Here	art	4	1	1	1	experiment,feet,minimal	A site that claims nothing is here. Something is.
+https://blankwindows.com/	Blank Windows	art	3	1	2	1	net-art,windows,rafael-rozendaal	A family collection web artwork of overlapping white windows.
+https://trashloop.com/	Trash Loop	art	4	1	2	1	net-art,loop,bin	A web artwork in which a bin waits in an empty corridor.
+https://wigglyme.com/	Wiggly Me	weird	3	1	1	1	worm,toy,physics	A wiggling line you can stretch. Reset when emotionally necessary.
+https://doublepressure.com/	Double Pressure	art	3	1	2	1	net-art,rafael-rozendaal,shapes	A web artwork by Rafaël Rozendaal of grey volumes pressing on each other.
+https://optical.toys/thatcher-effect	Thatcher Effect	world	4	2	1	1	illusion,faces,perception	An upside-down face looks normal until you turn it the right way up.
+https://musical.toys/	Musical Toys	art	2	1	1	3	directory,music,experiments	A collection of small sound and music experiments.
+https://notdayoftheweek.com/	Not Day of the Week	weird	4	1	1	1	calendar,single-purpose,joke	A page that tells you which day it is not.
+https://number.toys/	Number Toys	games	1	1	2	3	sudoku,kenken,daily	Daily Sudoku and KenKen.
+https://card.toys/klondike	Klondike	games	1	1	4	3	solitaire,cards,classic	Classic Klondike solitaire in the browser.
+https://greatbignothing.com/	Great Big Nothing	weird	3	1	1	1	clouds,sky,calm	Clouds drifting across a blue sky. Nothing else happens.
+https://cruel.toys/hunt	Cruel Hunt	games	2	1	1	2	word-search,daily,cruel	A daily word hunt. Find the hidden word, if you can.
+https://optical.toys/troxler-fade	Troxler Fade	world	4	2	1	1	illusion,perception,focus	Stare at the dot and the ring around it disappears.
+https://dadlaughbutton.com/	Dad Laugh Button	weird	4	1	2	1	button,sound,counter	Press a button to add a laugh to a global count.
+https://loopedforinfinity.com/	Looped for Infinity	art	4	1	1	1	loop,hypnotic,experiment	An endless loop of objects turning in the dark.
+https://optical.toys/spinning-point-silhouette	Spinning Point Silhouette	world	4	2	1	1	illusion,dots,perception	Random dots that become a shape only when they move.
+https://ripefordebate.com/	Ripe for Debate	games	4	1	1	1	bananas,quiz,opinion	Hundreds of thousands of players have found their perfect banana. Will you?
+https://bouncingdvdlogo.com/	Bouncing DVD Logo	retro	3	1	5	2	screensaver,dvd,waiting	The DVD logo bounces around. Will it hit the corner?
+https://toybox.toms.toys/	Toms Toybox	games	2	1	1	4	directory,toys,browser	An index of one person's whole family of browser toy sites.
+https://memory.toys/monkey-challenge/easy	Monkey Challenge	games	3	2	1	2	memory,numbers,chimp	Remember the order of numbers before they vanish.
+https://color.toys/	Color Toys	games	2	1	1	3	colour,daily,puzzle	Daily colour-mixing puzzles.
+https://ocd.toys/	OCD Toys	games	3	1	1	3	tidying,daily,house	A house where one thing in every room is wrong.
+https://doughnutkitten.com/	Doughnut Kitten	weird	5	1	2	1	cat,doughnut,art	A kitten, a doughnut and a sparkling rainbow by Tania Hennessy.
+https://dice.toys/toy/greedy-pig	Greedy Pig	games	2	1	2	2	dice,push-your-luck,toy	A push-your-luck dice game.
+https://wowenwilsonquiz.com/	The Wow'en Wilson Quiz	games	5	1	2	1	movies,sound,quiz	Hear an Owen Wilson "wow" and guess the film.
+https://poetic.toys/poems/river-of-reverence	River of Reverence	art	2	1	1	2	poem,sestina,interactive	Compose a sestina, line by line.
+https://chriswijnia.com/lab/emoji	1 Million Emojis	art	4	1	1	2	emoji,canvas,experiment	A vast shared canvas of a million emojis.
+https://theoatmeal.com/	The Oatmeal	mysteries	3	2	4	5	comics,humor,long-running	Comics, quizzes and rants by Matthew Inman.
+https://xkcd.com/	xkcd	mysteries	3	3	4	5	webcomic,science,long-running	A webcomic of romance, sarcasm, math and language.
+https://what-if.xkcd.com/	What If?	mysteries	3	3	3	5	science,absurd,xkcd	Serious answers to absurd scientific questions.
+https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars	Wikipedia: Lamest Edit Wars	mysteries	5	1	2	4	wikipedia,arguments,humor	Editors' own record of the pettiest arguments in Wikipedia's history.
+https://en.wikipedia.org/wiki/List_of_common_misconceptions	List of Common Misconceptions	mysteries	2	4	1	5	wikipedia,facts,list	Things almost everyone believes that are simply wrong.
+https://en.wikipedia.org/wiki/List_of_lists_of_lists	List of Lists of Lists	mysteries	5	1	2	5	wikipedia,list,recursive	Exactly what it sounds like.
+https://gwern.net/	Gwern.net	mysteries	4	3	2	5	essays,research,long-form	Long, obsessively footnoted essays on AI, psychology and statistics.
+https://slatestarcodex.com/	Slate Star Codex	mysteries	2	3	3	5	essays,rationality,archive	An archive of long essays on science, medicine and ideas.
+https://longform.org/	Longform	mysteries	1	3	3	5	journalism,archive,podcast	The archive of a long-running recommender of long reads, and its podcast.
+https://www.thisiscolossal.com/	Colossal	art	2	2	1	5	art,craft,visual-culture	The best of art, craft and visual culture.
+https://www.messynessychic.com/	Messy Nessy Chic	mysteries	4	2	3	5	curiosities,history,lists	Weekly lists of things found on the Internet, from the strange to the forgotten.
+https://publicdomainmovies.info/	Public Domain Movies	archives	2	2	5	5	films,classic,public-domain	Classic films in the public domain.
+https://www.loc.gov/free-to-use/	Library of Congress Free to Use	archives	1	4	4	4	photos,public-domain,library	Sets of free images on oddly specific themes, from the Library of Congress.
+https://images.nasa.gov/	NASA Image and Video Library	world	1	4	2	4	space,photos,video	Search NASA's images and videos.
+https://www.spaceweather.com/	SpaceWeather.com	world	3	4	5	2	sun,aurora,old-web	Daily news on solar wind, sunspots and asteroids, in a gloriously dense layout.
+https://www.fourmilab.ch/	Fourmilab	mysteries	3	3	5	5	science,old-web,john-walker	John Walker's huge personal site of science, software and essays.
+https://www.fourmilab.ch/cgi-bin/Earth	Earth and Moon Viewer	world	3	3	5	3	earth,satellite,cgi	View Earth from the Sun, the Moon or any satellite, right now.
+https://www.fourmilab.ch/hotbits/	HotBits	world	5	2	4	1	random,radioactive,physics	Genuine random numbers generated by radioactive decay.
+https://www.random.org/	RANDOM.ORG	tools	2	5	3	2	random,atmospheric-noise,tools	True random numbers generated from atmospheric noise.
+https://www.fileformat.info/	FileFormat.Info	tools	2	4	4	4	formats,unicode,reference	The Digital Rosetta Stone: file formats and Unicode tables.
+https://www.asciitable.com/	ASCII Table	tools	1	4	4	1	ascii,reference,developer	The ASCII character codes, on one page.
+https://symbl.cc/	SYMBL	tools	2	4	1	3	unicode,symbols,emoji	Every Unicode symbol, with one-click copy.
+https://shapecatcher.com/	Shapecatcher	tools	3	4	2	2	unicode,drawing,search	Draw a character and it finds the Unicode symbol.
+https://pixelcrash.xyz/	pixelCrash	art	3	2	1	3	pixels,camera,effects	A browser tool that turns images and video into layers of crunchy pixels.
+https://jspaint.app/	JS Paint	retro	3	3	5	3	ms-paint,browser,remake	Windows MS Paint remade for the browser, down to the extras.
+https://98.js.org/	98.js	retro	4	1	5	4	windows-98,fake-os,browser	Windows 98 recreated on the web.
+https://jdan.github.io/98.css/	98.css	retro	3	4	5	2	css,windows-98,design-system	A design system for building faithful recreations of old interfaces.
+https://botoxparty.github.io/XP.css/	XP.css	retro	3	4	5	2	css,windows-xp,design-system	Windows XP interface styling as a CSS library.
+https://www.dosgames.com/	DOSGames.com	retro	2	2	5	4	dos,shareware,games	Free DOS games, playable or downloadable.
+https://www.classicdosgames.com/	RGB Classic Games	retro	2	2	5	4	dos,shareware,archive	Keeping classic freeware and shareware DOS games alive.
+https://www.pcjs.org/software/	PCjs Software	retro	2	3	5	4	software,ibm-pc,emulation	Vintage PC software you can run in the browser.
+https://www.telnetbbsguide.com/	Telnet BBS Guide	retro	4	2	5	4	bbs,telnet,community	A guide to bulletin board systems you can still dial into by Telnet.
+https://cs.brown.edu/memex/	Memex and Beyond	archives	3	2	5	3	hypertext,history,vannevar-bush	Brown University's site on Vannevar Bush's memex and early hypertext.
+https://www.w3.org/History/1989/proposal.html	Information Management: A Proposal	archives	2	2	5	2	tim-berners-lee,1989,origin	The 1989 document in which Tim Berners-Lee proposed what became the Web.
+https://www.w3.org/People/Berners-Lee/	Tim Berners-Lee	archives	1	2	5	2	biography,web,w3c	The W3C page of the inventor of the Web.
+https://www.internethalloffame.org/	Internet Hall of Fame	archives	1	2	4	2	history,people,awards	The people who brought the Internet to life.
+https://www.livinginternet.com/	The Living Internet	archives	2	2	5	3	history,reference,old-web	A vintage reference to how the Internet was made, kept online.
+https://www.zakon.org/robert/internet/timeline/	Hobbes' Internet Timeline	archives	2	3	5	3	timeline,history,rfc	A decade-by-decade timeline of the Internet, starting in the 1950s.
+https://www.yourworldoftext.com/	Your World of Text	weird	4	1	3	4	text,infinite,collaborative	An infinite shared grid of text that anyone can type on.
+https://humanbenchmark.com/	Human Benchmark	games	2	2	2	3	reaction,memory,tests	Measure your reaction time and memory in small tests.
+https://monkeytype.com/	Monkeytype	tools	1	4	1	4	typing,speed,minimal	A minimalist, customisable typing test.
+https://www.nonograms.org/	Nonograms.org	games	1	1	2	4	nonograms,puzzle,logic	Japanese crosswords in black and white and in colour.
+https://www.chiark.greenend.org.uk/~sgtatham/puzzles/	Simon Tatham's Puzzles	games	2	2	4	5	logic,puzzles,open-source	A long-running collection of small logic puzzles.
+https://www.puzzle-bridges.com/	Hashi Puzzles	games	1	1	1	3	hashi,puzzle,logic	Connect the islands with bridges.
+https://adventofcode.com/	Advent of Code	games	2	4	1	5	programming,puzzles,december	Programming puzzles released every December, with a long archive.
+https://cryptopals.com/	The Cryptopals Challenges	games	2	5	2	5	cryptography,programming,challenges	Break real cryptography, one exercise at a time.
+https://overthewire.org/wargames/	OverTheWire Wargames	games	3	5	3	5	security,linux,wargames	Learn security concepts by playing command-line wargames.
+https://www.nandgame.com/	NandGame	games	2	5	2	5	logic-gates,computer,puzzle	Build a computer from scratch, starting from a single gate.
+https://flexboxfroggy.com/	Flexbox Froggy	games	2	4	1	2	css,learning,frogs	Learn CSS by guiding frogs to their lily pads.
+https://cssgridgarden.com/	Grid Garden	games	2	4	1	2	css,learning,carrots	Learn CSS grid by watering carrots.
+https://mastermindgame.org/	Mastermind Game	games	1	1	4	2	mastermind,code,classic	Crack the colour code. The classic board game.
+https://www.drawastickman.com/	Draw a Stickman	games	3	1	3	3	drawing,adventure,flash-era	Draw your own hero and the story carries it along.
+https://www.kongregate.com/	Kongregate	games	2	1	5	5	flash-era,games,portal	A web games portal, 20 years old.
+https://www.addictinggames.com/	Addicting Games	games	1	1	5	5	flash-era,portal,free	A long-running portal of free online games.
+https://www.ferryhalim.com/orisinal/	Orisinal	games	3	1	5	4	flash-era,gentle,art	Morning Sunshine: Ferry Halim's gentle little Flash games.
+https://homestarrunner.com/	Homestar Runner	weird	4	1	5	5	cartoon,flash-era,strong-bad	The cartoon that defined the 2000s web, still updated.
+https://www.wikihow.com/	wikiHow	tools	3	4	3	4	how-to,illustrations,guides	How-to instructions with very particular illustrations.
+https://www.instructables.com/	Instructables	tools	2	4	2	5	diy,making,community	Step-by-step projects, made and shared by people.
+https://www.ifixit.com/	iFixit	tools	1	5	1	4	repair,guides,hardware	Free repair guides for every thing.
+https://www.commodore.ca/	Commodore.ca	retro	2	2	5	4	commodore,history,archive	Commodore computers: history, prototypes and manuals.
+https://www.c64-wiki.com/	C64-Wiki	retro	1	3	5	3	commodore-64,wiki,reference	A wiki dedicated to the Commodore 64.
+https://www.vintage-computer.com/	Vintage Computer Collection	retro	2	2	5	3	collection,machines,personal-site	Erik S. Klein's personal collection of vintage computers.
+https://www.arcade-museum.com/	Museum of the Game	retro	2	3	5	4	arcade,database,machines	A database of arcade and video game machines.
+https://www.vgmuseum.com/	The Video Game Museum	retro	2	2	5	4	screenshots,games,archive	Screenshots of more than 13,000 games, sorted by system.
+https://vgmaps.com/	VGMaps	retro	3	3	5	4	maps,games,atlas	The Video Game Atlas: full maps of game levels.
+https://spectrumcomputing.co.uk/	Spectrum Computing	retro	2	3	5	4	zx-spectrum,database,games	A database of ZX Spectrum games and software.
+https://worldofspectrum.org/	World of Spectrum	retro	2	3	5	4	zx-spectrum,archive,history	An archive for the Sinclair ZX Spectrum.
+https://www.msx.org/	MSX Resource Center	retro	2	2	5	3	msx,community,news	The news, forum and wiki of the MSX community.
+https://aminet.net/	Aminet	retro	3	3	5	4	amiga,software,archive	A software archive for the Amiga, still taking uploads.
+https://tasvideos.org/	TASVideos	retro	4	2	4	5	speedruns,tool-assisted,games	Tool-assisted game movies, for when human skills are just not enough.
+https://scene.org/	scene.org	retro	3	2	5	4	demoscene,archive,files	The international demoscene organization and its file archive.
+https://modarchive.org/	The Mod Archive	retro	3	2	5	5	tracker-music,modules,music	A huge collection of tracker music modules.
+https://hvsc.c64.org/	High Voltage SID Collection	retro	3	2	5	4	c64,chiptune,music	The Commodore 64 music collection.
+https://chiptune.app/	Chip Player JS	retro	3	3	5	4	chiptune,player,music	Play old game and tracker music in the browser.
+https://ubu.com/sound/	UbuWeb Sound	mysteries	5	1	3	5	avant-garde,audio,archive	An archive of sound art and experimental audio.
+https://ccmixter.org/	ccMixter	art	2	3	3	4	remix,creative-commons,music	A community of Creative Commons remixes.
+https://aporee.org/maps/	radio aporee	world	4	2	2	5	field-recording,map,sound	A global map of sounds, recorded where you click.
+https://www.radio-browser.info/	RadioBrowser	tools	2	4	2	3	radio,open-data,directory	A community-driven database of Internet radio stations.
+https://www.heywhatsthat.com/	HeyWhatsThat	world	3	3	3	3	mountains,horizon,maps	Pick a point and see what is visible from it.
+https://www.peakfinder.com/	PeakFinder	world	3	4	1	3	mountains,panorama,maps	Name every mountain on the horizon.
+https://earth.google.com/web/	Google Earth	world	1	4	3	5	globe,satellite,3d	The whole planet in 3D, in the browser.
+https://www.geonames.org/	GeoNames	tools	1	4	2	2	places,database,geography	A database of the world's place names.
+https://globe.adsbexchange.com/	ADS-B Exchange Globe	world	3	3	1	4	aircraft,live,tracking	Live aircraft on a map, including those other trackers leave out.
+https://openinframap.org/	Open Infrastructure Map	world	3	3	1	4	power,cables,infrastructure	The world's hidden infrastructure on one map, from power lines to pipelines.
+https://opentopomap.org/	OpenTopoMap	world	1	4	2	3	maps,topography,open-data	Topographic maps from open data.
+https://overpass-turbo.eu/	overpass turbo	tools	2	4	1	3	openstreetmap,query,data	Query OpenStreetMap, for example every bench in a city.
+https://zoom.earth/	Zoom Earth	world	1	4	1	3	satellite,hurricanes,live	Near real-time satellite weather and storm tracking.
+https://www.seismicportal.eu/	SeismicPortal	world	2	3	2	3	earthquakes,data,europe	Earthquakes around the world, from a European infrastructure.
+https://earthquake.usgs.gov/earthquakes/map/	Latest Earthquakes	world	1	4	1	3	earthquakes,live,usgs	The USGS map of recent earthquakes.
+https://sealevel.nasa.gov/	NASA Sea Level Change	world	1	4	1	3	climate,sea-level,data	NASA's portal on how the sea level is changing.
+https://voyager.jpl.nasa.gov/	Voyager	world	2	3	4	3	spacecraft,interstellar,nasa	The two spacecraft that left the solar system and are still talking to us.
+https://www.nasa.gov/spot-the-station	Spot the Station	world	2	4	1	1	iss,sky,alerts	Find out when the International Space Station passes overhead.
+https://www.n2yo.com/	N2YO	world	2	4	2	4	satellites,tracking,live	Real-time satellite tracking and predictions.
+https://satellitemap.space/	Satellite Map	world	3	3	1	3	starlink,satellites,live	A live map of Starlink and other constellations.
+https://stellarium.org/	Stellarium	world	1	4	2	4	planetarium,open-source,download	A free open-source planetarium for your computer.
+https://science.nasa.gov/exoplanets	Exoplanets	world	2	3	1	4	planets,nasa,catalog	NASA's guide to worlds beyond our solar system.
+https://exoplanetarchive.ipac.caltech.edu/	NASA Exoplanet Archive	world	1	3	1	4	data,exoplanets,science	The data behind thousands of confirmed planets.
+https://www.rcsb.org/	RCSB Protein Data Bank	world	2	4	1	4	proteins,3d,database	A database of the 3D structures of biological molecules.
+https://pdb101.rcsb.org/	PDB-101	world	2	4	1	4	molecules,art,learning	A molecule of the month, explained with beautiful images.
+https://www.ensembl.org/	Ensembl	world	1	4	1	3	genomes,data,science	Genome data and annotation.
+https://www.tolweb.org/tree/phylogeny.html	Tree of Life Web Project	world	2	3	4	4	biology,phylogeny,old-web	A collaborative map of the diversity of life.
+https://paleobiodb.org/	The Paleobiology Database	world	2	3	2	4	fossils,database,science	A record of life across deep time.
+https://www.wolframscience.com/	Wolfram Science	world	3	3	3	4	cellular-automata,book,online	A New Kind of Science, online in full.
+https://playgameoflife.com/	Play Game of Life	world	3	2	3	3	cellular-automata,conway,simulation	John Conway's Game of Life, ready to play.
+https://copy.sh/life/	Conway's Game of Life	art	3	2	3	4	cellular-automata,patterns,hashlife	A browser Life simulator with a big pattern library.
+https://www.mathsisfun.com/	Math is Fun	world	1	5	3	3	math,learning,friendly	Maths explained in plain language.
+https://www.geogebra.org/	GeoGebra	tools	1	5	1	3	math,geometry,learning	Free math tools for geometry, algebra and calculus.
+https://www.3blue1brown.com/	3Blue1Brown	world	2	5	1	5	math,animation,videos	Math explained through animation.
+https://betterexplained.com/	BetterExplained	world	1	4	3	3	math,intuition,articles	Math lessons that click.
+https://distill.pub/	Distill	world	2	4	1	4	machine-learning,interactive,journal	A journal of clear, interactive machine learning articles.
+https://playground.tensorflow.org/	Neural Network Playground	world	2	4	1	3	neural-network,interactive,learning	Tinker with a neural network in your browser. You can't break it.
+https://poloclub.github.io/cnn-explainer/	CNN Explainer	world	2	4	1	3	neural-network,visualization,learning	See how a convolutional neural network sees.
+https://tylervigen.com/spurious-correlations	Spurious Correlations	weird	5	2	2	3	data,charts,humor	Charts that prove things like the wrong link between unrelated numbers.
+https://www.weather.gov/	National Weather Service	tools	1	4	2	1	weather,usa,forecast	The official US weather service.
+https://boingboing.net/	Boing Boing	mysteries	3	2	5	5	blog,culture,long-running	A directory of mostly wonderful things.
+https://kottke.org/	kottke.org	mysteries	2	3	5	5	blog,links,long-running	Home of fine hypertext products since 1998.
+https://waxy.org/	Waxy.org	mysteries	2	3	4	4	blog,internet-culture,links	Andy Baio's long-running site about Internet culture.
+https://thebrowser.com/	The Browser	mysteries	1	3	1	4	newsletter,writing,curation	A daily selection of the best writing on the Internet.
+https://thepublicdomain.org/	The Public Domain	archives	1	3	2	3	copyright,book,james-boyle	James Boyle's work on copyright and the commons.
+https://wiki.archiveteam.org/	Archiveteam	archives	4	3	5	5	preservation,rogue-archivists,wiki	Rogue archivists saving websites before they vanish.
+https://www.bl.uk/	The British Library	archives	1	3	3	4	library,collections,uk	The national library of the United Kingdom.
+https://www.retronews.fr/	RetroNews	archives	2	3	4	4	newspapers,france,archives	French press archives from the BnF.
+https://www.ina.fr/	INA	archives	2	3	5	5	television,radio,france	The French audiovisual archive.
+https://mapwarper.net/	Map Warper	archives	2	3	2	3	maps,georeferencing,old-maps	Stretch old maps onto modern geography.
+https://www.historypin.org/	Historypin	archives	2	2	3	3	community,photos,stories	A community archive of stories and photos pinned to places.
+https://bash-org-archive.com/	Bash.org Archive	archives	4	1	5	4	irc,quotes,internet-culture	An archive of the old IRC quote database.
+https://www.snopes.com/	Snopes	mysteries	2	4	4	4	fact-checking,rumors,long-running	The long-running fact-checking site, home of urban legends.
+https://sacred-texts.com/	Internet Sacred Text Archive	archives	3	3	5	5	religion,folklore,old-web	A vast archive of religious and folklore texts.
+https://www.fadedpage.com/	Faded Page	archives	1	4	3	4	ebooks,canada,public-domain	Free eBooks forever.
+https://standardebooks.org/	Standard Ebooks	archives	1	5	2	4	ebooks,typography,public-domain	Free and liberated eBooks, carefully produced for the true book lover.
+https://librivox.org/	LibriVox	archives	2	4	3	5	audiobooks,volunteers,public-domain	Free public domain audiobooks read by volunteers.
+https://www.urbandictionary.com/	Urban Dictionary	mysteries	4	2	4	4	slang,crowd-sourced,words	The dictionary of slang, by whoever turned up. Adult language.
+https://www.wordnik.com/	Wordnik	tools	2	4	2	3	dictionary,words,non-profit	All the words.
+https://www.onelook.com/	OneLook	tools	1	5	3	2	dictionary,reverse,words	Find a word from its meaning, across hundreds of dictionaries.
+https://wals.info/	World Atlas of Language Structures	world	3	3	2	4	linguistics,maps,database	Maps of how the world's languages differ.
+https://www.conlang.org/	Language Creation Society	mysteries	4	2	2	3	conlangs,languages,community	The society for people who invent languages.
+https://languagehat.com/	languagehat	mysteries	2	2	4	4	linguistics,blog,long-running	A long-running blog about language.
+https://www.dafont.com/	DaFont	tools	2	3	5	4	fonts,free,download	Free fonts, some of them very 2005.
+https://www.1001fonts.com/	1001 Fonts	tools	1	3	2	3	fonts,free,download	Thousands of free fonts.
+https://tholman.com/	Tim Holman	art	4	1	1	3	portfolio,experiments,tools	A maker's portfolio full of pointless, delightful code.
+https://tholman.com/texter/	Texter	art	3	1	1	2	text,drawing,experiment	Draw with words. The letters follow your cursor.
+https://hakim.se/	Hakim El Hattab	art	3	2	1	3	portfolio,experiments,javascript	A front-end developer's collection of web experiments.
+https://experiments.p5aholic.me/	Web Graphic Experiments	art	4	1	1	3	webgl,typography,collection	A collection of web graphic experiments by Keita Yamada.
+https://r3f.maximeheckel.com/	R3F Playground	art	3	1	1	2	webgl,simulation,3d	A particle attraction experiment by Maxime Heckel.
+https://cssbattle.dev/	CSSBattle	games	2	3	1	4	css,golf,daily	Daily CSS golf: reproduce a target with the least code.
+https://css-tricks.com/	CSS-Tricks	tools	1	4	2	4	css,learning,articles	A learning community for front-end developers.
+https://hoverstat.es/	Hoverstat.es	art	3	2	1	4	web-design,gallery,alternative	The home of alternative web design.
+https://brutalistwebsites.com/	Brutalist Websites	art	4	2	2	4	web-design,gallery,brutalism	A gallery of sites in the ruggedness of brutalist design.
+https://www.gossipsweb.net/	Gossip's Web	mysteries	3	2	4	5	directory,handmade,small-web	A directory of handmade websites.
+https://webcurios.co.uk/	Web Curios	mysteries	3	2	3	5	newsletter,internet,oddities	A weekly round-up of odd things found online.
+https://marijnhaverbeke.nl/	Marijn Haverbeke	tools	1	3	1	2	programming,books,codemirror	The maker of CodeMirror and author of Eloquent JavaScript.
+https://nomnoml.com/	nomnoml	tools	2	4	1	2	diagrams,text,uml	Write text, get a hand-drawn-looking UML diagram.
+https://ditherit.com/	Dither it!	tools	3	3	4	1	dithering,images,pixels	Free online image dithering.
+https://ezgif.com/	Ezgif	tools	1	5	2	2	gif,images,editor	A free online GIF maker and image editor.
+https://www2.lunapic.com/editor/	LunaPic	tools	2	3	4	3	photo-editor,effects,old-web	An online photo editor with a very long list of effects.
+https://www.bfxr.net/	Bfxr	tools	3	4	3	2	sound-effects,8-bit,games	Make sound effects for your games.
+https://sfxr.me/	jsfxr	tools	3	4	3	2	sound-effects,8-bit,browser	An 8-bit sound maker in the browser.
+https://onlinesequencer.net/	Online Sequencer	art	2	3	2	4	music,sequencer,community	Make music online with a shared piano roll.
+https://www.beepbox.co/	BeepBox	art	3	3	2	4	chiptune,sequencer,browser	Sketch and share instrumental chiptune melodies.
+https://drumbit.app/	drumbit	art	2	3	1	3	drum-machine,browser,music	An online drum machine.
+https://www.typeracer.com/	TypeRacer	games	1	2	4	3	typing,race,multiplayer	Race other people by typing passages from books and films.
+https://dvdscreensavermaker.com/	DVD Screensaver Maker	art	3	1	5	2	screensaver,dvd,toy	Make your own bouncing DVD-style screensaver.
+https://crzy.site/	crzy.site	weird	4	1	1	4	directory,useless,random	A curated collection of absolutely useless websites.
+https://boringwebsites.art/	Boring Websites	weird	3	1	2	3	webring,collection,oddities	A webring of small, wonderfully unnecessary sites.
+https://powerfulwebsites.online/	Powerful Websites	mysteries	3	2	1	4	directory,catalog,discovery	A catalogue of the Internet's most powerful sites, curated and indexed.
+https://littlealchemy2.com/	Little Alchemy 2	games	2	1	2	4	crafting,puzzle,combinations	The sequel: combine air, earth, fire and water into everything else.
+https://scaleofuniverse.com/	Scale of Universe	world	2	3	2	3	scale,zoom,universe	An interactive experience of the sizes of the visible and invisible world.
+https://emulatorjs.org/	EmulatorJS	retro	2	3	4	2	emulation,browser,embed	Embed an emulator into your own website.
+https://flightaware.com/	FlightAware	world	1	4	1	3	flights,tracking,live	Flight tracking and status worldwide.
+https://www.minimal.gallery/	Minimal Gallery	art	1	3	1	3	web-design,gallery,inspiration	Hand-picked web design for the love of the simple.
+https://www.logic-puzzles.org/	Logic Puzzles	games	1	1	3	4	logic,grid,puzzle	Logic grid puzzles with a long-running community.
+https://hooooooooo.com/	HEEEEEEEEEEEEEY!	weird	4	1	2	1	mike-bodge,joke,single-purpose	One word, stretched out by Mike Bodge.
+https://www.ncbi.nlm.nih.gov/	NCBI	world	1	4	1	4	biology,databases,science	The US National Center for Biotechnology Information.
+https://www.nasa.gov/	NASA	world	1	3	2	4	space,news,agency	The home page of the US space agency.
+https://patience.toys/	patience.toys	art	3	1	1	2	ascii,calm,toms-toys	A slow text-mode place: a river of reverence, a garden of breathing, sands of quiet.
+https://sliding.toys/mystic-square/15-puzzle/daily	Daily 15 Puzzle	games	1	1	4	2	sliding,daily,puzzle	The classic 15 sliding tile puzzle, once a day.
+https://remoji.com/	Remoji	art	3	1	1	1	emoji,drawing,toy	A small emoji toy, drawn in the browser.
+https://musical.toys/toys/pendulum-waves	Pendulum Waves	art	3	2	1	2	physics,sound,musical-toys	Pendulums of different lengths drift in and out of phase and play as they go.
+https://memory.toys/	Memory Toys	games	1	1	2	3	memory,directory,puzzles	A set of browser memory games.
+https://ocd.toys/straighten	Straighten	games	3	1	1	1	tidying,pictures,daily	Someone's bumped the pictures. Again.
+https://color.toys/blob-ross/daily/small	Daily Blob Ross	games	2	1	1	2	colour,mixing,daily	Mix paint until it matches the target colour.
+https://en.wikipedia.org/wiki/List_of_individual_dogs	List of Individual Dogs	mysteries	4	1	2	5	wikipedia,dogs,list	Wikipedia's list of famous real dogs.
+https://picoctf.org/	picoCTF	games	2	4	1	4	security,capture-the-flag,learning	Carnegie Mellon's cybersecurity game, now part of CyLab Security Academy.
+https://www.codewars.com/	Codewars	games	1	4	1	5	programming,kata,community	Improve at coding by training on small challenges with others.
+https://www.amiga-news.de/	amiga-news.de	retro	3	2	5	3	amiga,news,community	News about the Amiga, still published today.
+https://www.amigaforever.com/	Amiga Forever	retro	2	3	5	2	amiga,emulation,preservation	A preservation and emulation package for Amiga software.
+https://www.earthcam.com/	EarthCam	world	2	2	3	4	webcams,live,places	A network of live webcams around the world.
+https://ncase.me/	Nicky Case	art	2	3	2	4	explainers,games,playable	Shtuff for curious and playful folks, from a maker of playable explanations.
+https://www.dicebear.com/	DiceBear	tools	2	3	1	2	avatars,open-source,generator	Pick a seed, get an avatar. An open-source avatar library.
+https://www.geogebra.org/graphing	GeoGebra Graphing	tools	1	5	1	3	graphing,math,calculator	A free online graphing calculator.
+https://www.pixlr.com/	Pixlr	tools	1	4	2	2	photo-editor,browser,images	A browser photo editor.
+https://www.anthonyhobday.com/	Anthony Hobday	art	2	2	1	2	design,portfolio,print	A product designer's plain-text site, with interface and print-and-play games.
+https://www.os2museum.com/	The OS/2 Museum	retro	3	3	5	4	os2,history,vintage-software	A site devoted to the history of OS/2.
+https://www.davidwalsh.name/	David Walsh Blog	tools	1	3	2	3	javascript,tutorials,blog	A long-running JavaScript blog.
+https://tonematrix.audiotool.com/	Tonematrix	art	3	1	2	3	sequencer,grid,music	Tap a grid to draw a melody that keeps looping.
+https://music.ishkur.com/	Ishkur's Guide to Electronic Music	art	4	3	5	5	electronic-music,genres,history	A sprawling interactive map of electronic music genres.
+https://sound-effects.bbcrewind.co.uk/	BBC Sound Effects	archives	3	4	4	4	sounds,bbc,archive	Tens of thousands of sound effects from the BBC archive.
+https://learningmusic.ableton.com/	Learning Music	art	1	4	1	3	music,lessons,ableton	Interactive lessons on the basics of making music.
+https://www.chess.com/puzzles	Chess Puzzles	games	1	2	1	4	chess,tactics,puzzles	Train with chess puzzles.
+https://www.last.fm/	Last.fm	tools	1	3	4	4	music,scrobbling,discovery	Track, find and rediscover music.
+https://www.miniclip.com/	Miniclip	games	1	1	5	4	flash-era,games,portal	The company behind a long-running web games portal.
+https://www.audiotool.com/	Audiotool	art	2	3	2	5	studio,browser,music	A full music studio in the browser.
+https://www.adsbexchange.com/	ADS-B Exchange	world	2	3	1	2	aircraft,tracking,data	Flight tracking built on a community of receivers.
+https://ihug.you/	iHug.You	weird	2	1	1	1	hugs,wholesome,links	Send someone a digital hug.
+https://www.jklm.fun/	JKLM.FUN	games	2	1	1	4	party,multiplayer,browser	Party games for PC and smartphone.
+https://playclassic.games/	PlayClassic.games	retro	2	2	5	4	dos,emulation,archive	Classic DOS games online. The site says it is no longer maintained.
+https://pongvn.com/trynkit	Trynkit	weird	3	1	1	3	novelty,tools,memes	Novelty mini-tools and meme generators.
+https://www.nasa.gov/image-article/	NASA Image Articles	world	1	3	1	3	space,photos,nasa	NASA's image of the moment and the story behind it.
+https://www.soundtrap.com/	Soundtrap	art	1	3	1	3	music,browser,studio	Music production in the browser.
+https://www.bbc.com/future	BBC Earth	world	1	3	1	3	science,climate,articles	Science and environment stories from the BBC.
+https://bundlephobia.com/	Bundlephobia	tools	1	4	1	1	npm,size,developer	Find the cost of adding an npm package to your bundle.
+https://webglsamples.org/	WebGL Samples	art	2	3	2	3	webgl,demos,browser	A collection of WebGL demos, from aquariums to shadows.
+https://www.typewolf.com/	Typewolf	tools	1	3	1	3	typography,fonts,inspiration	What's trending in type.
+https://neal.fun/stimulation-clicker/	Stimulation Clicker	games	5	1	1	3	clicker,overload,neal-fun	A clicker game that keeps adding stimulation until your screen is out of control.
+https://90s.myretrotvs.com/	My90sTV	retro	4	1	5	5	television,1990s,random	Press channel up on an old TV set and watch real 1990s shows and adverts.
+https://literature-map.com/	Literature Map	mysteries	3	3	2	3	books,map,discovery	Type an author and see similar writers float around them on a map.
+https://stilltasty.com/	StillTasty	tools	3	4	2	2	food,shelf-life,reference	An extremely specific guide to how long every food keeps.
+https://goblin.tools/	Goblin Tools	tools	3	4	1	3	tasks,ai,small-tools	Small tools for when things feel too big, like a to-do list that breaks itself down.
+https://hownormalami.eu/	How Normal Am I?	weird	5	2	1	2	ai,face,art-project	An EU-backed art piece: let an algorithm judge your face and see how it decides.
+https://dimensions.com/	Dimensions.com	mysteries	4	4	1	5	objects,drawings,reference	A reference database of the exact dimensions of everyday objects.
+https://forebears.io/	Forebears	mysteries	2	3	2	4	surnames,genealogy,maps	Where any surname or given name is found around the world.
+https://rasterbator.net/	The Rasterbator	tools	4	3	4	2	posters,dots,print	Turn any image into a giant dotted poster you print on many sheets.
+https://bodyvisualizer.is.tue.mpg.de/	Body Visualizer	world	3	2	1	2	3d,research,body	A Max Planck research tool that models a 3D body from height and weight.
+https://rsoe-edis.org/	RSOE EDIS	world	4	3	2	4	disasters,live,map	A live world map of emergencies and disasters.
+https://mcbroken.com/	McBroken	weird	5	2	1	2	map,ice-cream,live	A real-time map of which McDonald's ice cream machines are broken.
+https://ocearch.org/	OCEARCH	world	3	2	1	3	sharks,tracking,ocean	The organisation that tags sharks, with a map where you can follow them.
+https://sketch.metademolab.com/	Animated Drawings	art	3	1	1	2	drawing,animation,research	A research demo that makes a child's drawing walk and dance.
+https://donjon.bin.sh/	donjon	tools	3	4	4	5	rpg,generators,dungeons	A vast plain page of RPG generators, from dungeons to demi-planes.
+https://willrobotstakemyjob.com/	Will Robots Take My Job?	weird	3	2	1	2	jobs,automation,data	Type your job and read its risk of being automated.
+https://popcat.click/	POPCAT	games	4	1	2	2	clicker,cat,countries	Click a cat's mouth open. Countries compete on a world leaderboard.
+https://perpetual.pizza/	The Never Ending Digital Pizza	weird	5	1	1	1	pizza,oven,single-purpose	A pizza that is forever being made.
+https://ouaismaisbon.ch/	Ouais Mais Bon	weird	5	1	1	1	sound,swiss,single-purpose	Three faces that sigh a Swiss "yeah but well" when you click them.
+https://beifall.ch/	Beifall	weird	5	1	1	1	applause,swiss,experiment	A strange machine that makes a hand applaud you.
+https://29a.ch/	29a.ch	art	3	2	2	4	experiments,javascript,sandbox	Jonas Wagner's experiments, from sandbox physics to photo forensics.
+https://piemap.au/	Hot Takes and Even Hotter Pies	weird	5	1	1	2	pies,australia,map	A map of Australian meat pie reviews.
+https://kittenwar.com/	Kittenwar	weird	4	1	5	3	kittens,vote,old-web	Two kittens enter. You choose. The cutest kitten wins.
+https://foldnfly.com/	Fold 'N Fly	tools	2	4	2	3	paper-planes,instructions,database	A database of paper airplanes with folding instructions.
+https://brandnamepencils.com/	Brand Name Pencils	weird	5	2	3	4	pencils,vintage,collecting	The world's top destination for rare and vintage brand name pencils.
+https://shapesmania.com/	Shapes Mania	art	2	1	1	3	relaxing,drawing,toys	Everything for guiltless and shameless relaxation.
+https://sciencevsmagic.net/	Science vs Magic	art	3	3	2	3	tilings,geometry,animation	Nico Disseldorp's animated experiments in tilings and sacred geometry.
+https://buttonmuseum.org/	Busy Beaver Button Museum	archives	5	2	4	3	buttons,pins,museum	The online home of a real museum of over 9,000 pinback buttons.
+https://youarelistening.to/	You Are Listening To	world	4	2	2	4	ambient,police-radio,cities	Ambient music mixed with live air traffic control and police scanners.
+https://marblerun.at/	Marble Run	games	3	1	2	3	marbles,building,community	Build a brick of a marble run and add it to one endless track.
+https://chickenonaraft.com/	Chicken on a Raft	weird	5	1	1	1	chicken,sound,absurd	Press the chicken to begin. There is a raft.
+https://shamebell.com/	Shame Bell	weird	4	1	2	1	bell,sound,single-purpose	Start shaming with a bell.
+https://instantostrich.com/	Instant Laughing Ostrich	weird	5	1	2	1	sound,ostrich,single-purpose	An ostrich laughs at you on demand.
+https://battles.nodegoat.net/	Battles	world	2	2	1	3	history,map,wikidata	A timeline map of every battle recorded on Wikidata.
+https://festisite.com/	Festisite	tools	3	1	3	2	generators,playing-cards,old-web	A strange toolbox for turning text into hearts, money and playing cards.
+https://buttonbass.com/	ButtonBass	art	2	1	2	2	beats,cubes,music	Press cubes to play a beat.
+https://kukuklok.com/	Kuku Klok	tools	3	3	2	1	alarm-clock,sound,rooster	An online alarm clock with a rooster.
+https://bitlisten.com/	BitListen	art	4	1	2	2	bitcoin,sound,live	Hear Bitcoin transactions as they happen.
+https://windowsofnewyork.com/	Windows of New York	art	3	1	1	3	illustration,architecture,weekly	A weekly illustrated homage to the windows of New York.
+https://mostexclusivewebsite.com/	Most Exclusive Website	weird	5	1	1	2	queue,one-visitor,joke	One visitor at a time, every sixty seconds. Get your ticket.
+https://clickclickclick.click/	clickclickclick	weird	5	1	2	1	surveillance,voice,art	A big green button, and a voice commenting on every small thing you do.
+https://sampulator.com/	Sampulator	art	3	1	2	2	samples,keyboard,music	Play samples with your keyboard and record a track.
+https://therevolvinginternet.com/	The Revolving Internet	art	5	1	3	1	net-art,google,constant-dullaart	Constant Dullaart's 2010 artwork in which a well-known search page slowly turns.
+https://whathappenedinmybirthyear.com/	What Happened in My Birth Year?	world	2	2	3	2	history,years,personal	Enter a year and see what was happening.
+https://gameaboutsquares.com/	Game About Squares	games	2	1	2	3	puzzle,squares,minimal	A puzzle game about moving squares.
+https://llamafont.com/	Llama Font	weird	5	1	2	1	llamas,typography,generator	Type something. It gets spelled in llamas.
+https://flowspace.is/	Flowspace	art	2	1	1	2	drawing,calm,mindful	A mindful drawing experience with no sign-up.
+https://david.li/	david.li	art	3	1	1	3	webgl,experiments,fluid	David Li's experiments, including the simulation behind Blob Opera.
+https://emojitracker.com/	Emojitracker	world	4	1	3	2	emoji,live,counts	Real-time counts of how often each emoji gets used.
+https://moments.epic.net/	Moments of Happiness	art	3	1	1	2	webgl,animals,animation	A side project of small interactive WebGL animal scenes.
+https://everysecond.io/	Every Second	world	3	2	1	1	statistics,live,counters	All the amazing things happening every second around the world.
+https://large-type.com/	Large Type	tools	2	4	1	1	text,display,single-purpose	Type something and show it in huge letters.
+https://tacospin.com/	Taco Spin	weird	5	1	2	1	taco,spinning,single-purpose	A taco spins. A counter records your spins.
+https://worldsdumbestgame.com/	World's Dumbest Game	games	5	1	1	1	button,holding,joke	How long can you hold the button?
+https://emojikitchen.dev/	Emoji Kitchen	weird	3	1	1	2	emoji,combinations,toy	Combine two emojis and get an odd new one.
+https://maxwellcat.world/	maxwellcat.world	weird	5	1	2	2	cat,multiplayer,3d	Walk around a 3D world as a spinning black cat with other people online.
+https://textfac.es/	Text Faces	tools	2	2	4	1	ascii,faces,clipboard	Click to copy text faces.
+https://theuncomfortable.com/	The Uncomfortable	art	5	1	1	2	design,objects,katerina-kamprani	Everyday objects deliberately redesigned to be inconvenient.
+https://idontlike.work/	I Don't Like Work	weird	4	1	1	1	excuses,generator,wfh	A generator of reasons to work from home.
+https://webhamster.com/	The Hamster Dance	archives	5	1	5	1	gif,1990s,meme	The animated hamsters that became one of the first web memes.
+https://fogcam.org/	FogCam	archives	5	1	5	1	webcam,san-francisco,oldest	The San Francisco webcam that bills itself as the oldest in the world, still running.
+https://futile.ch/	FUTILE	weird	5	1	1	2	scrolling,useless,leaderboard	You scroll. It measures. The distance goes on your record.
+https://purrli.com/	Purrli	tools	4	2	2	1	cat,purring,sound	The online cat: a customisable purr generator.
+https://mrdoob.com/	Mr.doob	art	3	2	3	4	three.js,experiments,classic	The experiments of the creator of three.js.
+https://bouncyballs.org/	Bouncy Balls	tools	3	3	1	1	noise,classroom,microphone	Balls that bounce to classroom noise, as a way to keep it down.
+https://dood.al/	Doodal	art	3	1	1	2	pinball,drawing,physics	Draw on a looping 3D shape.
+https://infiniteflowers.net/	Infinite Flowers Zoomquilt	art	4	1	1	2	infinite-zoom,painting,flowers	An infinite zoom through painted flowers.
+https://downloadmoreram.com/	Download More RAM	weird	4	1	4	1	joke,ram,classic	The Internet's trusted source for downloadable memory.
+https://animatedengines.com/	Animated Engines	world	2	4	3	2	engines,mechanics,animation	Click an engine to see how it works.
+https://myphysicslab.com/	myPhysicsLab	world	2	4	3	3	physics,simulations,pendulums	Physics simulations you can drag and disturb.
+https://pmav.eu/	pmav.eu	art	2	2	1	3	javascript,ideas,experiments	A personal page hosting dozens of small ideas.
+https://tikolu.net/	Tikolu	art	3	2	1	3	emojimix,edit-the-text,experiments	Small experiments, including a text box anyone can edit.
+https://everylastdrop.co.uk/	Every Last Drop	world	3	3	1	2	water,scrolling,interactive	An interactive site about how much water you really use.
+https://woodgears.ca/	Woodgears	tools	3	3	4	4	woodworking,engineering,workshop	An engineer's approach to woodworking.
+https://masswerk.at/	mass:werk	retro	4	2	5	5	spacewar,eliza,emulation	Spacewar!, ELIZA, a talking PET 2001 and more preserved historical software.
+https://astronaut.io/	Astronaut	weird	5	1	2	4	youtube,unseen,random	Float through videos with almost no views, uploaded minutes ago.
+https://gridland.doublespeakgames.com/	Gridland	games	3	1	2	4	match-3,survival,doublespeak	A match-three game by day, a fight to survive by night.
+https://http.cat/	HTTP Cats	tools	3	4	2	1	cats,http,reference	HTTP status codes, explained by cats.
+https://imisstheoffice.eu/	I Miss the Office	weird	5	1	1	2	sound,office,nostalgia	Close your eyes and listen to imaginary colleagues.
+https://longestjokeintheworld.com/	The Longest Joke in the World	weird	4	1	4	2	joke,scrolling,old-web	It goes on for a very long time.
+https://michaelbach.de/	Michael Bach	world	3	3	3	4	optical-illusions,science,visual-perception	A vision scientist's page, home to a famous collection of optical illusions.
+https://orb.farm/	Orb.Farm	art	3	1	1	4	ecosystem,simulation,sand	A sealed glass ecosystem of pixels that you build and watch live.
+https://pippinbarr.com/	Pippin Barr	games	4	1	2	5	experimental-games,academic,indie	The experimental games of Pippin Barr.
+https://powerline.io/	powerline.io	games	2	1	1	3	multiplayer,snake,neon	A neon multiplayer snake game.
+https://sadtrombone.com/	Sad Trombone	weird	3	1	4	1	sound,button,single-purpose	One button. Wah wah.
+https://hitchhikersgalaxy.guide/	The Hitchhiker's Guide to the Galaxy Guide	mysteries	3	1	3	3	fan-site,terminal,search	An encyclopedia of the Guide. Don't panic.
+https://ascii.theater/	ASCII Theater	weird	5	1	3	3	ascii,terminal,films	Stream free text-based films in your terminal.
+https://xhalr.com/	eXHALeR	tools	2	3	1	1	breathing,calm,timer	A simple breathing animation.
+https://fixmyspeakers.com/	Fix My Speakers	tools	3	3	1	1	phone,water,sound	Plays a tone that claims to eject water from your phone's speakers.
+https://singleservingsites.cool/	Single-Serving Sites	mysteries	4	2	3	5	directory,one-idea,gallery	A directory of sites that do one thing and nothing else.
+https://vole.wtf/	VOLE.wtf	weird	5	1	3	5	games,toys,uk	Working towards a dafter Internet.
+https://1940s.nyc/	1940s NYC	archives	3	3	5	5	map,photos,tax-records	Street photos of every building in 1940s New York, on a map.
+https://billwurtz.com/	Bill Wurtz	art	5	1	2	5	videos,songs,history	The songs, videos and notebook of Bill Wurtz.
+https://cloudappreciationsociety.org/	Cloud Appreciation Society	weird	4	2	2	3	clouds,society,sky	The society for people who love the sky.
+https://cuberule.com/	The Cube Rule	weird	5	1	1	2	food,taxonomy,sandwiches	A rigorous classification of foods by the position of their starch.
+https://euclidea.xyz/	Euclidea	games	2	3	1	4	geometry,puzzle,constructions	Geometric construction puzzles with a compass and straightedge.
+https://potatoland.org/	Potatoland	art	4	1	4	3	net-art,mark-napier,1990s	Mark Napier's net art from the early web.
+https://html.energy/	HTML Energy	mysteries	3	2	3	3	html,zine,small-web	A celebration of writing HTML by hand.
+https://newart.city/	New Art City	art	3	2	1	4	virtual,galleries,exhibitions	Virtual galleries for digital art.
+https://everythingisterrible.com/	Everything Is Terrible!	weird	5	1	4	4	found-footage,vhs,collage	Found footage collages of the worst VHS tapes. Can include bad taste.
+https://babadum.com/	Ba Ba Dum	games	3	2	1	3	words,languages,game	A colourful game for learning vocabulary in many languages.
+https://pangram.me/	Pangram.me	art	3	2	1	2	typography,languages,pangrams	Pangrams to try, in many languages.
+https://vintageobscura.net/	Vintage Obscura Radio	art	3	1	4	5	radio,records,rare	A radio of obscure records.
+https://centennialbulb.org/	Centennial Light Bulb	archives	5	1	5	1	bulb,webcam,livermore	The world's longest burning light bulb, with its own site.
+https://mapofmetal.com/	Map of Metal	art	4	2	2	5	metal,genres,map	An interactive genealogy of heavy metal genres.
+https://river-runner-global.samlearner.com/	River Runner Global	world	4	2	1	3	water,map,simulation	Drop a raindrop anywhere and follow it to the sea.
+https://allrgb.com/	allRGB	art	4	1	3	3	images,colours,challenge	Images that use every 24-bit colour exactly once.
+https://sandtris.com/	Sandtris	games	4	1	2	3	tetris,sand,physics	Tetris, except the pieces collapse into sand.
+https://hexgl.bkcore.com/	HexGL	games	2	1	2	2	racing,webgl,futuristic	A futuristic HTML5 racing game.
+https://redact.photo/	Redact.Photo	tools	2	4	1	1	privacy,images,browser	Black out parts of an image, entirely in the browser.
+https://bureauofveryslownews.com/	The Bureau of Very Slow News	weird	5	1	1	2	news,cosmic,satire	All the news too slow to print, reported from a geological perspective.
+https://thebureauoftinyapprovals.com/	The Bureau of Tiny Approvals	weird	5	1	1	2	bureaucracy,stamps,toy	Stamp absurd petitions APPROVED.
+https://sandpile.art/	Sandpile	art	3	2	1	2	simulation,mathematics,criticality	A live abelian sandpile that avalanches.
+https://todaysrock.art/	Today's Rock	art	5	1	1	1	rock,daily,3d	One procedurally generated 3D rock a day, the same for everyone.
+https://driveandlisten.app/	Drive & Listen	world	4	1	1	4	cities,driving,radio	Drive through a city while listening to its local radio.
+https://zzz.zoomquilt.org/	Zoomquilt ZZZ	art	4	1	2	2	infinite-zoom,painting,collaborative	Another infinitely zooming painting from the Zoomquilt project.
+https://infinitezoom.net/	Infinite Zoom Patterns	art	3	1	1	2	infinite-zoom,patterns,colour	Colourful patterns that zoom forever, by Nikolaus Baumgarten.
+https://trek.nasa.gov/	NASA Solar System Treks	world	3	3	1	4	moon,mars,maps	Fly over the Moon, Mars and other worlds in NASA's mapping portals.
+https://tv.garden/	Famelack	world	3	2	1	4	television,live,world	Free live TV, radio and webcams from around the world.
+https://explore.org/	Explore.org	world	3	2	1	5	webcams,animals,live	Live cameras on animals, from polar bears to African watering holes.
+https://floor796.com/	Floor796	art	5	1	3	5	pixel-art,animation,pop-culture	A giant hand-animated space station packed with pop culture references.
+https://bomomo.com/	bomomo	art	3	1	4	2	painting,abstract,mouse	Move your mouse and swarms of dots paint with you.
+https://zoomquilt2.com/	Zoomquilt 2	art	4	1	2	2	infinite-zoom,painting,collaborative	The sequel: another collaborative infinite zoom.
+https://noises.online/	Noises.Online	tools	2	3	1	2	ambient,sound-map,focus	Build a free spatial soundscape with natural recordings.
+https://soundrown.com/	Soundrown	tools	1	3	1	2	ambient,focus,noise	Coffee shop, rain, waves and fire sounds.
+https://tabletopaudio.com/	Tabletop Audio	art	3	3	2	4	rpg,ambient,soundscapes	Ambiences and music for tabletop role-playing games.
+https://coffitivity.com/	Coffitivity	tools	2	3	2	2	cafe,sound,focus	The sound of a coffee shop, for working.
+https://rainycafe.com/	Rainy Cafe	tools	1	3	1	2	rain,cafe,sound	Rain and cafe sounds for working.
+https://omnichordonline.com/	Omnichord Online	art	4	1	3	2	instrument,browser,1980s	Play a playable replica of the Suzuki Omnichord.
+https://colorhunt.co/	Color Hunt	tools	1	4	1	2	palettes,colour,design	Colour palettes shared by designers.
+https://visuwords.com/	Visuwords	mysteries	3	3	2	3	dictionary,graph,words	A dictionary drawn as a living word graph.
+https://behindthename.com/	Behind the Name	mysteries	2	3	3	3	names,etymology,history	The etymology and history of first names.
+https://whichfaceisreal.com/	Which Face Is Real?	games	4	2	1	2	ai,faces,quiz	Click on the person who is real. The other one is generated.
+https://autodraw.com/	AutoDraw	art	2	2	1	2	drawing,ai,google	Scribble and it suggests a clean drawing.
+https://procatinator.com/	Procatinator	weird	5	1	4	2	cats,gifs,music	Cat GIFs paired with music, one after another.
+https://flashmuseum.org/	Flash Museum	archives	3	2	5	5	flash,games,animations	Over 100,000 Flash games and 20,000 animations playable in the browser.
+https://nekoweb.org/	Nekoweb	archives	3	3	5	4	hosting,personal-sites,small-web	Free hosting and a home for handmade personal websites.
+https://unknownindex.com/	Unknown Index	mysteries	3	3	1	5	directory,discovery,hidden	The directory of unknown websites and tools.
+https://justonemoretab.com/	JustOneMoreTab	mysteries	3	3	1	5	directory,random,curated	Hand-curated cool websites for curious people. Just one more tab.
+https://powerfulwebsites.io/	PowerfulWebsites.io	mysteries	2	3	1	4	directory,tools,curated	A curated directory of useful tools.
+https://postcrossing.com/	Postcrossing	weird	3	3	3	5	postcards,strangers,mail	Send postcards to strangers and receive them from around the world.
+https://springhole.net/	Springhole	mysteries	2	3	5	4	writing,roleplay,old-web	Writing tips and random generators on one very long page.
+https://animatedknots.com/	Animated Knots	tools	2	5	2	3	knots,animation,reference	How to tie every knot, animated step by step.
+https://typelit.io/	TypeLit	tools	2	3	1	4	typing,books,classics	Practise typing by retyping entire classic books.
+https://whenwasiconceived.com/	When Was I Conceived?	weird	4	1	1	1	birthdays,calculator,facts	Enter your birthdate to see your estimated conception week.
+https://jameshard.ing/pilot	Pilot, by James Harding	world	3	2	1	3	aviation,flights,globe,personal	An Airbus A350 pilot's own interactive graphs and globes of the flights he has flown.
+https://cannoneyed.com/isometric-nyc/	Isometric NYC	art	4	1	2	4	pixel-art,map,new-york,isometric	A giant isometric pixel-art map of New York City.
+https://www.lessmilk.com/almost-pong/	Almost Pong	games	3	1	2	3	arcade,one-button,pong	Press space or tap to make the ball jump and keep hitting the paddles for as long as possible.
+https://www.rahulilango.com/coloring/	Map Coloring Puzzle	games	3	2	1	3	puzzle,maps,math,four-color	Colour a map of Britain and Ireland so that no two bordering regions share a colour.
+https://nodaysoff.run	No Days Off	world	3	1	1	2	running,data,personal,visualization	Ten years and seven months of running every single day, visualised: 3,881 days and 13,454 miles.
+https://tannerv.com/ipod	iPod.js	retro	4	2	5	3	ipod,music,emulation,nostalgia	An iPod Classic built for the web, with Cover Flow, music and games.
+https://visualrambling.space/moving-objects-in-3d/	Moving Objects in 3D Space	world	3	3	1	2	explainer,3d,math,interactive	A tap-through visual essay that starts with one question: how do you move an object along a spherical helix?
+https://james.darpinian.com/satellites/	See a Satellite Tonight	world	3	4	1	2	satellites,sky,astronomy,map	Find out where to look to see a satellite in the night sky, no telescope required.
+https://bastardica.mitpit.com	Bastardica	art	5	2	1	3	fonts,typography,cursed,generator	A type foundry for bastard web fonts: mix, stretch and squish two fonts into one, such as Times New Roman with every other glyph in Arial.
+https://emoji.build/deal-with-it-generator/	Deal With It Generator	weird	4	2	2	2	gif,emoji,meme,generator	An over-engineered generator for "Deal With It" sunglasses GIFs, made in the browser.
+https://benoitessiambre.com/macro.html	Central Bank Simulator	games	4	3	1	3	economics,simulation,banking,apples	Run the central bank of a village that produces apples. Your only lever is the interest rate.
+https://sky.dlazaro.ca	Horizon	art	5	1	1	1	sky,css,gradient,html-day	The current sky at your approximate location, rendered as a CSS gradient and refreshed every minute.
+https://atlasof.space/	Atlas of Space	world	3	3	1	4	solar-system,asteroids,planets,3d	An interactive exploration of the planets, moons, asteroids and other objects of the Solar System.
+https://javier.xyz/emoji-to-scale/	Emoji to Scale	weird	4	2	1	2	emoji,scale,size,comparison	Your favourite emojis, to scale, more or less: from a 3 mm mosquito upwards.
+https://shademap.app	ShadeMap	world	3	4	1	3	shadows,sun,map,simulation	Every mountain, building and tree shadow in the world, simulated for any date and time.
+https://4m3ric4.com	America, Road Trip Simulator	world	4	1	2	4	road-trip,usa,driving,radio	Drive real U.S. highways in a desktop-style window, with maps, radio, articles and photos along the way.
+https://pouria.dev/unknown-pleasures	Unknown Pleasures	art	3	1	2	2	audio,visualizer,webgl,experiment	An experimental WebGL audio visualiser.
+https://backofyourhand.com/	Back Of Your Hand	games	3	2	1	3	maps,geography,local,quiz	How well do you know your area? Locate streets on a map, alone or in multiplayer.
+https://rotaboxes.com	Rotaboxes	games	2	1	1	3	daily,puzzle,photo,relaxing	A relaxing daily photo puzzle: rotate each square of the picture back into place.
+https://www.coderelay.io/fontemon.html	Fontemon	weird	5	1	3	3	font,game,opentype,pokemon-like	The world's first video game in a font. The whole game lives in one .otf file: no JavaScript, no HTML.
+https://lend-me-your-ears.specr.net	Lend Me Your Ears	games	3	3	1	3	music,ear-training,piano,memory	A Simon-style ear-training game: listen to melodies and play them back on a piano.
+https://trains.fyi/	trains.fyi	world	3	3	1	4	trains,live,map,railways	Live positions of passenger trains around the world, from Amtrak to JR, on one real-time map.
+https://blackhole.plav.in	We Have a Black Hole at Home	world	5	2	1	2	black-hole,physics,visualization,ar	A simplified black hole playground you can explore on screen, or place in your room in augmented reality.
+https://ofrak.com/tetris/	OFRAK Tetris	games	5	2	2	3	tetris,assembly,arm,emulator	Tetris, but the blocks are assembly instructions that run on an in-browser CPU emulator.
+https://inflightsimulator.com	InFlightSimulator	weird	5	1	1	4	flights,passenger,simulator,travel	A flight simulator where you are only a passenger. Pick a destination and collect country flags as flights finish.
+https://forty.news	Forty News	archives	4	2	3	3	news,history,delayed,1980s	Real-time news, delayed forty years. Today's headlines from exactly 40 years ago.
+https://plant.max-richter.dev	Plantarium	art	3	2	1	3	plants,3d,nodes,generator	Grow 3D plants in the browser by connecting nodes, starting from a stem.
+https://byte.tsundoku.io	BYTE, a Visual Archive	archives	3	2	5	4	magazine,byte,computing,archive	A zoomable, searchable visual archive of BYTE magazine.
+https://alltheviews.world	All The Views	world	4	2	1	3	line-of-sight,mountains,map,algorithm	Every view on Earth checked for the longest line of sight. The winner runs 530 km across the Kunlun Mountains.
+https://titleart.dvy.io/	TitleArt	retro	4	2	5	3	wordart,1997,text,generator	Make text like it's 1997: every classic WordArt style, shape and 3-D effect, in the browser.
+https://space.bl2.net/	Space Now	world	3	3	1	4	solar-system,live,satellites,3d	A live 3D map of the Solar System with planets, moons, asteroids, comets and Earth satellites where they are now.
+https://time-flies.koenvangilst.nl/	Time Flies	art	4	1	1	1	time,flies,pun,visualization	A visualisation of the passage of time, using flies.
+https://punkx.org/overflow/	Projekt: Overflow	games	4	3	1	3	risc-v,assembly,board-game,hacking	A RISC-V assembly board game about hacking your opponent, made to teach how buffer overflows work. Playable on the web or printable.
+https://eschersket.ch	EscherSketch	art	3	2	1	3	symmetry,drawing,tiling,escher	A drawing tool that repeats your lines across wallpaper-group symmetries.
+https://terra.layoutit.com	Layoutit Terra	art	4	2	1	2	css,terrain,generator,voxels	An interactive terrain generator made entirely with CSS.
+https://sf.isopolis.city/	Isopolis San Francisco	art	4	1	1	4	pixel-art,map,san-francisco,isometric	San Francisco as one giant isometric pixel painting, with guided tours and its own radio.
+https://adsb.exposed/	ADS-B Massive Visualizer	world	3	2	1	4	aircraft,data,map,visualization	Aircraft positions drawn on a map, with views from Boeing versus Airbus to gliders, balloons and emergencies.
+https://ad8e.pages.dev/keyboard	A Novel Music Keyboard	art	4	2	1	2	music,just-intonation,instrument,harmony	A new instrument built on rational numbers. Play harmony in just intonation without any music background.
+https://defrag-game.com	Defrag the Game	retro	5	1	5	3	defrag,hard-drive,nostalgia,game	Defragment a virtual hard drive, as a game. Choose drive C, D or E.
+https://p.migdal.pl/warsaw-vibe-voxel/	Warsaw in Voxels	world	3	1	1	2	warsaw,voxels,3d,map	Central Warsaw in one-metre voxels, built from OpenStreetMap and LiDAR data.
+https://putt.day/	putt.day	games	3	1	1	2	golf,daily,physics,community	A daily hole of mini golf, the same for everyone, made by the community.
+https://loficities.com/	Lofi Cities	art	3	1	2	4	lofi,pixel-art,cities,music	Endless lofi music generated live in the browser, over pixel-art city nights.
+https://billard.medusis.com/	Billard	art	4	1	1	2	music,physics,balls,midi	Make music by letting balls collide. Set the key, mode, gravity and speed.
+https://www.paper-tactics.com	Paper Tactics	games	3	1	2	3	pen-and-paper,strategy,grid,duel	A turn-based pen-and-paper duel played on a square grid, to learn and play online.
+https://howbrowserswork.com/	How Browsers Work	world	2	4	1	2	browsers,explainer,interactive,web	An interactive guide to what happens between typing a URL and seeing a page.
+https://middle-earth-interactive-map.web.app/	Interactive Middle-earth Map	mysteries	3	2	2	4	tolkien,map,fantasy,timeline	A map of Middle-earth with 128 events from The Lord of the Rings, The Hobbit and The Silmarillion, and the journeys between them.
+https://xn--ubhnchen-1za.vercel.app/	Ubähnchen	world	3	1	1	2	berlin,trains,animated,map	An animated live map of Berlin's city trains.
+https://neberej.github.io/exposedbydefault/	Exposed By Default	tools	3	4	1	2	privacy,browser,fingerprint,data	Everything your browser hands out automatically to every site, from fonts to sensors. Runs in the browser.
+https://isabisabel.com/gacha/	Number Gacha	games	5	1	1	3	gacha,numbers,parody,collection	Collect, level up and battle numbers. A gacha game distilled to its essence.
+https://smarthome.steviep.xyz	SmartHome	games	4	1	1	2	adventure,text,smart-home,satire	SmartHome: an adventure game. It starts with "Wake Up".
+https://randomhackernews.com/	Random Hacker News	archives	3	2	2	3	hacker-news,random,archive,front-page	The Hacker News front page from a random day of its history.
+https://isle.pizza	LEGO Island in the Browser	retro	4	1	5	4	lego,1997,decompilation,fan-project	LEGO Island (1997) playable in the browser: an unofficial fan recreation built from the decompiled original.
+https://ribbie.tv/watch	Ribbie	games	4	1	3	3	baseball,pixel-art,live,mlb	Today's MLB games, live in pixel art, pitch by pitch.
+https://kevinzakka.github.io/robopianist-demo/	RoboPianist	world	4	1	1	2	robot,piano,simulation,mujoco	A piano-playing robot simulation, running in the browser.
+https://trisolarchaos.com/	Gravity Simulator	world	3	2	1	3	three-body,gravity,physics,simulation	An interactive 3D N-body and three-body problem simulator with presets and trails.
+https://renewables-map.robinhawkes.com	GB Renewables Map	world	2	3	1	2	energy,wind,live,map	A live map of renewable energy generation in Great Britain.
+https://baselashraf81.github.io/eigendrum/	Eigendrum	art	5	2	1	2	drum,physics,sound,shapes	Draw any shape and hear it as a drum: its frequencies are computed from the outline, not sampled.
+https://quake-srp.pages.dev/	Quake SRP	retro	3	1	5	4	quake,rust,webassembly,fps	Quake (1996) ported to safe Rust and WebAssembly. Play the shareware episode in the browser.
+https://www.yamanote.fun/	Yamanote.fun	world	4	1	2	3	tokyo,trains,soundscape,melodies	The sound of riding Tokyo's Yamanote Line all the way around, station by station.
+https://geekring.net/	geekring	retro	3	2	4	3	webring,old-web,personal-sites,1993	A webring for geeks of all sorts: funny, quirky, personal sites that are not on page 1 of the search engines.
+https://jason.today/little-worlds	Little Worlds	art	3	1	1	2	procedural,pixel,worlds,generator	Random little procedural pixel worlds.
+https://moderatormayhem.engine.is/	Moderator Mayhem	games	3	3	1	2	moderation,policy,game,internet	A fast-paced game about the difficulties of content moderation.
+https://sinerider.com/	SineRider	games	4	3	1	4	math,graphing,puzzle,hack-club	A game about love and graphing, from Hack Club.
+https://lab.specr.net/rigged-draw/	How Random Are You?	weird	4	1	1	2	randomness,prediction,voice,game	Say numbers out loud as randomly as you can, while a predictor in your browser guesses each one first.
+https://www.exaequos.com	exaequOS	retro	4	2	1	3	operating-system,browser,unix,learning	An operating system that runs entirely in the web browser, with a shell, editors and a windowing system.
+https://new.roman-names.com/	Roman Name Attestations	archives	3	2	2	3	rome,inscriptions,names,map	A map of about 250,000 inscriptions from across the Roman Empire that record personal names.
+https://buildmytransit.nyc	BuildMyTransit	games	3	2	1	3	subway,nyc,simulation,trains	A New York subway simulator and route designer.
+https://www.chillyatc.com/	Chilly ATC	world	4	2	1	4	air-traffic-control,ambient,radio,focus	Live air traffic control radio blended with ambient music, for focus.
+https://stacked-game-of-life.koenvangilst.nl/	A Game of Life and Ghosts	art	3	1	1	2	game-of-life,3d,cellular-automata,history	Conway's Game of Life with its past generations stacked in 3D like ghosts.
+https://retrotick.com/	RetroTick	retro	4	2	5	4	windows,emulator,exe,dos	Run classic Windows and DOS programs in the browser: drop an .exe, or try SkiFree, FreeCell and old screensavers.
+https://uonr.github.io/poincake/	Poincake	weird	5	1	1	2	notes,non-euclidean,poincare,canvas	An infinite canvas for notes inside the non-Euclidean Poincaré disk.
+https://sokyokuban.com/	Sokyokuban	games	5	1	1	3	sokoban,hyperbolic,puzzle,vaporwave	A Sokoban-style puzzle game on a hyperbolic plane, with a vaporwave look.
+https://ncube.ndavd.com	ncube	world	5	1	1	2	dimensions,hypercube,rotation,math	Rotating objects from the fourth, fifth and nth dimensions, visualised.
+https://celphase.github.io/duck-pond/	The Duck Pond	weird	4	1	1	2	ducks,audio,synthesis,headphones	A live pond of mallards. No recordings: every quack is synthesised as it happens. You can throw peas.
+https://games.productartistry.com/games/dark-patterns	Dark Patterns Detective	games	3	4	1	2	ux,dark-patterns,game,design	Eight realistic checkouts, sign-ups and cancel flows. Spot the trick, then see the honest version.
+https://se-simulator.lw1.at/	Stack Exchange Simulator	weird	5	1	2	3	markov,stack-overflow,generated,parody	Stack Overflow and Stack Exchange questions generated with Markov chains, with an easy and a hard quiz.
+https://artmuseum.artfrompixels.com/	A Walkable History of Art	art	3	3	1	4	museum,art-history,3d,paintings	A 3D museum of art history: zoom through periods and artists, then walk galleries of their paintings.
+https://glitchycam.com	Glitchy	art	4	1	2	2	camera,circuit-bending,glitch,photo	A circuit-bent camera simulator: rewire virtual chip pins to glitch your live video. Processed on your device.
+https://desktopcolors.com	desktopcolors.com	retro	4	2	5	2	desktop,colors,windows,mac-os	An archive of every solid desktop background colour shipped by classic operating systems, starting with Windows 95 teal.
+https://issinrealtime.org	ISS in Real Time	archives	3	2	2	5	iss,space,nasa,replay	Twenty-five years aboard the International Space Station, replayed day by day from historical mission material.
+https://garden-of-flowers.heikkilotvonen.com/	Heikki's Garden of Flowers	archives	3	2	3	3	typography,letterpress,ornaments,archive	An archive of about 2,500 pictures composed entirely of type ornaments, characters and rule, across four centuries.
+https://ride.nexttrain.london/	ridealong	world	3	1	1	3	london,tube,3d,live	Board a live London Tube train and ride it through a 3D London.
+http://dancemusic.wtf/	DANCEMUSIC WTF-300	games	3	2	2	3	music,quiz,edm,genres	A quiz game for learning what 57 electronic dance music subgenres sound like.
+https://tbaldw.in/nyc-buildings	All the Buildings in Manhattan	world	3	1	1	2	manhattan,buildings,3d,webgl	An interactive 3D visualisation of every building in Manhattan.
+https://benwinding.github.io/encarta_95_web/	Encarta 95 Web	retro	4	2	5	4	encarta,encyclopedia,cd-rom,1995	The Encarta 95 CD-ROM encyclopedia, browsable on the web.
+https://franzelio.franzai.com/	Franzelio	art	3	1	1	2	music,drawing,instrument,lines	Draw lines, make music, share your instrument.
+https://8bitbyte.ca/sailnavsim/	SailNavSim	games	3	2	1	4	sailing,navigation,simulation,races	A sailing navigation simulator where you sail and race online.
+http://turtle.audio	turtle.audio	art	4	2	1	3	music,sequencer,turtle-graphics,code	A music sequencer inspired by turtle graphics: text commands draw lines that play sounds.
+https://silentshark.app/alpha/	Silent Shark	games	3	1	2	4	submarine,ww2,tactics,simulator	A tactical, map-based WWII submarine simulator, with a campaign, scenarios and tutorials.
+https://silentpoems.net/	Silent Poems	art	3	1	1	1	poetry,visual,communication,art	Lavinia Petrache's visual expression of unspoken thoughts.
+https://forestrydiary.com/	Forestry Diary	archives	4	2	3	4	forest-service,diary,1927,california	Eighteen years of daily work diaries kept by US Forest Service ranger Reuben P. Box, 1927 to 1945, scanned page by page.
+https://azgaar.github.io/Fantasy-Map-Generator	Azgaar's Fantasy Map Generator	tools	3	4	1	5	fantasy,maps,generator,worldbuilding	A free web app to create and edit fantasy maps, for writers, game masters and cartographers.
+https://tjukanovt.github.io/notable-people	Notable People	world	3	2	1	3	map,birthplaces,people,data	A world map of the birthplaces of the most notable person from each place, by Topi Tjukanov.
+https://www.snwbx.com	SnowBox	art	3	1	1	2	snow,sculpt,christmas,3d	Sculpt and share your own snowthingie. A Christmas experiment.
+https://googlefeud.com	Google Feud	games	3	1	2	3	autocomplete,quiz,parody,search	How does Google autocomplete this search? A parody guessing game, not affiliated with Google.
+https://krikienoid.github.io/flagwaver/	FlagWaver	tools	3	2	1	1	flag,simulation,wind,image	Load any image and watch it wave as a flag in the wind.
+https://thatmichaelpark.github.io/fractal-jigsaw-puzzle/	Fractal Jigsaw Puzzle	games	4	1	1	3	jigsaw,fractal,mandelbrot,puzzle	A jigsaw puzzle whose pieces are themselves jigsaw puzzles, ending in an image from the Mandelbrot set.
+https://inspirobot.me	InspiroBot	weird	4	1	2	2	quotes,generator,absurd,inspiration	An artificial intelligence dedicated to generating unlimited inspirational quotes for the "endless enrichment of pointless human existence".
+https://iss-sim.spacex.com	ISS Docking Simulator	games	3	2	1	2	spacex,iss,docking,simulator	Pilot a Dragon 2 to the International Space Station with the controls used by NASA astronauts.
+https://anvaka.github.io/city-roads/	City Roads	art	3	2	1	2	roads,city,map,rendering	Pick a city and every single road in it is drawn on one screen.
+http://www.patience-is-a-virtue.org/	Patience Is a Virtue	weird	5	1	2	1	loading,patience,joke,waiting	Loading, please wait.
+http://www.everydayim.com	Every Day I'm	weird	4	1	2	1	meme,song,single-purpose,loop	EVERY DAY I'M HUSTLIN'.
+https://www.yesnoif.com	Yes No If	art	3	1	1	1	rozendaal,net-art,words,2014	A 2014 web artwork by Rafaël Rozendaal, from a family collection.
+https://lacquerlacquer.com	lacquerlacquer.com	weird	4	1	1	1	nails,single-purpose,joke	These nails need to get lacquered.
+https://corgiorgy.com	Corgi Orgy	weird	4	1	2	1	corgis,dogs,music,single-purpose	Woof woof. A page of corgis with music.
+https://www.crossdivisions.com	Cross Divisions	art	3	1	1	1	rozendaal,net-art,2016,collection	A 2016 web artwork by Rafaël Rozendaal.
+https://www.omfgdogs.com	OMFGDOGS	weird	5	1	3	1	dogs,running,loop,single-purpose	OMFGDOGS. Help keep all the dogs running.
+http://tunnelsnakes.com	Tunnel Snakes Rule	weird	4	1	3	1	fallout,meme,video,single-purpose	Tunnel Snakes Rule. A one-video tribute.
+http://chillestmonkey.com	The Chillest Monkey	weird	4	1	2	1	monkey,chill,orinoco-flow,single-purpose	The chillest of monkeys, with 33 simultaneous Orinoco Flows.
+http://scroll-o-meter.club	Scroll-O-Meter	weird	4	1	1	1	scrolling,distance,joke,measure	Do you scroll to live, or live to scroll? Measures how many miles you scroll.
+http://chihuahuaspin.com	Chihuahua Spin	weird	5	1	2	1	chihuahua,spin,counter,single-purpose	A spinning chihuahua, with a counter of how many spins you have sat through.
+http://buildshruggie.com	Build Shruggie	weird	4	1	1	1	shruggie,emoticon,ascii,single-purpose	Build the shruggie emoticon, piece by piece.
+http://www.ifitweremyhome.com	If It Were My Home	world	3	3	1	3	countries,comparison,disasters,data	The lottery of birth: compare life where you live with life in another country.

@@ -1,0 +1,5893 @@
+[
+  {
+    "id": "neal-fun",
+    "title": "Neal.fun",
+    "url": "https://neal.fun/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "radio-garden",
+    "title": "Radio Garden",
+    "url": "https://radio.garden/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "zoomquilt",
+    "title": "Zoomquilt",
+    "url": "https://zoomquilt.org/",
+    "canonical_url": null,
+    "category": "ART",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "pointer-pointer",
+    "title": "Pointer Pointer",
+    "url": "https://pointerpointer.com/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "million-dollar-homepage",
+    "title": "The Million Dollar Homepage",
+    "url": "http://www.milliondollarhomepage.com/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "window-swap",
+    "title": "WindowSwap",
+    "url": "https://www.window-swap.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "scp-foundation",
+    "title": "SCP Foundation",
+    "url": "https://scp-wiki.wikidot.com/",
+    "canonical_url": null,
+    "category": "MYSTERY",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-useless-web",
+    "title": "The Useless Web",
+    "url": "https://theuselessweb.com/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "staggering-beauty",
+    "title": "Staggering Beauty",
+    "url": "http://www.staggeringbeauty.com/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "this-is-sand",
+    "title": "This Is Sand",
+    "url": "https://thisissand.com/",
+    "canonical_url": null,
+    "category": "ART",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "weavesilk",
+    "title": "Silk",
+    "url": "https://weavesilk.com/",
+    "canonical_url": null,
+    "category": "ART",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "patatap",
+    "title": "Patatap",
+    "url": "https://patatap.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "quick-draw",
+    "title": "Quick, Draw!",
+    "url": "https://quickdraw.withgoogle.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "earth-nullschool",
+    "title": "Earth Nullschool",
+    "url": "https://earth.nullschool.net/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "map-crunch",
+    "title": "MapCrunch",
+    "url": "https://www.mapcrunch.com/",
+    "canonical_url": null,
+    "category": "MYSTERY",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "little-alchemy-2",
+    "title": "Little Alchemy 2",
+    "url": "https://littlealchemy2.com/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "a-soft-murmur",
+    "title": "A Soft Murmur",
+    "url": "https://asoftmurmur.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "long-doge-challenge",
+    "title": "Long Doge Challenge",
+    "url": "https://longdogechallenge.com/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "endless-horse",
+    "title": "Endless Horse",
+    "url": "http://endless.horse/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "cat-bounce",
+    "title": "Cat Bounce",
+    "url": "https://cat-bounce.com/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "checkbox-race",
+    "title": "Checkbox Race",
+    "url": "https://checkboxrace.com/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "web-design-museum",
+    "title": "Web Design Museum",
+    "url": "https://www.webdesignmuseum.org/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "camerons-world",
+    "title": "Cameron's World",
+    "url": "https://www.cameronsworld.net/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "internet-arcade",
+    "title": "Internet Arcade",
+    "url": "https://archive.org/details/internetarcade",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "ncase-trust",
+    "title": "The Evolution of Trust",
+    "url": "https://ncase.me/trust/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "falling-falling",
+    "title": "Falling Falling",
+    "url": "https://www.fallingfalling.com/",
+    "canonical_url": null,
+    "category": "ART",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "koalas-to-the-max",
+    "title": "Koalas to the Max",
+    "url": "https://koalastothemax.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "find-the-invisible-cow",
+    "title": "Find the Invisible Cow",
+    "url": "https://findtheinvisiblecow.com/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "scream-into-the-void",
+    "title": "Scream Into the Void",
+    "url": "https://screamintothevoid.com/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "boredbutton",
+    "title": "Bored Button",
+    "url": "https://www.boredbutton.com/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-quiet-place",
+    "title": "The Quiet Place Project",
+    "url": "https://thequietplaceproject.xyz/",
+    "canonical_url": null,
+    "category": "EXPERIMENTAL",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "incredibox",
+    "title": "Incredibox",
+    "url": "https://www.incredibox.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "sandspiel",
+    "title": "Sandspiel",
+    "url": "https://sandspiel.club/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "hexells",
+    "title": "Hexells",
+    "url": "https://hexells.com/",
+    "canonical_url": null,
+    "category": "ART",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "100000-stars",
+    "title": "100,000 Stars",
+    "url": "https://stars.chromeexperiments.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "drive-and-listen",
+    "title": "Drive & Listen",
+    "url": "https://driveandlisten.herokuapp.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "music-map",
+    "title": "Music-Map",
+    "url": "https://www.music-map.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "everynoise",
+    "title": "Every Noise at Once",
+    "url": "https://everynoise.com/",
+    "canonical_url": null,
+    "category": "EXPERIMENTAL",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "radiooooo",
+    "title": "Radiooooo",
+    "url": "https://radiooooo.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "geoguessr",
+    "title": "GeoGuessr",
+    "url": "https://www.geoguessr.com/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wikitrivia",
+    "title": "WikiTrivia",
+    "url": "https://wikitrivia.tomjwatson.com/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-password-game",
+    "title": "The Password Game",
+    "url": "https://neal.fun/password-game/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "infinite-craft",
+    "title": "Infinite Craft",
+    "url": "https://neal.fun/infinite-craft/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "absurd-trolley-problems",
+    "title": "Absurd Trolley Problems",
+    "url": "https://neal.fun/absurd-trolley-problems/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "space-elevator",
+    "title": "Space Elevator",
+    "url": "https://neal.fun/space-elevator/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-deep-sea",
+    "title": "The Deep Sea",
+    "url": "https://neal.fun/deep-sea/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "internet-artifacts",
+    "title": "Internet Artifacts",
+    "url": "https://neal.fun/internet-artifacts/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "earth-reviews",
+    "title": "Earth Reviews",
+    "url": "https://neal.fun/earth-reviews/",
+    "canonical_url": null,
+    "category": "ABSURD",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "museum-of-endangered-sounds",
+    "title": "Museum of Endangered Sounds",
+    "url": "http://savethesounds.info/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "webamp",
+    "title": "Webamp",
+    "url": "https://webamp.org/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "windows93",
+    "title": "Windows 93",
+    "url": "https://www.windows93.net/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "windows96",
+    "title": "Windows 96",
+    "url": "https://windows96.net/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "gifcities",
+    "title": "GifCities",
+    "url": "https://gifcities.org/",
+    "canonical_url": null,
+    "category": "RETRO",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-html-review",
+    "title": "The HTML Review",
+    "url": "https://thehtml.review/",
+    "canonical_url": null,
+    "category": "ART",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-pudding",
+    "title": "The Pudding",
+    "url": "https://pudding.cool/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "ncase-loopy",
+    "title": "LOOPY",
+    "url": "https://ncase.me/loopy/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "ncase-parable",
+    "title": "Parable of the Polygons",
+    "url": "https://ncase.me/polygons/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "ncase-simulating",
+    "title": "Simulating the World",
+    "url": "https://ncase.me/simulating/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "flight-radar",
+    "title": "Flightradar24",
+    "url": "https://www.flightradar24.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "light-pollution-map",
+    "title": "Light Pollution Map",
+    "url": "https://www.lightpollutionmap.info/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "earthcam",
+    "title": "EarthCam",
+    "url": "https://www.earthcam.com/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "webgl-water",
+    "title": "WebGL Water",
+    "url": "https://madebyevan.com/webgl-water/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "fluid-simulation",
+    "title": "WebGL Fluid Simulation",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+    "canonical_url": null,
+    "category": "INTERACTIVE",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "particle-clicker",
+    "title": "Particle Clicker",
+    "url": "https://particle-clicker.web.cern.ch/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "little-big-snake",
+    "title": "Little Big Snake",
+    "url": "https://littlebigsnake.com/",
+    "canonical_url": null,
+    "category": "GAMES",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": null
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "is-it-christmas",
+    "title": "Is it Christmas?",
+    "url": "https://www.isitchristmas.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "make-everything-ok",
+    "title": "Make Everything OK",
+    "url": "https://make-everything-ok.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "nyan-cat",
+    "title": "Nyan Cat",
+    "url": "https://www.nyan.cat/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "rainy-mood",
+    "title": "Rainy Mood",
+    "url": "https://www.rainymood.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "do-nothing",
+    "title": "Do Nothing for 2 Minutes",
+    "url": "https://www.donothingfor2minutes.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "blank-org",
+    "title": "Blank.org",
+    "url": "https://blank.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "is-my-computer-on",
+    "title": "Is My Computer On?",
+    "url": "https://www.ismycomputeron.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "heeeeeeeey",
+    "title": "Heeeeeeeey",
+    "url": "https://heeeeeeeey.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "hooooooooo",
+    "title": "Hooooooooo",
+    "url": "https://hooooooooo.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "eel-slap",
+    "title": "Eel Slap",
+    "url": "https://eelslap.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "random-colour",
+    "title": "Random Colour",
+    "url": "https://randomcolour.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "lhc-destroyed",
+    "title": "Has the LHC Destroyed the World Yet?",
+    "url": "https://hasthelargehadroncolliderdestroyedtheworldyet.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "hacker-typer",
+    "title": "Hacker Typer",
+    "url": "https://hackertyper.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "bees-bees-bees",
+    "title": "Bees Bees Bees",
+    "url": "https://beesbeesbees.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "dontevenreply",
+    "title": "Don't Even Reply",
+    "url": "https://dontevenreply.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "apod",
+    "title": "Astronomy Picture of the Day",
+    "url": "https://apod.nasa.gov/apod/astropix.html",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "trypap",
+    "title": "Passive Aggressive Password Machine",
+    "url": "https://trypap.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "sometimes-red-blue",
+    "title": "Sometimes Red Sometimes Blue",
+    "url": "https://www.sometimesredsometimesblue.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "end-of-internet",
+    "title": "The End of the Internet",
+    "url": "https://www.hmpg.net/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "i-am-bored",
+    "title": "I Am Bored",
+    "url": "https://iambored.site/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "crzy-site",
+    "title": "crzy.site",
+    "url": "https://crzy.site/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "boring-websites",
+    "title": "Boring Websites",
+    "url": "https://boringwebsites.art/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wrongulator",
+    "title": "Wrongulator",
+    "url": "https://wrongulator.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "braincell-lol",
+    "title": "braincell.lol",
+    "url": "https://braincell.lol/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "dvd-screensaver-maker",
+    "title": "DVD Screensaver Maker",
+    "url": "https://dvdscreensavermaker.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Candidate from public curated list; no direct live check."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "is-nickelback-worst",
+    "title": "Is Nickelback the Worst Band Ever?",
+    "url": "https://isnickelbacktheworstbandever.tumblr.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "thatcher-dead",
+    "title": "Is Margaret Thatcher Dead Yet?",
+    "url": "https://www.isthatcherdeadyet.co.uk/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-dots",
+    "title": "The Dots",
+    "url": "https://www.thepointless.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "kim-jong-il-looking",
+    "title": "Kim Jong-Il Looking at Things",
+    "url": "https://kimjongillookingatthings.tumblr.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "instant-rimshot",
+    "title": "Instant Rimshot",
+    "url": "https://instantrimshot.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "clarify-science-dots",
+    "title": "A Dot for Each Second",
+    "url": "https://www.clarifyscience.info/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "ihug",
+    "title": "iHug.You",
+    "url": "https://ihug.you/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "move-now-think-later",
+    "title": "Move Now Think Later",
+    "url": "https://www.movenowthinklater.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "shut-up-take-my-money",
+    "title": "Shut Up and Take My Money",
+    "url": "https://shutupandtakemymoney.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "individual-dogs",
+    "title": "List of Individual Dogs",
+    "url": "https://en.wikipedia.org/wiki/List_of_individual_dogs",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "grandpa-no-clothes",
+    "title": "Grandpa No Clothes",
+    "url": "https://www.grandpanoclothes.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "patience-virtue",
+    "title": "Patience is a Virtue",
+    "url": "https://www.patience-is-a-virtue.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "rock-paper-scissors-game",
+    "title": "Rock Paper Scissors",
+    "url": "https://www.rock-paper-scissors-game.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "fuck-yeah-button",
+    "title": "Fuck Yeah Button",
+    "url": "https://fuckyeahbutton.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "leave-page",
+    "title": "Leave Page",
+    "url": "https://leavepage.aurelitec.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "powerful-websites",
+    "title": "Powerful Websites",
+    "url": "https://powerfulwebsites.online/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "prank-my-face",
+    "title": "Prank My Face",
+    "url": "https://prankmyface.lol/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "trynkit",
+    "title": "Trynkit",
+    "url": "https://pongvn.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "deepseek-memes",
+    "title": "DeepSeek Meme Gallery",
+    "url": "https://ai-meme.cdqyfdbymn.me/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "million-emojis",
+    "title": "1 Million Emojis",
+    "url": "https://chriswijnia.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "two-minute-drill",
+    "title": "2 Minute Drill Game",
+    "url": "https://2minutedrillgame.app/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "github-awesome-useless-websites"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Source list inspected Nov 4 2026; destination not checked."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-size-of-space",
+    "title": "The Size of Space",
+    "url": "https://neal.fun/size-of-space/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "draw-a-perfect-circle",
+    "title": "Draw a Perfect Circle",
+    "url": "https://neal.fun/perfect-circle/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "spend-bill-gates-money",
+    "title": "Spend Bill Gates' Money",
+    "url": "https://neal.fun/spend/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "noclip",
+    "title": "Noclip",
+    "url": "https://noclip.website/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "bruno-simon",
+    "title": "Bruno Simon",
+    "url": "https://bruno-simon.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "geektyper",
+    "title": "GeekTyper",
+    "url": "https://geektyper.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "hacker-news",
+    "title": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "marginalia-search",
+    "title": "Marginalia Search",
+    "url": "https://search.marginalia.nu/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wiby",
+    "title": "Wiby",
+    "url": "https://wiby.me/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "internet-archive",
+    "title": "Internet Archive",
+    "url": "https://archive.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wayback-machine",
+    "title": "Wayback Machine",
+    "url": "https://web.archive.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "textfiles-com",
+    "title": "Textfiles.com",
+    "url": "http://textfiles.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "museum-of-obsolete-media",
+    "title": "Museum of Obsolete Media",
+    "url": "https://obsoletemedia.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "futureme",
+    "title": "FutureMe",
+    "url": "https://www.futureme.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "musicmap",
+    "title": "Musicmap",
+    "url": "https://musicmap.info/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "chrome-music-lab",
+    "title": "Chrome Music Lab",
+    "url": "https://musiclab.chromeexperiments.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "typatone",
+    "title": "Typatone",
+    "url": "https://typatone.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "akinator",
+    "title": "Akinator",
+    "url": "https://en.akinator.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wordle",
+    "title": "Wordle",
+    "url": "https://www.nytimes.com/games/wordle/index.html",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "seterra",
+    "title": "Seterra",
+    "url": "https://www.geoguessr.com/seterra/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "city-guesser",
+    "title": "City Guesser",
+    "url": "https://virtualvacation.us/guess",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "windy",
+    "title": "Windy",
+    "url": "https://www.windy.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "marinetraffic",
+    "title": "MarineTraffic",
+    "url": "https://www.marinetraffic.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "openstreetmap",
+    "title": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "openrailwaymap",
+    "title": "OpenRailwayMap",
+    "url": "https://www.openrailwaymap.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "stellarium-web",
+    "title": "Stellarium Web",
+    "url": "https://stellarium-web.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "solar-system-scope",
+    "title": "Solar System Scope",
+    "url": "https://www.solarsystemscope.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "scale-of-the-universe",
+    "title": "Scale of the Universe",
+    "url": "https://scaleofuniverse.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "map-of-the-universe",
+    "title": "Map of the Universe",
+    "url": "https://mapoftheuniverse.net/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "nasa-eyes",
+    "title": "Nasa Eyes",
+    "url": "https://eyes.nasa.gov/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "radio-reference",
+    "title": "Radio Reference",
+    "url": "https://www.radioreference.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "websdr",
+    "title": "WebSDR",
+    "url": "http://websdr.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "kiwisdr-public-receivers",
+    "title": "KiwiSDR Public Receivers",
+    "url": "https://rx.linkfanel.net/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "shadertoy",
+    "title": "Shadertoy",
+    "url": "https://www.shadertoy.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "codepen",
+    "title": "CodePen",
+    "url": "https://codepen.io/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "observable",
+    "title": "Observable",
+    "url": "https://observablehq.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "nicky-case",
+    "title": "Nicky Case",
+    "url": "https://ncase.me/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "explorable-explanations",
+    "title": "Explorable Explanations",
+    "url": "https://explorabl.es/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "desmos",
+    "title": "Desmos",
+    "url": "https://www.desmos.com/calculator",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "geogebra",
+    "title": "GeoGebra",
+    "url": "https://www.geogebra.org/graphing",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wolfram-demonstrations",
+    "title": "Wolfram Demonstrations",
+    "url": "https://demonstrations.wolfram.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "piskel",
+    "title": "Piskel",
+    "url": "https://www.piskelapp.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "photopea",
+    "title": "Photopea",
+    "url": "https://www.photopea.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "excalidraw",
+    "title": "Excalidraw",
+    "url": "https://excalidraw.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "tldraw",
+    "title": "Tldraw",
+    "url": "https://www.tldraw.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "asciiflow",
+    "title": "ASCIIFlow",
+    "url": "https://asciiflow.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "cyberchef",
+    "title": "CyberChef",
+    "url": "https://gchq.github.io/CyberChef/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "regex101",
+    "title": "Regex101",
+    "url": "https://regex101.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "crontab-guru",
+    "title": "Crontab Guru",
+    "url": "https://crontab.guru/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "can-i-use",
+    "title": "Can I Use",
+    "url": "https://caniuse.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "bundlephobia",
+    "title": "Bundlephobia",
+    "url": "https://bundlephobia.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "squoosh",
+    "title": "Squoosh",
+    "url": "https://squoosh.app/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "svgomg",
+    "title": "SVGOMG",
+    "url": "https://jakearchibald.github.io/svgomg/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "tiny-helpers",
+    "title": "Tiny Helpers",
+    "url": "https://tiny-helpers.dev/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "coolors",
+    "title": "Coolors",
+    "url": "https://coolors.co/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "khroma",
+    "title": "Khroma",
+    "url": "https://www.khroma.co/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "fontjoy",
+    "title": "Fontjoy",
+    "url": "https://fontjoy.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "typewolf",
+    "title": "Typewolf",
+    "url": "https://www.typewolf.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "awwwards",
+    "title": "Awwwards",
+    "url": "https://www.awwwards.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "webgl-samples",
+    "title": "WebGL Samples",
+    "url": "https://webglsamples.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "three-js-examples",
+    "title": "Three.js Examples",
+    "url": "https://threejs.org/examples/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "js1k-archive",
+    "title": "JS1k Archive",
+    "url": "https://js1k.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "dwitter",
+    "title": "Dwitter",
+    "url": "https://www.dwitter.net/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "pouet",
+    "title": "Pouet",
+    "url": "https://www.pouet.net/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "demozoo",
+    "title": "Demozoo",
+    "url": "https://demozoo.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "internet-pinball-database",
+    "title": "Internet Pinball Database",
+    "url": "https://www.ipdb.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "mame",
+    "title": "MAME",
+    "url": "https://www.mamedev.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "dos-games-archive",
+    "title": "DOS Games Archive",
+    "url": "https://www.dosgamesarchive.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "dosbox",
+    "title": "DOSBox",
+    "url": "https://www.dosbox.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "emulatorjs",
+    "title": "EmulatorJS",
+    "url": "https://emulatorjs.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "archive-org-software-library",
+    "title": "Archive.org Software Library",
+    "url": "https://archive.org/details/softwarelibrary",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-cutting-room-floor",
+    "title": "The Cutting Room Floor",
+    "url": "https://tcrf.net/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "hidden-palace",
+    "title": "Hidden Palace",
+    "url": "https://hiddenpalace.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-spriters-resource",
+    "title": "The Spriters Resource",
+    "url": "https://www.spriters-resource.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-models-resource",
+    "title": "The Models Resource",
+    "url": "https://www.models-resource.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-sounds-resource",
+    "title": "The Sounds Resource",
+    "url": "https://www.sounds-resource.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "famicom-party",
+    "title": "Famicom Party",
+    "url": "https://famicom.party/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "this-person-does-not-exist",
+    "title": "This Person Does Not Exist",
+    "url": "https://thispersondoesnotexist.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "quick-draw-dataset",
+    "title": "Quick, Draw! Dataset",
+    "url": "https://quickdraw.withgoogle.com/data",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "google-arts-culture",
+    "title": "Google Arts & Culture",
+    "url": "https://artsandculture.google.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "artvee",
+    "title": "Artvee",
+    "url": "https://artvee.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "public-domain-review",
+    "title": "Public Domain Review",
+    "url": "https://publicdomainreview.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "atlas-obscura",
+    "title": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-map-house",
+    "title": "The Map House",
+    "url": "https://www.davidrumsey.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-secret-door",
+    "title": "The Secret Door",
+    "url": "https://www.safestyle-windows.co.uk/the-secret-door/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "skribbl",
+    "title": "Skribbl",
+    "url": "https://skribbl.io/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "gartic-phone",
+    "title": "Gartic Phone",
+    "url": "https://garticphone.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "tetr-io",
+    "title": "Tetr.io",
+    "url": "https://tetr.io/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "jstris",
+    "title": "Jstris",
+    "url": "https://jstris.jezevec10.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "chess-com-puzzles",
+    "title": "Chess.com Puzzles",
+    "url": "https://www.chess.com/puzzles",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "lichess",
+    "title": "Lichess",
+    "url": "https://lichess.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "universal-paperclips",
+    "title": "Universal Paperclips",
+    "url": "https://www.decisionproblem.com/paperclips/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "a-dark-room",
+    "title": "A Dark Room",
+    "url": "https://adarkroom.doublespeakgames.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "fallen-london",
+    "title": "Fallen London",
+    "url": "https://www.fallenlondon.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "notpron",
+    "title": "Notpron",
+    "url": "https://notpron.com/notpron/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "cipher-challenge",
+    "title": "Cipher Challenge",
+    "url": "https://www.cipherchallenge.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-riddle-school",
+    "title": "The Riddle School",
+    "url": "https://www.coolmathgames.com/0-riddle-school",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-wiki-game",
+    "title": "The Wiki Game",
+    "url": "https://www.thewikigame.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wikiroulette",
+    "title": "WikiRoulette",
+    "url": "https://wikiroulette.co/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wikipedia-random",
+    "title": "Wikipedia Random",
+    "url": "https://en.wikipedia.org/wiki/Special:Random",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "wikimedia-commons-random",
+    "title": "Wikimedia Commons Random",
+    "url": "https://commons.wikimedia.org/wiki/Special:Random/File",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "openverse",
+    "title": "Openverse",
+    "url": "https://openverse.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "library-of-babel",
+    "title": "Library of Babel",
+    "url": "https://libraryofbabel.info/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-infinite-conversation",
+    "title": "The Infinite Conversation",
+    "url": "https://www.infiniteconversation.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "listen-to-wikipedia",
+    "title": "Listen to Wikipedia",
+    "url": "https://listen.hatnote.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "the-pudding-population-mountains",
+    "title": "The Pudding Population Mountains",
+    "url": "https://pudding.cool/2018/12/3d-cities-story/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "one-million-checkboxes",
+    "title": "One Million Checkboxes",
+    "url": "https://onemillioncheckboxes.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "robohash",
+    "title": "RoboHash",
+    "url": "https://robohash.org/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "dicebear",
+    "title": "DiceBear",
+    "url": "https://www.dicebear.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  },
+  {
+    "id": "this-is-a-website",
+    "title": "This Is a Website",
+    "url": "https://thisisnotajumpscare.com/",
+    "canonical_url": null,
+    "category": "UNKNOWN",
+    "tags": [],
+    "language": "unknown",
+    "summary": null,
+    "gary_note": null,
+    "classification": "UNKNOWN",
+    "source_ids": [
+      "legacy-import"
+    ],
+    "verification": {
+      "status": "PENDING",
+      "checked_at": null,
+      "http_status": null,
+      "final_url": null,
+      "mobile_checked": false,
+      "content_reviewed": false,
+      "safety_reviewed": false,
+      "notes": "Imported from legacy catalog; requires full editorial review."
+    },
+    "published": false,
+    "random_eligible": false
+  }
+]

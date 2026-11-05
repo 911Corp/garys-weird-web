@@ -1,0 +1,1970 @@
+[
+ {
+  "url": "https://zombo.com/",
+  "status": "candidate",
+  "reason": "not selected: domain changed owner, original site is gone",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://html5zombo.com/",
+  "status": "candidate",
+  "reason": "not selected: unofficial copy",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://heeeeeeeey.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://thispersondoesnotexist.com/",
+  "status": "unavailable",
+  "reason": "not selected: domain listed for sale on an earlier check",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://corndog.io/",
+  "status": "candidate",
+  "reason": "browser render failed (405)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://nooooooooooooooo.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://arngren.net/",
+  "status": "candidate",
+  "reason": "check failed (503)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://superbad.com/",
+  "status": "candidate",
+  "reason": "browser render failed (405)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://jodi.org/",
+  "status": "candidate",
+  "reason": "not selected: browser redirects to another domain",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://play2048.co/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://sandboxels.r74n.com/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://neal.fun/sandboxels/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://twinbeard.com/frog-fractions/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) OpenSSL/3.0.13: error:0A000438:SSL routines::tlsv)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://lichess.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://haveibeenpwned.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://downforeveryoneorjustme.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.timeanddate.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://caniuse.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.wolframalpha.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.desmos.com/calculator",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://coolors.co/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://web.archive.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://blog.geocities.institute/",
+  "status": "candidate",
+  "reason": "check failed (502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://knowyourmeme.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://gifcities.org/",
+  "status": "candidate",
+  "reason": "rate-limited during the check",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://savethesounds.info/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.shadertoy.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://openprocessing.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://archive.org/details/softwarelibrary",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.old-computers.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://demozoo.org/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.lemon64.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.vogons.org/",
+  "status": "candidate",
+  "reason": "browser render failed (502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.dosbox.com/",
+  "status": "candidate",
+  "reason": "browser render failed (502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://win95.ajf.me/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://hyperphysics.phy-astr.gsu.edu/",
+  "status": "candidate",
+  "reason": "browser render failed (405)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://xeno-canto.org/",
+  "status": "candidate",
+  "reason": "not selected: access denied to the browser check",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.windy.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.flightradar24.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://ourworldindata.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.populationpyramid.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.gutenberg.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.lostmediawiki.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://driveandlisten.herokuapp.com/",
+  "status": "unavailable",
+  "reason": "HTTP 404",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://neal.fun/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://www.staggeringbeauty.com/",
+  "status": "candidate",
+  "reason": "not selected: strong flashing, photosensitivity risk",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://endless.horse/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://archive.org/details/internetarcade",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.fallingfalling.com/",
+  "status": "candidate",
+  "reason": "not selected: flashing, photosensitivity risk",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://hexells.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.geoguessr.com/",
+  "status": "candidate",
+  "reason": "not selected: commercial, account wall",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://savethesounds.info/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://ncase.me/simulating/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://littlebigsnake.com/",
+  "status": "candidate",
+  "reason": "not selected: commercial game",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.donothingfor2minutes.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://heeeeeeeey.com/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://hooooooooo.com/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://randomcolour.com/",
+  "status": "candidate",
+  "reason": "not selected: full-screen colour flashing",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://hackertyper.com/",
+  "status": "candidate",
+  "reason": "not selected: duplicate of Hacker Typer",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://beesbeesbees.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL certificate problem: unable to get local issu)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://dontevenreply.com/",
+  "status": "candidate",
+  "reason": "not selected: vulgar title",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://apod.nasa.gov/apod/astropix.html",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://science.nasa.gov/apod/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.sometimesredsometimesblue.com/",
+  "status": "candidate",
+  "reason": "not selected: full-screen colour flashing",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://braincell.lol/",
+  "status": "candidate",
+  "reason": "not selected: paid product",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://isnickelbacktheworstbandever.tumblr.com/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.isthatcherdeadyet.co.uk/",
+  "status": "candidate",
+  "reason": "not selected: political",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://kimjongillookingatthings.tumblr.com/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.clarifyscience.info/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.movenowthinklater.com/",
+  "status": "candidate",
+  "reason": "not selected: flashing pattern",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://shutupandtakemymoney.com/",
+  "status": "candidate",
+  "reason": "not selected: commercial",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.grandpanoclothes.com/",
+  "status": "candidate",
+  "reason": "not selected: cartoon nudity",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.rock-paper-scissors-game.com/",
+  "status": "candidate",
+  "reason": "not selected: ad-heavy",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://fuckyeahbutton.org/",
+  "status": "candidate",
+  "reason": "not selected: vulgar",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://prankmyface.lol/",
+  "status": "candidate",
+  "reason": "not selected: prank built on fake AI proof about a friend",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://pongvn.com/",
+  "status": "candidate",
+  "reason": "not selected: commercial studio site",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://ai-meme.cdqyfdbymn.me/",
+  "status": "candidate",
+  "reason": "not selected: redirects to another domain",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://chriswijnia.com/",
+  "status": "candidate",
+  "reason": "not selected: personal business site",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://2minutedrillgame.app/",
+  "status": "candidate",
+  "reason": "not selected: commercial",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://noclip.website/",
+  "status": "candidate",
+  "reason": "not selected: needs WebGPU, could not be seen working",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://geektyper.com/",
+  "status": "candidate",
+  "reason": "not selected: ad-heavy duplicate of Hacker Typer",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://news.ycombinator.com/",
+  "status": "candidate",
+  "reason": "not selected: not an oddity",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://archive.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://en.akinator.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.nytimes.com/games/wordle/index.html",
+  "status": "candidate",
+  "reason": "not selected: commercial, mainstream",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.marinetraffic.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.openstreetmap.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.radioreference.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://websdr.org/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://rx.linkfanel.net/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://codepen.io/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://observablehq.com/",
+  "status": "candidate",
+  "reason": "check failed (429)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.geogebra.org/graphing",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.khroma.co/",
+  "status": "candidate",
+  "reason": "not selected: commercial",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.awwwards.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.ipdb.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.dosgamesarchive.com/",
+  "status": "candidate",
+  "reason": "not selected: page body did not render",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://tcrf.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.spriters-resource.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.models-resource.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.sounds-resource.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://famicom.party/",
+  "status": "candidate",
+  "reason": "not selected: personal site, no destination interest yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://artsandculture.google.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.safestyle-windows.co.uk/the-secret-door/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://skribbl.io/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://garticphone.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://tetr.io/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://jstris.jezevec10.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.chess.com/puzzles",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.coolmathgames.com/0-riddle-school",
+  "status": "unavailable",
+  "reason": "HTTP 404",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Special:Random",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://commons.wikimedia.org/wiki/Special:Random/File",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://openverse.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://thisisnotajumpscare.com/",
+  "status": "candidate",
+  "reason": "not selected: content could not be judged from a screenshot",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://cant-not-tweet-this.com",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://xn--gi8h42h.ws",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.rrrgggbbb.com",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://maninthedark.com",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://www.partridgegetslucky.com",
+  "status": "candidate",
+  "reason": "check failed (503)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://strobe.cool",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://wutdafuk.com",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://pixelsfighting.com",
+  "status": "candidate",
+  "reason": "browser render failed (502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://isitwhite.com",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://onemillionlols.com",
+  "status": "candidate",
+  "reason": "check failed (503)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://buzzybuzz.biz",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://thepigeon.org",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://forsale.godaddy.com/forsale/thepigeon.org?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://www.amialright.com",
+  "status": "candidate",
+  "reason": "check failed (503)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://end.city",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL certificate problem: unable to get local issu)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://elonjump.com",
+  "status": "candidate",
+  "reason": "check failed (429)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://www.republiquedesmangues.fr",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://ninjaflex.com",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://shovelandshoot.com",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://tencents.info",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://spaceis.cool",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://yeahlemons.com",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://awesome.re/badge-flat.svg",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://awesome.re",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://www.thepointless.com/dots",
+  "status": "unavailable",
+  "reason": "HTTP 404",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "http://www.clarifyscience.info/assets/day_of_dots_clock?do=08:04:45#topofclock",
+  "status": "candidate",
+  "reason": "check failed (503)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.linkedin.com/in/scriptex",
+  "status": "candidate",
+  "reason": "check failed (999)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://gitlab.com/scriptex",
+  "status": "candidate",
+  "reason": "browser render failed (429)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.npmjs.com/~scriptex",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://stackoverflow.com/users/4140082/atanas-atanasov",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://profile.codersrank.io/user/scriptex",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://linktr.ee/scriptex",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://revolut.me/scriptex",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://patreon.com/atanas",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://liberapay.com/scriptex/donate",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.pointerpointer.com/gallery",
+  "status": "candidate",
+  "reason": "check failed (522)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.bbc.com/future",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Wikipedia:Database_reports/Long_pages",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.europeana.eu/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.nasa.gov/image-article/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://images.nasa.gov/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://earthobservatory.nasa.gov/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://science.nasa.gov/earth/earth-observatory/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.timeanddate.com/worldclock/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.unicode.org/charts/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.pixilart.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.gridpaint.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://98.css/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://bbs.archive.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://break-into-chat.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.gopher.floodgap.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://gopher.floodgap.com/gopher/gw",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.pointlesssites.com/",
+  "status": "candidate",
+  "reason": "browser render failed (502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.ouchmyfinger.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.trolleyproblem.net/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.typeracer.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://monkeytype.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.sporcle.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.jetpunk.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.freeciv.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://play.freeciv.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://projecteuler.net/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.codewars.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.kongregate.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.addictinggames.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.newgrounds.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.miniclip.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://orisinal.com/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://www.ferryhalim.com/orisinal/index.html",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.wikihow.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.instructables.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.ifixit.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.atariarchives.org/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.c64.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL certificate problem: unable to get local issu)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.mobygames.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.giantbomb.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.gamefaqs.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.zxdb.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.lemonamiga.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.nesdev.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.nesdev.org/wiki/Nesdev_Wiki",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.romhacking.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.speedrun.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.demoscene.tv/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://keygenmusic.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.freesound.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.liveatc.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.broadcastify.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.earthviewer.org/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://forsale.godaddy.com/forsale/www.earthviewer.org?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://earth.google.com/web/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://earthview.withgoogle.com/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://chromewebstore.google.com/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.google.com/maps/about/mymaps/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.citypopulation.de/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.cartogrammar.com/",
+  "status": "candidate",
+  "reason": "browser render failed (405)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.radical-cartography.net/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.flightaware.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.vesselfinder.com/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.windy.tv/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://www.windy.com/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://earthquake.usgs.gov/earthquakes/map/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.volcanodiscovery.com/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://sealevel.nasa.gov/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.jpl.nasa.gov/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.nasa.gov/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://spotthestation.nasa.gov/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://www.nasa.gov/spot-the-station/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.stuffin.space/",
+  "status": "candidate",
+  "reason": "check failed (301)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://apps.sentinel-hub.com/eo-browser/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.astrobin.com/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.aavso.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://galaxyzoo.org/",
+  "status": "candidate",
+  "reason": "browser render failed (405)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://exoplanets.nasa.gov/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://science.nasa.gov/exoplanets/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.ncbi.nlm.nih.gov/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.biodiversitylibrary.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.gbif.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.fossilworks.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.conwaylife.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.mathsisfun.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.geogebra.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.3blue1brown.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://brilliant.org/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://immersivemath.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://seeing-theory.brown.edu/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL certificate problem: unable to get local issu)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.visualcapitalist.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://flowingdata.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.wtfviz.net/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://viz.wtf/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.weather.gov/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.metafilter.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://stumblingon.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.cloudhiker.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.loc.gov/collections/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.nationalarchives.gov.uk/",
+  "status": "candidate",
+  "reason": "browser render failed (405)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.bl.uk/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://gallica.bnf.fr/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.wdl.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://oldmapsonline.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.old-maps.co.uk/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://www.landmark.co.uk/news-insights/blog/changes-to-old-maps-website/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.historicmapworks.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.whatwasthere.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.bash.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.hoaxes.org/",
+  "status": "candidate",
+  "reason": "check failed (301)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.snopes.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.museumofhoaxes.com/",
+  "status": "candidate",
+  "reason": "browser render failed (405)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.museumofhoaxes.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.cabinetofcuriosities.org/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.mutter-museum.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.jstor.org/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.worldcat.org/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://search.worldcat.org/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://openlibrary.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.poetryfoundation.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.etymonline.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.urbandictionary.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.rhymezone.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.omniglot.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.dafont.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.fontsquirrel.com/",
+  "status": "candidate",
+  "reason": "check failed (202)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.fontspace.com/",
+  "status": "candidate",
+  "reason": "browser render failed (403)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://codepen.io/trending",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://css-tricks.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.siteinspire.com/",
+  "status": "candidate",
+  "reason": "check failed (429)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.ezgif.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.photomosh.com/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://moshpro.app/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.pixlr.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://jsfxr.frozenfractal.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.jummbus.bitbucket.io/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.virtualpiano.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.earsketch.gatech.edu/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.soundtrap.com/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.whosampled.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.discogs.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.setlist.fm/",
+  "status": "candidate",
+  "reason": "check failed (202)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.last.fm/",
+  "status": "candidate",
+  "reason": "not selected: too well known, nothing original enough for an exception",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.allmusic.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.ishkur.com/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://music.ishkur.com/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.bbc.co.uk/sounds/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://www.bbc.com/audio",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.dailyoverview.com/",
+  "status": "candidate",
+  "reason": "browser redirected to another domain: https://www.over-view.com/",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://astronomy.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.blitzortung.org/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.staggeringbeauty.com/",
+  "status": "candidate",
+  "reason": "not selected: flashing, photosensitivity risk",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://thequietplaceproject.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) OpenSSL/3.0.13: error:0A000438:SSL routines::tlsv)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.do-nothing-for-2-minutes.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.ishkur.com/music/",
+  "status": "unavailable",
+  "reason": "HTTP 404",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.desmos.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://endless.horse/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://fallingfalling.com/",
+  "status": "candidate",
+  "reason": "not selected: flashing, photosensitivity risk",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://corndog.io/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.cheese-or-font.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.marginalia.nu/",
+  "status": "candidate",
+  "reason": "not selected: duplicate of Marginalia Search",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://perchance.org/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://www.gapminder.org/",
+  "status": "candidate",
+  "reason": "not selected: too well known",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://playphrase.me/",
+  "status": "candidate",
+  "reason": "not selected: refused the test browser",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://tasteatlas.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://wornontv.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://eyecannndy.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://sleepyti.me/",
+  "status": "candidate",
+  "reason": "not selected: redirects to a commercial site",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://leolabs.space/",
+  "status": "candidate",
+  "reason": "not selected: commercial",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://boilthefrog.playlistmachinery.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (35) Recv failure: Connection reset by peer)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://housecreep.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://corrupt-a-file.net/",
+  "status": "candidate",
+  "reason": "not selected: made to fake a broken file",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://breakyourownnews.com/",
+  "status": "candidate",
+  "reason": "not selected: fake news generator",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://itsthisforthat.com/",
+  "status": "candidate",
+  "reason": "check failed (522)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://dramabutton.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://wvnl.xyz/",
+  "status": "candidate",
+  "reason": "not selected: personal portfolio",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://howmanypeopleareinspacerightnow.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://alexanderperrin.com.au/",
+  "status": "candidate",
+  "reason": "check failed (429)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://matias.me/",
+  "status": "candidate",
+  "reason": "not selected: personal portfolio",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://fishcam.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (56) CONNECT tunnel failed, response 502)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://spielzeugz.de/",
+  "status": "candidate",
+  "reason": "not selected: studio site",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://bryanbraun.com/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://joshworth.com/",
+  "status": "candidate",
+  "reason": "not selected: personal portfolio",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://geo-fs.com/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://joshdata.me/",
+  "status": "candidate",
+  "reason": "not selected: personal homepage",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://nationstates.net/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://stephaneginier.com/",
+  "status": "candidate",
+  "reason": "not selected: personal homepage",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://currentmillis.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://worldsbiggestpacman.com/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://slowroads.io/",
+  "status": "candidate",
+  "reason": "blocked the automated check (HTTP 403), needs a check by a person",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://webtiles.kicya.net/",
+  "status": "candidate",
+  "reason": "not selected: blocked by a verification",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://soulwebb.ing/",
+  "status": "candidate",
+  "reason": "not selected: page warns of adult content",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://blitzortung.org/",
+  "status": "candidate",
+  "reason": "check failed (curl: (60) SSL: no alternative certificate subject name matc)",
+  "last_checked": "2026-11-04"
+ },
+ {
+  "url": "https://marginalia.nu/",
+  "status": "candidate",
+  "reason": "reachable, description not written yet",
+  "last_checked": "2026-11-04"
+ }
+]

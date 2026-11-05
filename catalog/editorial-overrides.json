@@ -1,0 +1,4537 @@
+{
+  "version": "0.1-editorial",
+  "review_date": "2026-11-05",
+  "changes": {
+    "the-useless-web": [
+      "A button that sends you to a randomly selected novelty website.",
+      [
+        "https://theuselessweb.com/"
+      ]
+    ],
+    "pointer-pointer": [
+      "Stop moving your cursor and the site chooses a photograph with someone pointing near it.",
+      [
+        "https://pointerpointer.com/"
+      ]
+    ],
+    "hacker-typer": [
+      "A typing simulator that displays prewritten code as you press keys. It does not perform hacking.",
+      [
+        "https://hackertyper.net/"
+      ]
+    ],
+    "line-rider": [
+      "Draw a track and watch a small sledder ride it.",
+      [
+        "https://www.linerider.com/"
+      ]
+    ],
+    "qwop": [
+      "An athletics game from Foddy.net.",
+      [
+        "https://www.foddy.net/legacy/Athletics.html"
+      ]
+    ],
+    "the-million-dollar-homepage": [
+      "Alex Tew's grid of one million pixels, sold as advertising space.",
+      [
+        "http://www.milliondollarhomepage.com/"
+      ]
+    ],
+    "pouet-net": [
+      "A community database of demoscene productions, with comments, credits and download links.",
+      [
+        "https://www.pouet.net/"
+      ]
+    ],
+    "from-nand-to-tetris": [
+      "A course in building a simplified computer system from logic gates through software.",
+      [
+        "https://www.nand2tetris.org/"
+      ]
+    ],
+    "the-malware-museum": [
+      "Mikko Hyppönen's Internet Archive collection of 1980s and 1990s home-computer viruses, and the animations or messages they displayed.",
+      [
+        "https://archive.org/details/malwaremuseum"
+      ]
+    ],
+    "library-of-babel": [
+      "A Borges-inspired project that algorithmically generates every possible 3,200-character page using a fixed 29-character alphabet.",
+      [
+        "https://libraryofbabel.info/about.html"
+      ],
+      "every possible page. still no excuse for my commit messages."
+    ],
+    "voyager": [
+      "NASA's Voyager probes explore interstellar space beyond the heliosphere. They have not passed beyond the distant Oort Cloud.",
+      [
+        "https://science.nasa.gov/mission/voyager/",
+        "https://science.nasa.gov/solar-system/oort-cloud/facts/"
+      ],
+      "interstellar space. my wifi struggles with the next room."
+    ],
+    "space-elevator": [
+      "An interactive illustrated ascent through Earth's atmosphere using an imaginary space elevator.",
+      [
+        "https://neal.fun/space-elevator/"
+      ],
+      "imaginary elevator. very real urge to press every button."
+    ],
+    "download-more-ram": [
+      "A joke website pretending to offer downloadable RAM. Physical computer memory cannot be downloaded.",
+      [
+        "https://downloadmoreram.com/"
+      ],
+      "hardware upgrade via download button. incredible business model for imaginary hardware."
+    ],
+    "spurious-correlations": [
+      "Charts of surprising statistical correlations that illustrate why correlation does not establish causation.",
+      [
+        "https://www.tylervigen.com/spurious-correlations"
+      ],
+      "correlation is not causation. there goes my entire detective career."
+    ],
+    "hotbits": [
+      "An archive about generating random numbers from radioactive decay. The radioactive generator was retired at the end of 2022.",
+      [
+        "https://www.fourmilab.ch/hotbits/"
+      ],
+      "radioactive randomness, archived. my random decisions use a less impressive setup."
+    ],
+    "the-infinite-conversation": [
+      "An AI-generated audio work imitating Werner Herzog and Slavoj Žižek. Neither speaker is participating, and the words do not represent their views.",
+      [
+        "https://www.infiniteconversation.com/"
+      ],
+      "synthetic voices, synthetic conversation. please do not cite the silicon."
+    ],
+    "stilltasty": [
+      "A searchable guide to food storage and shelf life. Its guidance depends on the food and storage conditions.",
+      [
+        "https://www.stilltasty.com/"
+      ],
+      "a database for the fridge side quest."
+    ],
+    "faded-page": [
+      "Volunteer-produced ebooks in the Canadian public domain. Copyright status can differ in other countries.",
+      [
+        "https://www.fadedpage.com/"
+      ],
+      "the reading backlog has acquired infrastructure."
+    ],
+    "dimensions-com": [
+      "A reference database of dimensioned drawings of objects, spaces, people and other subjects.",
+      [
+        "https://www.dimensions.com/"
+      ],
+      "dimensions provided. my ability to measure twice remains unconfirmed."
+    ],
+    "spend-bill-gates-money": [
+      "A spending game with an imaginary $100 billion budget and preset item prices.",
+      [
+        "https://neal.fun/spend/"
+      ],
+      "finally, a budget large enough for my imaginary projects."
+    ],
+    "scp-foundation": [
+      "A collaborative fiction wiki presented as files about anomalous objects and events. Its fictional stories include horror.",
+      [
+        "https://scp-wiki.wikidot.com/"
+      ]
+    ],
+    "ancient-earth-globe": [
+      "An interactive globe showing reconstructions of Earth's geography at selected times in the geological past.",
+      [
+        "https://dinosaurpictures.org/ancient-earth"
+      ]
+    ],
+    "radio-garden": [
+      "Explore a globe of internet radio streams. Station availability varies.",
+      [
+        "https://radio.garden/"
+      ]
+    ],
+    "radiooooo": [
+      "Explore curated music by country and decade.",
+      [
+        "https://app.radiooooo.com/"
+      ]
+    ],
+    "make-everything-ok": [
+      "A joke button that pretends to make everything OK.",
+      [
+        "https://make-everything-ok.com/"
+      ]
+    ],
+    "end-of-the-internet": [
+      "A joke page presenting itself as the end of the Internet.",
+      [
+        "https://www.hmpg.net/"
+      ]
+    ],
+    "museum-of-obsolete-media": [
+      "A collection documenting historical recording and data storage formats.",
+      [
+        "https://obsoletemedia.org/"
+      ]
+    ],
+    "tldraw": [
+      "A browser-based drawing and diagramming canvas.",
+      [
+        "https://www.tldraw.com/"
+      ]
+    ],
+    "tiny-helpers": [
+      "A curated directory of online tools for web developers. Access terms vary by tool.",
+      [
+        "https://tiny-helpers.dev/"
+      ]
+    ],
+    "pairdrop": [
+      "A browser-based file transfer tool for sharing between devices.",
+      [
+        "https://pairdrop.net/"
+      ]
+    ],
+    "killed-by-google": [
+      "An independently maintained catalogue of discontinued Google products and services.",
+      [
+        "https://killedbygoogle.com/"
+      ]
+    ],
+    "experiments-with-google": [
+      "A collection of creative experiments involving technology.",
+      [
+        "https://experiments.withgoogle.com/"
+      ]
+    ],
+    "robohash": [
+      "Generate a repeatable illustrated avatar from a text input.",
+      [
+        "https://robohash.org/"
+      ]
+    ],
+    "the-password-game": [
+      "A puzzle that asks you to construct a fictional password under increasingly elaborate rules."
+    ],
+    "earth-reviews": [
+      "A playful review site for things found on Earth, presented with a fictional simulation theme."
+    ],
+    "life-stats": [
+      "An interactive page estimating events and quantities over a lifetime from a birth date."
+    ],
+    "progress": [
+      "Time intervals and estimated milestones visualised as progress bars."
+    ],
+    "ripe-for-debate": [
+      "An interactive banana-ripeness preference game.",
+      [
+        "https://ripefordebate.com/"
+      ]
+    ],
+    "list-of-common-misconceptions": [
+      "A Wikipedia list discussing common misconceptions, with references for individual entries.",
+      [
+        "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+      ]
+    ],
+    "public-domain-movies": [
+      "A collection presenting films as public domain. Rights can differ by country and version.",
+      [
+        "https://publicdomainmovies.info/"
+      ]
+    ],
+    "random-org": [
+      "A random-number service that describes its randomness source as atmospheric noise.",
+      [
+        "https://www.random.org/"
+      ]
+    ],
+    "symbl": [
+      "A searchable reference for Unicode characters, with copyable symbols.",
+      [
+        "https://symbl.cc/"
+      ]
+    ],
+    "overpass-turbo": [
+      "An interface for querying OpenStreetMap data, such as mapped benches in a selected area.",
+      [
+        "https://overpass-turbo.eu/"
+      ]
+    ],
+    "peakfinder": [
+      "A panorama tool for identifying mapped mountain peaks from a location.",
+      [
+        "https://www.peakfinder.com/"
+      ]
+    ],
+    "satellite-map": [
+      "A visualisation of satellite positions calculated from orbital data.",
+      [
+        "https://satellitemap.space/"
+      ]
+    ],
+    "ads-b-exchange-globe": [
+      "A map of aircraft positions based on receiver data. Coverage varies.",
+      [
+        "https://globe.adsbexchange.com/"
+      ]
+    ],
+    "ventusky": [
+      "Interactive maps of weather data and forecasts, including wind, rain and temperature.",
+      [
+        "https://www.ventusky.com/"
+      ]
+    ],
+    "wind-map": [
+      "An animated visualisation of wind patterns over the United States using weather data.",
+      [
+        "http://hint.fm/wind/"
+      ]
+    ],
+    "lightningmaps-org": [
+      "A map of lightning detections reported by a sensor network. Coverage and delays vary.",
+      [
+        "https://www.lightningmaps.org/"
+      ]
+    ],
+    "rsoe-edis": [
+      "A map collecting reports of emergencies and disasters.",
+      [
+        "https://rsoe-edis.org/"
+      ]
+    ],
+    "mcbroken": [
+      "A tracker reporting McDonald's ice cream availability. A missing menu item does not by itself establish a mechanical fault.",
+      [
+        "https://mcbroken.com/"
+      ]
+    ],
+    "will-robots-take-my-job": [
+      "A site presenting occupation-level automation-risk estimates. These are not predictions of an individual's employment outcome.",
+      [
+        "https://willrobotstakemyjob.com/"
+      ]
+    ],
+    "forebears": [
+      "A reference site presenting estimates of name distribution and frequency from its datasets.",
+      [
+        "https://forebears.io/"
+      ]
+    ],
+    "body-visualizer": [
+      "An interactive model that estimates a body shape from entered measurements.",
+      [
+        "https://bodyvisualizer.is.tue.mpg.de/"
+      ]
+    ],
+    "how-normal-am-i": [
+      "An interactive documentary demonstrating algorithmic judgements about faces. Its scores are not objective measures of a person's worth or normality.",
+      [
+        "https://hownormalami.eu/"
+      ]
+    ],
+    "brand-name-pencils": [
+      "A collector's catalogue of rare and vintage branded pencils.",
+      [
+        "https://brandnamepencils.com/"
+      ]
+    ],
+    "busy-beaver-button-museum": [
+      "An online collection of historical pinback buttons.",
+      [
+        "https://buttonmuseum.org/"
+      ]
+    ],
+    "battles": [
+      "A map and timeline of battles represented in the project's historical datasets.",
+      [
+        "https://battles.nodegoat.net/"
+      ]
+    ],
+    "windows-of-new-york": [
+      "A collection of illustrated New York windows.",
+      [
+        "https://windowsofnewyork.com/"
+      ]
+    ],
+    "emojitracker": [
+      "A visualisation of emoji usage from a selected data stream, rather than a count of all emoji use worldwide.",
+      [
+        "https://emojitracker.com/"
+      ]
+    ],
+    "every-second": [
+      "A visualisation of estimated rates of events and quantities around the world.",
+      [
+        "https://everysecond.io/"
+      ]
+    ],
+    "flowspace": [
+      "A browser-based drawing experience.",
+      [
+        "https://flowspace.is/"
+      ]
+    ],
+    "fogcam": [
+      "A longstanding San Francisco webcam project.",
+      [
+        "https://fogcam.org/"
+      ]
+    ],
+    "every-last-drop": [
+      "An interactive illustrated explanation of water use, including water involved in producing goods.",
+      [
+        "https://everylastdrop.co.uk/"
+      ]
+    ],
+    "astronaut": [
+      "An experimental video discovery site focused on low-view-count uploads.",
+      [
+        "https://astronaut.io/"
+      ]
+    ],
+    "1940s-nyc": [
+      "A map of New York tax photographs taken around 1940.",
+      [
+        "https://1940s.nyc/"
+      ]
+    ],
+    "the-cube-rule": [
+      "A humorous system for classifying food by the position of its starch.",
+      [
+        "https://cuberule.com/"
+      ]
+    ],
+    "centennial-light-bulb": [
+      "A site documenting the long-burning Centennial Light in Livermore, California.",
+      [
+        "https://centennialbulb.org/"
+      ]
+    ],
+    "river-runner-global": [
+      "A geographic visualisation modelling downstream water routes from selected locations.",
+      [
+        "https://river-runner-global.samlearner.com/"
+      ]
+    ],
+    "the-bureau-of-very-slow-news": [
+      "A fictional news project reporting from a geological perspective.",
+      [
+        "https://bureauofveryslownews.com/"
+      ]
+    ],
+    "the-bureau-of-tiny-approvals": [
+      "A browser toy for stamping fictional petitions as approved.",
+      [
+        "https://thebureauoftinyapprovals.com/"
+      ]
+    ],
+    "drive-listen": [
+      "Recorded driving videos paired with radio streams from selected cities.",
+      [
+        "https://driveandlisten.app/"
+      ]
+    ],
+    "flash-museum": [
+      "A collection of archived Flash games and animations presented for browser playback.",
+      [
+        "https://flashmuseum.org/"
+      ]
+    ],
+    "animated-knots": [
+      "Step-by-step animated instructions for a selection of knots.",
+      [
+        "https://animatedknots.com/"
+      ]
+    ],
+    "when-was-i-conceived": [
+      "A calculator estimating a possible conception period from a birth date; individual timing varies.",
+      [
+        "https://whenwasiconceived.com/"
+      ]
+    ],
+    "passive-aggressive-passwords": [
+      "A joke password form that responds with insults. Use invented text rather than a real password.",
+      [
+        "https://trypap.com/"
+      ]
+    ],
+    "owner-population-pyramid": [
+      "Population pyramids for countries, territories and regions in the site's datasets."
+    ],
+    "owner-noclip": [
+      "A viewer for exploring scenes from supported video games.",
+      [
+        "https://noclip.website/"
+      ]
+    ],
+    "owner-blitzortung": [
+      "A community sensor network detecting and mapping lightning.",
+      [
+        "https://www.blitzortung.org/"
+      ]
+    ],
+    "you-are-listening-to": [
+      "Ambient music blended with city sounds, since 2011.",
+      [
+        "https://youarelistening.to/"
+      ]
+    ],
+    "the-map-of-the-universe": [
+      "An interactive visualisation of observed galaxies and the observable universe.",
+      [
+        "https://mapoftheuniverse.net/"
+      ]
+    ],
+    "earth-and-moon-viewer": [
+      "Render views of Earth and the Moon from selected viewpoints and times.",
+      [
+        "https://www.fourmilab.ch/cgi-bin/Earth"
+      ]
+    ],
+    "most-exclusive-website": [
+      "A novelty website built around a queue and timed visitor access.",
+      [
+        "https://mostexclusivewebsite.com/"
+      ]
+    ],
+    "omnichord-online": [
+      "A browser instrument inspired by the Suzuki Omnichord.",
+      [
+        "https://omnichordonline.com/"
+      ]
+    ],
+    "the-true-size-of": [
+      "Drag country outlines across a map to compare areas and explore map-projection distortion.",
+      [
+        "https://www.thetruesize.com/"
+      ]
+    ],
+    "pixel-thoughts": [
+      "Type a stressful thought into a star and watch it shrink away over 60 seconds.",
+      [
+        "https://www.pixelthoughts.co/"
+      ]
+    ],
+    "cat-bounce": [
+      "Cats bounce around your screen. You can throw them.",
+      [
+        "https://cat-bounce.com/"
+      ]
+    ],
+    "paper-toilet": [
+      "A 2006 web artwork by Rafaël Rozendaal: a toilet roll you can unspool with your mouse.",
+      [
+        "https://papertoilet.com/"
+      ]
+    ],
+    "the-long-doge-challenge": [
+      "A doge whose neck goes on for as long as you are willing to keep scrolling.",
+      [
+        "https://longdogechallenge.com/"
+      ]
+    ],
+    "eel-slap": [
+      "Slap someone in the face with an eel.",
+      [
+        "http://www.eelslap.com/"
+      ]
+    ],
+    "windowswap": [
+      "Look out of someone else's window: short videos of real views filmed by people around the world.",
+      [
+        "https://www.window-swap.com/"
+      ]
+    ],
+    "bongo-cat": [
+      "Play instruments with your keyboard while a cat from the meme hits them for you.",
+      [
+        "https://bongo.cat/"
+      ]
+    ],
+    "museum-of-bad-art": [
+      "The online home of a real museum dedicated to art too bad to be ignored.",
+      [
+        "https://museumofbadart.org/"
+      ]
+    ],
+    "a-dark-room": [
+      "A minimalist text adventure that starts with a cold room and a fire, then slowly turns into something else.",
+      [
+        "https://adarkroom.doublespeakgames.com/"
+      ]
+    ],
+    "the-evolution-of-trust": [
+      "An interactive guide to the game theory of why and how people trust each other.",
+      [
+        "https://ncase.me/trust/"
+      ]
+    ],
+    "candy-box-2": [
+      "A browser game that starts with a counter of candies and keeps opening up.",
+      [
+        "https://candybox2.github.io/"
+      ]
+    ],
+    "quick-draw": [
+      "Doodle against the clock while a neural network tries to recognise what you drew.",
+      [
+        "https://quickdraw.withgoogle.com/"
+      ]
+    ],
+    "semantle": [
+      "A daily word game where each guess is scored by how close its meaning is to the hidden word.",
+      [
+        "https://semantle.com/"
+      ]
+    ],
+    "sandspiel": [
+      "A falling-sand game with elements such as water, fire, lava, plants and fungus that react to each other.",
+      [
+        "https://sandspiel.club/"
+      ]
+    ],
+    "the-wiki-game": [
+      "Race other players from one Wikipedia article to another using only the links.",
+      [
+        "https://www.thewikigame.com/"
+      ]
+    ],
+    "photopea": [
+      "A full photo editor in the browser that opens PSD files and works without an install.",
+      [
+        "https://www.photopea.com/"
+      ]
+    ],
+    "squoosh": [
+      "Compress an image with different codecs and compare the result side by side, in the browser.",
+      [
+        "https://squoosh.app/"
+      ]
+    ],
+    "excalidraw": [
+      "A collaborative whiteboard for diagrams that look hand-drawn.",
+      [
+        "https://excalidraw.com/"
+      ]
+    ],
+    "regex101": [
+      "Build, test and debug regular expressions, with real-time matches and an explanation of each part.",
+      [
+        "https://regex101.com/"
+      ]
+    ],
+    "cyberchef": [
+      "A web app from GCHQ for encoding, encryption, compression and data analysis, chained together like a recipe.",
+      [
+        "https://gchq.github.io/CyberChef/"
+      ]
+    ],
+    "explainshell": [
+      "Paste a shell command and see each argument matched to its help text.",
+      [
+        "https://explainshell.com/"
+      ]
+    ],
+    "crontab-guru": [
+      "A small editor that translates cron schedule expressions into plain language.",
+      [
+        "https://crontab.guru/"
+      ]
+    ],
+    "marginalia-search": [
+      "A small independent search engine that favours surprising, text-heavy websites over big commercial ones.",
+      [
+        "https://marginalia-search.com/"
+      ]
+    ],
+    "wiby": [
+      "A search engine for older-style, lightweight personal pages. It has a button that surprises you.",
+      [
+        "https://wiby.me/"
+      ]
+    ],
+    "space-jam-1996": [
+      "The official website of the 1996 Space Jam film, still online.",
+      [
+        "https://www.spacejam.com/1996/"
+      ]
+    ],
+    "the-world-wide-web-project": [
+      "The page from the first website, describing a wide-area hypermedia project called the World Wide Web.",
+      [
+        "http://info.cern.ch/hypertext/WWW/TheProject.html"
+      ]
+    ],
+    "line-mode-browser-2013": [
+      "A CERN project that recreates the early text-only line mode browser so you can use the web as it looked then.",
+      [
+        "https://line-mode.cern.ch/www/hypertext/WWW/TheProject.html"
+      ]
+    ],
+    "the-old-net": [
+      "Enter an address and a year between the 1990s and the 2000s to browse the web as it was archived back then.",
+      [
+        "https://theoldnet.com/"
+      ]
+    ],
+    "oldweb-today": [
+      "Run emulated vintage browsers in your own browser and use them to view archived web pages.",
+      [
+        "https://oldweb.today/"
+      ]
+    ],
+    "the-geocities-gallery": [
+      "A restored visual gallery of archived GeoCities sites, sorted by neighborhood. Some of the old pages may be objectionable.",
+      [
+        "https://geocities.restorativland.org/"
+      ]
+    ],
+    "textfiles-com": [
+      "A vast archive of text files from the bulletin board era, kept as plain directories.",
+      [
+        "http://textfiles.com/"
+      ]
+    ],
+    "folklore-org": [
+      "First-hand stories about the making of the original Macintosh, now presented by the Computer History Museum.",
+      [
+        "https://www.folklore.org/"
+      ]
+    ],
+    "cameron-s-world": [
+      "A web collage of text and images excavated from the buried neighbourhoods of GeoCities.",
+      [
+        "https://www.cameronsworld.net/"
+      ]
+    ],
+    "patatap": [
+      "Press keys to trigger sounds and shapes. A portable animation and sound kit.",
+      [
+        "https://patatap.com/"
+      ]
+    ],
+    "bruno-simon": [
+      "A developer's portfolio you explore by driving a small car through a 3D world. Heavy on old hardware.",
+      [
+        "https://bruno-simon.com/"
+      ]
+    ],
+    "silk": [
+      "Draw with flowing, mirrored strands of light and make generative art with no skill required.",
+      [
+        "https://weavesilk.com/"
+      ]
+    ],
+    "strudel": [
+      "Live-code music in the browser with a JavaScript port of the TidalCycles pattern language.",
+      [
+        "https://strudel.cc/"
+      ]
+    ],
+    "hydra": [
+      "Live-code networked visuals in the browser, patched together like an analog video synthesizer.",
+      [
+        "https://hydra.ojack.xyz/"
+      ]
+    ],
+    "dwitter": [
+      "A social network for visual JavaScript demos limited to 140 characters.",
+      [
+        "https://www.dwitter.net/"
+      ]
+    ],
+    "the-book-of-shaders": [
+      "A gentle step-by-step guide through the abstract universe of fragment shaders.",
+      [
+        "https://thebookofshaders.com/"
+      ]
+    ],
+    "turtletoy": [
+      "Write JavaScript turtle graphics in the browser and make hand-coded, plottable art.",
+      [
+        "https://turtletoy.net/"
+      ]
+    ],
+    "tixy-land": [
+      "A minimalist coding toy: control 16 by 16 dots with a single JavaScript function.",
+      [
+        "https://tixy.land/"
+      ]
+    ],
+    "chrome-music-lab": [
+      "Simple playable experiments that show how music works, for any age.",
+      [
+        "https://musiclab.chromeexperiments.com/"
+      ]
+    ],
+    "the-zoomquilt": [
+      "A collaborative painting from 2004 that zooms inward forever.",
+      [
+        "https://zoomquilt.org/"
+      ]
+    ],
+    "low-tech-magazine-solar": [
+      "A solar-powered website that shows its battery level and sometimes goes offline when the sun does not cooperate.",
+      [
+        "https://solar.lowtechmagazine.com/"
+      ]
+    ],
+    "graphical-user-interface-gallery": [
+      "A long-running personal gallery of old interfaces, from Xerox and GEM to BeOS and OS/2.",
+      [
+        "http://toastytech.com/guis/"
+      ]
+    ],
+    "visual-6502": [
+      "A transistor-level simulation of the 6502 processor and other chips.",
+      [
+        "http://visual6502.org/"
+      ]
+    ],
+    "the-ultimate-oldschool-pc-font-pack": [
+      "A huge collection of classic text mode, system and BIOS fonts from DOS-era IBM PCs and compatibles.",
+      [
+        "https://int10h.org/oldschool-pc-fonts/"
+      ]
+    ],
+    "16colo-rs": [
+      "An archive of ANSI and ASCII art, preserving artpacks released through the BBS underground.",
+      [
+        "https://16colo.rs/"
+      ]
+    ],
+    "ben-eater": [
+      "Tutorial videos on electronics and computer architecture, including building computers on breadboards.",
+      [
+        "https://eater.net/"
+      ]
+    ],
+    "bitsavers": [
+      "An enormous archive of old computer manuals, software and documents.",
+      [
+        "http://bitsavers.org/"
+      ]
+    ],
+    "pcjs-machines": [
+      "Online machine emulators written in JavaScript that run DOS, Windows, OS/2 and other vintage software.",
+      [
+        "https://www.pcjs.org/"
+      ]
+    ],
+    "v86": [
+      "Run KolibriOS, Linux or Windows 98 inside a browser tab.",
+      [
+        "https://copy.sh/v86/"
+      ]
+    ],
+    "infinite-mac": [
+      "Classic Macintosh systems running in the browser, loaded with period software.",
+      [
+        "https://infinitemac.org/"
+      ]
+    ],
+    "jslinux": [
+      "Boot Linux and other operating systems inside your browser.",
+      [
+        "https://bellard.org/jslinux/"
+      ]
+    ],
+    "ruffle": [
+      "A Flash Player emulator written in Rust, built to keep old Flash content playable.",
+      [
+        "https://ruffle.rs/"
+      ]
+    ],
+    "flashpoint-archive": [
+      "A community effort to preserve games, animations and interactive experiences from the web.",
+      [
+        "https://flashpointarchive.org/"
+      ]
+    ],
+    "8bitworkshop": [
+      "Write code for classic game hardware in the browser and see it run instantly.",
+      [
+        "https://8bitworkshop.com/"
+      ]
+    ],
+    "tic-80": [
+      "A free and open-source fantasy computer for making, playing and sharing tiny games.",
+      [
+        "https://tic80.com/"
+      ]
+    ],
+    "nasa-s-eyes": [
+      "NASA's 3D applications for exploring real mission data about Earth, the solar system and beyond.",
+      [
+        "https://science.nasa.gov/eyes/"
+      ]
+    ],
+    "the-scale-of-the-universe-2": [
+      "Scroll from the smallest known scales up to the size of the universe. Created by Cary Huang.",
+      [
+        "https://htwins.net/scale2/"
+      ]
+    ],
+    "stellarium-web": [
+      "A planetarium in the browser that shows a realistic star map for your sky.",
+      [
+        "https://stellarium-web.org/"
+      ]
+    ],
+    "phet-simulations": [
+      "Free interactive simulations for physics, chemistry, biology and earth science.",
+      [
+        "https://phet.colorado.edu/"
+      ]
+    ],
+    "oeis": [
+      "The On-Line Encyclopedia of Integer Sequences. Type in some numbers and find out what they are.",
+      [
+        "https://oeis.org/"
+      ]
+    ],
+    "onezoom": [
+      "Explore the tree of life as one continuous zoomable map.",
+      [
+        "https://www.onezoom.org/"
+      ]
+    ],
+    "earth-fm": [
+      "A non-profit library of immersive nature sounds recorded around the world.",
+      [
+        "https://earth.fm/"
+      ]
+    ],
+    "heavens-above": [
+      "Satellite predictions and other astronomical data for your location, so you can step outside and look up.",
+      [
+        "https://heavens-above.com/"
+      ]
+    ],
+    "earth": [
+      "An animated globe of current wind, weather, ocean and pollution conditions, drawn from supercomputer forecasts.",
+      [
+        "https://earth.nullschool.net/"
+      ]
+    ],
+    "shipmap-org": [
+      "An animated map of global cargo shipping by Kiln and the UCL Energy Institute.",
+      [
+        "https://www.shipmap.org/"
+      ]
+    ],
+    "submarine-cable-map": [
+      "TeleGeography's map of the undersea cables that carry the Internet between continents.",
+      [
+        "https://www.submarinecablemap.com/"
+      ]
+    ],
+    "the-pudding": [
+      "Visual essays that explain ideas with data and interaction.",
+      [
+        "https://pudding.cool/"
+      ]
+    ],
+    "visualgo": [
+      "Data structures and algorithms visualised through animation, started in 2011 by Steven Halim.",
+      [
+        "https://visualgo.net/"
+      ]
+    ],
+    "bartosz-ciechanowski": [
+      "Long interactive articles about science and engineering, with models you can manipulate as you read.",
+      [
+        "https://ciechanow.ski/"
+      ]
+    ],
+    "the-fallen-of-world-war-ii": [
+      "An interactive, data-driven documentary by Neil Halloran on the human cost of the war. Serious subject.",
+      [
+        "https://www.neilfilms.com/ww2/"
+      ]
+    ],
+    "wikipedia-unusual-articles": [
+      "Wikipedia editors' own list of its strangest articles.",
+      [
+        "https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles"
+      ]
+    ],
+    "everything2": [
+      "A long-running community of fiction, nonfiction, poetry and reviews, all linked together.",
+      [
+        "https://everything2.com/"
+      ]
+    ],
+    "damn-interesting": [
+      "Obscure true stories from science, history and psychology, published since 2005.",
+      [
+        "https://www.damninteresting.com/"
+      ]
+    ],
+    "the-public-domain-review": [
+      "A not-for-profit online journal of curious and compelling works from the history of art and ideas.",
+      [
+        "https://publicdomainreview.org/"
+      ]
+    ],
+    "every-noise-at-once": [
+      "A map of musical genres by Glenn McDonald, from the familiar to the very specific.",
+      [
+        "https://everynoise.com/"
+      ]
+    ],
+    "thisissand": [
+      "Pour coloured pixels of sand into layered landscapes and share what you made.",
+      [
+        "https://thisissand.com/"
+      ]
+    ],
+    "mapcrunch": [
+      "Press a button and land on a random Street View somewhere on Earth.",
+      [
+        "https://www.mapcrunch.com/"
+      ]
+    ],
+    "a-soft-murmur": [
+      "Mix ambient sounds together to wash away distraction.",
+      [
+        "https://asoftmurmur.com/"
+      ]
+    ],
+    "checkbox-race": [
+      "Tick a row of 100 checkboxes as fast as you can against the clock.",
+      [
+        "https://checkboxrace.com/"
+      ]
+    ],
+    "find-the-invisible-cow": [
+      "Move your cursor around an empty page and follow the sound to find a hidden cow.",
+      [
+        "https://findtheinvisiblecow.com/"
+      ]
+    ],
+    "scream-into-the-void": [
+      "Type your feelings into a black hole and press the button.",
+      [
+        "https://screamintothevoid.com/"
+      ]
+    ],
+    "bored-button": [
+      "One red button that sends you to a random small game or distraction.",
+      [
+        "https://www.boredbutton.com/"
+      ]
+    ],
+    "the-quiet-place-project": [
+      "A short guided pause in a quiet, empty page.",
+      [
+        "https://thequietplaceproject.xyz/"
+      ]
+    ],
+    "incredibox": [
+      "Drag sounds onto a crew of beatboxers and build a track.",
+      [
+        "https://www.incredibox.com/"
+      ]
+    ],
+    "100-000-stars": [
+      "A 3D map of the stars around our sun, rendered in the browser.",
+      [
+        "https://stars.chromeexperiments.com/"
+      ]
+    ],
+    "music-map": [
+      "Type an artist and see similar artists float around it on a map.",
+      [
+        "https://www.music-map.com/"
+      ]
+    ],
+    "wikitrivia": [
+      "Place facts from Wikipedia in chronological order.",
+      [
+        "https://wikitrivia.tomjwatson.com/"
+      ]
+    ],
+    "webamp": [
+      "Winamp 2 reimplemented in the browser, complete with the classic demo track.",
+      [
+        "https://webamp.org/"
+      ]
+    ],
+    "windows-96": [
+      "A fictional Windows-style operating system that boots inside a tab.",
+      [
+        "https://windows96.net/"
+      ]
+    ],
+    "the-html-review": [
+      "An annual journal of literature made to exist only as web pages.",
+      [
+        "https://thehtml.review/"
+      ]
+    ],
+    "loopy": [
+      "Draw a diagram of circles and arrows and it becomes a working simulation.",
+      [
+        "https://ncase.me/loopy/"
+      ]
+    ],
+    "parable-of-the-polygons": [
+      "A playable post on how small individual biases can add up to a segregated society.",
+      [
+        "https://ncase.me/polygons/"
+      ]
+    ],
+    "light-pollution-map": [
+      "A world map of how much artificial light hides the night sky.",
+      [
+        "https://www.lightpollutionmap.info/"
+      ]
+    ],
+    "webgl-water": [
+      "Drag your cursor through a real-time water simulation with a floating sphere.",
+      [
+        "https://madebyevan.com/webgl-water/"
+      ]
+    ],
+    "webgl-fluid-simulation": [
+      "Drag across the screen to stir glowing fluid that keeps moving on its own.",
+      [
+        "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
+      ]
+    ],
+    "particle-clicker": [
+      "An incremental game made at the CERN Webfest 2014: a clicking journey through modern particle physics.",
+      [
+        "https://particle-clicker.web.cern.ch/"
+      ]
+    ],
+    "nyan-cat": [
+      "The official homepage of the Nyan Cat meme, with stats and achievements for how long you stay.",
+      [
+        "https://www.nyan.cat/"
+      ]
+    ],
+    "rainy-mood": [
+      "A looping rain soundtrack for sleeping or studying.",
+      [
+        "https://www.rainymood.com/"
+      ]
+    ],
+    "blank-org": [
+      "A page with nothing on it, on purpose.",
+      [
+        "https://blank.org/"
+      ]
+    ],
+    "is-my-computer-on": [
+      "Answers one question, and the answer is always YES.",
+      [
+        "https://www.ismycomputeron.com/"
+      ]
+    ],
+    "has-the-lhc-destroyed-the-world-yet": [
+      "A page that gives a one-word status update on the end of the world.",
+      [
+        "https://hasthelargehadroncolliderdestroyedtheworldyet.com/"
+      ]
+    ],
+    "iambored-site": [
+      "Press the button and get sent to a random corner of the Internet.",
+      [
+        "https://iambored.site/"
+      ]
+    ],
+    "wrongulator": [
+      "A calculator that promises to be wrong every time.",
+      [
+        "https://wrongulator.com/"
+      ]
+    ],
+    "thepointless-com": [
+      "A long-running humour site that calls itself a solitary bastion of sensibility.",
+      [
+        "https://www.thepointless.com/"
+      ]
+    ],
+    "instant-rimshot": [
+      "Instant access to a rimshot sound, for when a joke needs one.",
+      [
+        "https://instantrimshot.com/"
+      ]
+    ],
+    "leave-page": [
+      "A tiny page that reacts when you leave it for another tab.",
+      [
+        "https://leavepage.aurelitec.com/"
+      ]
+    ],
+    "futureme": [
+      "Write a letter to yourself and have it delivered on a date in the future.",
+      [
+        "https://www.futureme.org/"
+      ]
+    ],
+    "musicmap": [
+      "A genealogy of popular music genres drawn as one big interactive chart.",
+      [
+        "https://musicmap.info/"
+      ]
+    ],
+    "typatone": [
+      "Each letter you type corresponds to a sound, so your words become a melody.",
+      [
+        "https://www.typatone.com/"
+      ]
+    ],
+    "seterra": [
+      "Map quizzes for countries, capitals and flags.",
+      [
+        "https://www.geoguessr.com/quiz/seterra"
+      ]
+    ],
+    "city-guesser": [
+      "Watch a walking video from an unknown street and guess the city.",
+      [
+        "https://virtualvacation.us/guess"
+      ]
+    ],
+    "openrailwaymap": [
+      "A world map of railway infrastructure, down to speed limits and signalling.",
+      [
+        "https://www.openrailwaymap.org/"
+      ]
+    ],
+    "solar-system-scope": [
+      "A 3D model of the solar system and the night sky.",
+      [
+        "https://www.solarsystemscope.com/"
+      ]
+    ],
+    "explorable-explanations": [
+      "A directory of interactive explanations of how things work.",
+      [
+        "https://explorabl.es/"
+      ]
+    ],
+    "wolfram-demonstrations": [
+      "Thousands of small interactive notebooks on mathematics and science.",
+      [
+        "https://demonstrations.wolfram.com/"
+      ]
+    ],
+    "piskel": [
+      "A free browser editor for animated sprites and pixel art.",
+      [
+        "https://www.piskelapp.com/"
+      ]
+    ],
+    "asciiflow": [
+      "Draw boxes and arrows in plain text characters, right in the browser.",
+      [
+        "https://asciiflow.com/"
+      ]
+    ],
+    "svgomg": [
+      "A visual interface for shrinking SVG files.",
+      [
+        "https://jakearchibald.github.io/svgomg/"
+      ]
+    ],
+    "fontjoy": [
+      "Generate font pairings in one click.",
+      [
+        "https://fontjoy.com/"
+      ]
+    ],
+    "three-js-examples": [
+      "A long list of working 3D demos built with the three.js library.",
+      [
+        "https://threejs.org/examples/"
+      ]
+    ],
+    "js1k": [
+      "A JavaScript competition where every entry had to fit in one kilobyte.",
+      [
+        "https://js1k.com/"
+      ]
+    ],
+    "mame": [
+      "The project that preserves decades of arcade machines through emulation.",
+      [
+        "https://www.mamedev.org/"
+      ]
+    ],
+    "hidden-palace": [
+      "A community archive of unreleased video game prototypes and development material.",
+      [
+        "https://hiddenpalace.org/"
+      ]
+    ],
+    "quick-draw-the-data": [
+      "Browse millions of doodles drawn by people playing Quick, Draw!",
+      [
+        "https://quickdraw.withgoogle.com/data"
+      ]
+    ],
+    "artvee": [
+      "Browse and download high-resolution classic art.",
+      [
+        "https://artvee.com/"
+      ]
+    ],
+    "david-rumsey-map-collection": [
+      "A vast historical map collection you can zoom into.",
+      [
+        "https://www.davidrumsey.com/"
+      ]
+    ],
+    "fallen-london": [
+      "A gothic browser game set in a London stolen by bats, forty years ago.",
+      [
+        "https://www.fallenlondon.com/"
+      ]
+    ],
+    "notpron": [
+      "David Münnich's online riddle, billed as the hardest on the Internet.",
+      [
+        "https://notpron.com/notpron/"
+      ]
+    ],
+    "wikiroulette": [
+      "Random Wikipedia pages, one after another.",
+      [
+        "https://wikiroulette.co/"
+      ]
+    ],
+    "listen-to-wikipedia": [
+      "Wikipedia edits, heard as bells and strings as they happen.",
+      [
+        "https://listen.hatnote.com/"
+      ]
+    ],
+    "population-mountains": [
+      "City populations drawn as 3D landscapes.",
+      [
+        "https://pudding.cool/2018/12/3d-cities-story/"
+      ]
+    ],
+    "one-million-checkboxes": [
+      "A web experiment by eieio where strangers shared a million checkboxes. They checked every box.",
+      [
+        "https://onemillioncheckboxes.com/"
+      ]
+    ],
+    "the-nicest-place-on-the-internet": [
+      "A page full of people offering you a hug.",
+      [
+        "https://thenicestplace.net/"
+      ]
+    ],
+    "poolsuite": [
+      "Summer internet radio inside a playful retro desktop.",
+      [
+        "https://poolsuite.net/"
+      ]
+    ],
+    "kittens-game": [
+      "A text-based incremental game about building a civilisation of kittens.",
+      [
+        "https://kittensgame.com/web/"
+      ]
+    ],
+    "minesweeper-online": [
+      "Classic Minesweeper in the browser, in Beginner, Intermediate and Expert modes.",
+      [
+        "https://minesweeperonline.com/"
+      ]
+    ],
+    "mynoise": [
+      "Adjustable soundscapes and noise generators for focus and sleep.",
+      [
+        "https://mynoise.net/"
+      ]
+    ],
+    "neocities": [
+      "Free hosting for handmade personal websites, plus a directory for browsing them.",
+      [
+        "https://neocities.org/"
+      ]
+    ],
+    "css-zen-garden": [
+      "One HTML page restyled by many designers, to show what CSS could do.",
+      [
+        "https://csszengarden.com/"
+      ]
+    ],
+    "project-xanadu": [
+      "The site of the original hypertext project, founded in 1960.",
+      [
+        "https://www.xanadu.com/"
+      ]
+    ],
+    "p5-js-web-editor": [
+      "Write and run p5.js sketches in the browser.",
+      [
+        "https://editor.p5js.org/"
+      ]
+    ],
+    "sonic-pi": [
+      "A free tool for making music by writing code.",
+      [
+        "https://sonic-pi.net/"
+      ]
+    ],
+    "the-nature-of-code": [
+      "A free online book on simulating natural systems with code.",
+      [
+        "https://natureofcode.com/"
+      ]
+    ],
+    "generative-artistry": [
+      "Interactive tutorials on making art with code.",
+      [
+        "https://generativeartistry.com/"
+      ]
+    ],
+    "computer-history-museum": [
+      "The website of the Computer History Museum.",
+      [
+        "https://computerhistory.org/"
+      ]
+    ],
+    "centre-for-computing-history": [
+      "A computer and video game museum based in Cambridge, UK.",
+      [
+        "https://www.computinghistory.org.uk/"
+      ]
+    ],
+    "guidebook": [
+      "A gallery preserving graphical user interfaces, from the screenshots to the sounds.",
+      [
+        "https://guidebookgallery.org/"
+      ]
+    ],
+    "the-retro-web": [
+      "A database of motherboards, chips, BIOS images and manuals.",
+      [
+        "https://theretroweb.com/"
+      ]
+    ],
+    "retroarch": [
+      "A frontend for emulators, game engines and media players.",
+      [
+        "https://www.retroarch.com/"
+      ]
+    ],
+    "js-dos": [
+      "A simple way to run DOS and Windows 9x programs in the browser.",
+      [
+        "https://js-dos.com/"
+      ]
+    ],
+    "vamigaweb": [
+      "A cycle-exact Amiga emulator that runs in the browser.",
+      [
+        "https://vamigaweb.github.io/"
+      ]
+    ],
+    "pico-8": [
+      "A fantasy console for making, sharing and playing tiny games.",
+      [
+        "https://www.lexaloffle.com/pico-8.php"
+      ]
+    ],
+    "zooniverse": [
+      "People-powered research: help real projects by classifying data.",
+      [
+        "https://www.zooniverse.org/"
+      ]
+    ],
+    "eterna": [
+      "Solve puzzles to design RNA molecules and advance research.",
+      [
+        "https://eternagame.org/"
+      ]
+    ],
+    "mathworld": [
+      "An extensive online encyclopedia of mathematics.",
+      [
+        "https://mathworld.wolfram.com/"
+      ]
+    ],
+    "ptable": [
+      "An interactive periodic table with orbitals, isotopes and compounds.",
+      [
+        "https://ptable.com/"
+      ]
+    ],
+    "inaturalist": [
+      "Record the plants and animals you find and help map life on Earth.",
+      [
+        "https://www.inaturalist.org/"
+      ]
+    ],
+    "explained-visually": [
+      "An experiment in making hard ideas intuitive with interactive graphics.",
+      [
+        "https://setosa.io/ev/"
+      ]
+    ],
+    "information-is-beautiful": [
+      "Data and information distilled into infographics.",
+      [
+        "https://informationisbeautiful.net/"
+      ]
+    ],
+    "gapminder-tools": [
+      "Animated bubble charts of income and life expectancy across countries and years.",
+      [
+        "https://www.gapminder.org/tools/"
+      ]
+    ],
+    "circuit-simulator": [
+      "An electronic circuit simulator with animated current flow.",
+      [
+        "https://www.falstad.com/circuit/"
+      ]
+    ],
+    "histography": [
+      "A timeline of history where every dot is an event from Wikipedia.",
+      [
+        "https://histography.io/"
+      ]
+    ],
+    "cabinet": [
+      "A magazine of art and culture, with a searchable archive of past issues.",
+      [
+        "https://www.cabinetmagazine.org/"
+      ]
+    ],
+    "futility-closet": [
+      "An idler's miscellany of compendious amusements.",
+      [
+        "https://www.futilitycloset.com/"
+      ]
+    ],
+    "old-book-illustrations": [
+      "Restored public domain images scanned from old books.",
+      [
+        "https://www.oldbookillustrations.com/"
+      ]
+    ],
+    "kagi-small-web": [
+      "Discover personal blogs and independent sites, one random post at a time.",
+      [
+        "https://kagi.com/smallweb"
+      ]
+    ],
+    "ubuweb": [
+      "An archive of avant-garde film, sound and writing, founded in 1996.",
+      [
+        "https://ubu.com/"
+      ]
+    ],
+    "open-culture": [
+      "A guide to free cultural and educational media.",
+      [
+        "https://www.openculture.com/"
+      ]
+    ],
+    "the-jargon-file": [
+      "The classic dictionary of hacker slang.",
+      [
+        "http://catb.org/jargon/"
+      ]
+    ],
+    "an-atlas-of-the-universe": [
+      "Maps zooming out from the nearest stars to the whole visible universe.",
+      [
+        "http://www.atlasoftheuniverse.com/"
+      ]
+    ],
+    "atlas-obscura": [
+      "A guide to curious and wondrous places around the world.",
+      [
+        "https://www.atlasobscura.com/"
+      ]
+    ],
+    "cookie-clicker": [
+      "The game where you click a cookie, and then things get out of hand.",
+      [
+        "https://orteil.dashnet.org/cookieclicker/"
+      ]
+    ],
+    "ling-s-cars": [
+      "A real UK car leasing site, long famous for its design.",
+      [
+        "https://www.lingscars.com/"
+      ]
+    ],
+    "web-design-museum": [
+      "Thousands of screenshots and videos of websites and software from the 1990s to the late 2000s.",
+      [
+        "https://www.webdesignmuseum.org/"
+      ]
+    ],
+    "lucky-nickel": [
+      "A small keyboard-driven game with a casebook to fill.",
+      [
+        "https://chance.toys/"
+      ]
+    ],
+    "daily-8-puzzle": [
+      "A daily sliding tile puzzle.",
+      [
+        "https://sliding.toys/mystic-square/8-puzzle/daily"
+      ]
+    ],
+    "maze-toys-daily-mini": [
+      "A small daily maze to keep a streak going.",
+      [
+        "https://maze.toys/mazes/mini/daily"
+      ]
+    ],
+    "optical-toys": [
+      "Optical illusions and brain-bending toys, each one explained.",
+      [
+        "https://optical.toys/"
+      ]
+    ],
+    "zen-garden": [
+      "Drag to rake patterns in the sand.",
+      [
+        "https://paint.toys/zen-garden"
+      ]
+    ],
+    "kintsugi": [
+      "Draw a line across a bowl to break it, then mend it with gold.",
+      [
+        "https://paint.toys/kintsugi"
+      ]
+    ],
+    "the-pug-in-a-rug": [
+      "A rippling pug. A counter records how long you have been honouring it.",
+      [
+        "https://puginarug.com/"
+      ]
+    ],
+    "memory-toys-classic": [
+      "Flip cards, find the pairs. The classic memory game.",
+      [
+        "https://memory.toys/classic/easy"
+      ]
+    ],
+    "always-judge-a-book-by-its-cover": [
+      "A gallery that recommends books only because they have great covers.",
+      [
+        "https://alwaysjudgeabookbyitscover.com/"
+      ]
+    ],
+    "english-peg-solitaire": [
+      "Jump pegs until, ideally, only one remains.",
+      [
+        "https://clicking.toys/peg-solitaire/english"
+      ]
+    ],
+    "weird-or-confusing": [
+      "Oddities, pranks and a few things that make no sense, from real online shops.",
+      [
+        "https://weirdorconfusing.com/"
+      ]
+    ],
+    "checkbox-olympics": [
+      "Sport events played entirely with checkboxes.",
+      [
+        "https://checkbox.toys/scale"
+      ]
+    ],
+    "binary-piano": [
+      "A music player with a binary twist.",
+      [
+        "https://binarypiano.com/"
+      ]
+    ],
+    "snapegiator": [
+      "Snake, but the snake composes as it moves.",
+      [
+        "https://musical.toys/toys/snapegiator"
+      ]
+    ],
+    "mondrian-and-me": [
+      "Make your own Mondrian. A Useless Web project.",
+      [
+        "https://mondrianandme.com/"
+      ]
+    ],
+    "cruel-maze": [
+      "Escape the maze through the fog, if you can.",
+      [
+        "https://cruel.toys/maze"
+      ]
+    ],
+    "one-square-minesweeper": [
+      "Minesweeper on a board of exactly one square.",
+      [
+        "https://onesquareminesweeper.com/"
+      ]
+    ],
+    "90-s-cursor-effects": [
+      "Click to cycle through the cursor trails of the old web, ready to add to your site.",
+      [
+        "https://cursoreffects.com/"
+      ]
+    ],
+    "the-floating-qr-code": [
+      "A QR code that floats away. A Useless Web project.",
+      [
+        "https://floatingqrcode.com/"
+      ]
+    ],
+    "that-s-the-finger": [
+      "The finger. Deal with it. A Useless Web project.",
+      [
+        "https://thatsthefinger.com/"
+      ]
+    ],
+    "sand-in-a-bottle": [
+      "Pour coloured sand into a bottle.",
+      [
+        "https://paint.toys/sand"
+      ]
+    ],
+    "ant-toys": [
+      "Ludicrously tiny playable games. What is this, a website for ants?",
+      [
+        "https://ant.toys/"
+      ]
+    ],
+    "the-vintage-web": [
+      "Press a button and land on a vintage website.",
+      [
+        "https://thevintageweb.com/"
+      ]
+    ],
+    "toms-toys": [
+      "A cosy corner of the Internet for bite-sized daily puzzles.",
+      [
+        "https://toms.toys/"
+      ]
+    ],
+    "smash-the-walls": [
+      "A Mike Bodge page: click and smash through wall after wall.",
+      [
+        "https://smashthewalls.com/"
+      ]
+    ],
+    "jackson-pollock-by-miltos": [
+      "Move your mouse and paint like Jackson Pollock on a blank page.",
+      [
+        "https://jacksonpollock.org/"
+      ]
+    ],
+    "duckstreet": [
+      "An idle duck-collecting game. Click ducks.",
+      [
+        "https://duckstreet.net/"
+      ]
+    ],
+    "drawing-garden": [
+      "Draw with your cursor and plants grow along the line.",
+      [
+        "https://drawing.garden/"
+      ]
+    ],
+    "symmetry-painter": [
+      "Paint with strokes mirrored in radial symmetry.",
+      [
+        "https://paint.toys/symmetry"
+      ]
+    ],
+    "tetrachord": [
+      "Tetris, but the blocks play music.",
+      [
+        "https://musical.toys/toys/tetrachord"
+      ]
+    ],
+    "rotating-sandwiches": [
+      "Sandwiches, rotating. That is it.",
+      [
+        "https://rotatingsandwiches.com/"
+      ]
+    ],
+    "wordski": [
+      "Two runs of words down one board, spelled from one shared rack of tiles. A new board every day.",
+      [
+        "https://wordski.run/"
+      ]
+    ],
+    "paint-toys": [
+      "A small playground of creative canvases.",
+      [
+        "https://paint.toys/"
+      ]
+    ],
+    "chris-mckenzie": [
+      "Chris McKenzie's personal website.",
+      [
+        "https://chrismckenzie.com/"
+      ]
+    ],
+    "the-zen-zone": [
+      "A minimalistic meditation area with soothing activities.",
+      [
+        "https://thezen.zone/"
+      ]
+    ],
+    "flashed-face-distortion": [
+      "Faces flashed side by side warp into monsters when you stare at the centre.",
+      [
+        "https://optical.toys/flashed-face-distortion"
+      ]
+    ],
+    "i-m-a-ninja": [
+      "You are looking at a website that says it is a ninja.",
+      [
+        "https://imaninja.com/"
+      ]
+    ],
+    "calligram-creator": [
+      "Paint with words instead of colours.",
+      [
+        "https://paint.toys/calligram"
+      ]
+    ],
+    "much-better-than-this": [
+      "A 2006 web artwork by Rafaël Rozendaal.",
+      [
+        "https://muchbetterthanthis.com/"
+      ]
+    ],
+    "neat-nine-flip-grid": [
+      "Flip tiles in a grid until they all light up.",
+      [
+        "https://clicking.toys/flip-grid/neat-nine/3-holes"
+      ]
+    ],
+    "polyrhythm": [
+      "Shapes that show how overlapping rhythms line up.",
+      [
+        "https://musical.toys/toys/polyrhythm"
+      ]
+    ],
+    "potato-or-tomato": [
+      "A very serious quiz about two vegetables.",
+      [
+        "https://potatoortomato.com/"
+      ]
+    ],
+    "i-am-awesome": [
+      "A page that tells you something and insists it is true.",
+      [
+        "https://iamawesome.com/"
+      ]
+    ],
+    "unicode-snowman-for-you": [
+      "A gigantic Unicode snowman, just for you.",
+      [
+        "https://unicodesnowmanforyou.com/"
+      ]
+    ],
+    "memory-maze": [
+      "See the path, then walk it from memory.",
+      [
+        "https://memory.toys/maze/easy"
+      ]
+    ],
+    "infinite-abyss": [
+      "The word BORING, and it goes on.",
+      [
+        "https://boringboringboring.com/"
+      ]
+    ],
+    "existential-crisis": [
+      "A dark page for exactly what the name says.",
+      [
+        "https://existentialcrisis.com/"
+      ]
+    ],
+    "there-is-nothing-here": [
+      "A site that claims nothing is here. Something is.",
+      [
+        "https://oct82.com/"
+      ]
+    ],
+    "blank-windows": [
+      "A 2016 web artwork by Rafaël Rozendaal, from a family collection.",
+      [
+        "https://blankwindows.com/"
+      ]
+    ],
+    "trash-loop": [
+      "A 2015 web artwork by Rafaël Rozendaal, from a family collection.",
+      [
+        "https://trashloop.com/"
+      ]
+    ],
+    "wiggly-me": [
+      "A wiggling line you can stretch. Reset when emotionally necessary.",
+      [
+        "https://wigglyme.com/"
+      ]
+    ],
+    "double-pressure": [
+      "A 2019 web artwork by Rafaël Rozendaal.",
+      [
+        "https://doublepressure.com/"
+      ]
+    ],
+    "thatcher-effect": [
+      "An upside-down face looks normal until you turn it the right way up.",
+      [
+        "https://optical.toys/thatcher-effect"
+      ]
+    ],
+    "musical-toys": [
+      "A collection of small sound and music experiments.",
+      [
+        "https://musical.toys/"
+      ]
+    ],
+    "number-toys": [
+      "Daily Sudoku and KenKen.",
+      [
+        "https://number.toys/"
+      ]
+    ],
+    "klondike": [
+      "Classic Klondike solitaire in the browser.",
+      [
+        "https://card.toys/klondike"
+      ]
+    ],
+    "cruel-hunt": [
+      "A daily word hunt. Find the hidden word, if you can.",
+      [
+        "https://cruel.toys/hunt"
+      ]
+    ],
+    "troxler-fade": [
+      "Stare at the dot and the ring around it disappears.",
+      [
+        "https://optical.toys/troxler-fade"
+      ]
+    ],
+    "dad-laugh-button": [
+      "Press a button to add a laugh to a global count.",
+      [
+        "https://dadlaughbutton.com/"
+      ]
+    ],
+    "spinning-point-silhouette": [
+      "A spinning silhouette made of points. Which way is it turning? Decide, then try to flip it with your mind.",
+      [
+        "https://optical.toys/spinning-point-silhouette"
+      ]
+    ],
+    "bouncing-dvd-logo": [
+      "The DVD logo bounces around. Will it hit the corner?",
+      [
+        "https://bouncingdvdlogo.com/"
+      ]
+    ],
+    "toms-toybox": [
+      "An index of one person's whole family of browser toy sites.",
+      [
+        "https://toybox.toms.toys/"
+      ]
+    ],
+    "monkey-challenge": [
+      "Remember the order of numbers before they vanish.",
+      [
+        "https://memory.toys/monkey-challenge/easy"
+      ]
+    ],
+    "color-toys": [
+      "Daily colour-mixing puzzles.",
+      [
+        "https://color.toys/"
+      ]
+    ],
+    "ocd-toys": [
+      "A house where one thing in every room is wrong.",
+      [
+        "https://ocd.toys/"
+      ]
+    ],
+    "doughnut-kitten": [
+      "A kitten, a doughnut and a sparkling rainbow by Tania Hennessy.",
+      [
+        "https://doughnutkitten.com/"
+      ]
+    ],
+    "greedy-pig": [
+      "A push-your-luck dice game.",
+      [
+        "https://dice.toys/toy/greedy-pig"
+      ]
+    ],
+    "the-wow-en-wilson-quiz": [
+      "Hear an Owen Wilson \"wow\" and guess the film.",
+      [
+        "https://wowenwilsonquiz.com/"
+      ]
+    ],
+    "river-of-reverence": [
+      "Lucy Holman's drifting sestina, where each end word shifts by a single letter per stanza.",
+      [
+        "https://poetic.toys/poems/river-of-reverence"
+      ]
+    ],
+    "1-million-emojis": [
+      "A vast shared canvas of a million emojis.",
+      [
+        "https://chriswijnia.com/lab/emoji"
+      ]
+    ],
+    "the-oatmeal": [
+      "Comics, quizzes and rants by Matthew Inman.",
+      [
+        "https://theoatmeal.com/"
+      ]
+    ],
+    "xkcd": [
+      "A webcomic of romance, sarcasm, math and language.",
+      [
+        "https://xkcd.com/"
+      ]
+    ],
+    "what-if": [
+      "Serious answers to absurd scientific questions.",
+      [
+        "https://what-if.xkcd.com/"
+      ]
+    ],
+    "wikipedia-lamest-edit-wars": [
+      "Editors' own record of the pettiest arguments in Wikipedia's history.",
+      [
+        "https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars"
+      ]
+    ],
+    "list-of-lists-of-lists": [
+      "Exactly what it sounds like.",
+      [
+        "https://en.wikipedia.org/wiki/List_of_lists_of_lists"
+      ]
+    ],
+    "gwern-net": [
+      "Long, obsessively footnoted essays on AI, psychology and statistics.",
+      [
+        "https://gwern.net/"
+      ]
+    ],
+    "slate-star-codex": [
+      "An archive of long essays on science, medicine and ideas.",
+      [
+        "https://slatestarcodex.com/"
+      ]
+    ],
+    "longform": [
+      "The archive of a long-running recommender of long reads, and its podcast.",
+      [
+        "https://longform.org/"
+      ]
+    ],
+    "colossal": [
+      "The best of art, craft and visual culture.",
+      [
+        "https://www.thisiscolossal.com/"
+      ]
+    ],
+    "library-of-congress-free-to-use": [
+      "Sets of free images on oddly specific themes, from the Library of Congress.",
+      [
+        "https://www.loc.gov/free-to-use/"
+      ]
+    ],
+    "spaceweather-com": [
+      "Daily news on solar wind, sunspots and asteroids, in a gloriously dense layout.",
+      [
+        "https://www.spaceweather.com/"
+      ]
+    ],
+    "fileformat-info": [
+      "The Digital Rosetta Stone: file formats and Unicode tables.",
+      [
+        "https://www.fileformat.info/"
+      ]
+    ],
+    "ascii-table": [
+      "The ASCII character codes, on one page.",
+      [
+        "https://www.asciitable.com/"
+      ]
+    ],
+    "shapecatcher": [
+      "Draw a character and it finds the Unicode symbol.",
+      [
+        "https://shapecatcher.com/"
+      ]
+    ],
+    "pixelcrash": [
+      "A browser tool that turns images and video into layers of crunchy pixels.",
+      [
+        "https://pixelcrash.xyz/"
+      ]
+    ],
+    "js-paint": [
+      "Windows MS Paint remade for the browser, down to the extras.",
+      [
+        "https://jspaint.app/"
+      ]
+    ],
+    "98-js": [
+      "Windows 98 recreated on the web.",
+      [
+        "https://98.js.org/"
+      ]
+    ],
+    "98-css": [
+      "A design system for building faithful recreations of old interfaces.",
+      [
+        "https://jdan.github.io/98.css/"
+      ]
+    ],
+    "xp-css": [
+      "Windows XP interface styling as a CSS library.",
+      [
+        "https://botoxparty.github.io/XP.css/"
+      ]
+    ],
+    "dosgames-com": [
+      "Free DOS games, playable or downloadable.",
+      [
+        "https://www.dosgames.com/"
+      ]
+    ],
+    "rgb-classic-games": [
+      "Keeping classic freeware and shareware DOS games alive.",
+      [
+        "https://www.classicdosgames.com/"
+      ]
+    ],
+    "pcjs-software": [
+      "Vintage PC software you can run in the browser.",
+      [
+        "https://www.pcjs.org/software/"
+      ]
+    ],
+    "telnet-bbs-guide": [
+      "A guide to bulletin board systems you can still dial into by Telnet.",
+      [
+        "https://www.telnetbbsguide.com/"
+      ]
+    ],
+    "memex-and-beyond": [
+      "Brown University's site on Vannevar Bush's memex and early hypertext.",
+      [
+        "https://cs.brown.edu/memex/"
+      ]
+    ],
+    "information-management-a-proposal": [
+      "The 1989 document in which Tim Berners-Lee proposed what became the Web.",
+      [
+        "https://www.w3.org/History/1989/proposal.html"
+      ]
+    ],
+    "tim-berners-lee": [
+      "The W3C page of the inventor of the Web.",
+      [
+        "https://www.w3.org/People/Berners-Lee/"
+      ]
+    ],
+    "internet-hall-of-fame": [
+      "The people who brought the Internet to life.",
+      [
+        "https://www.internethalloffame.org/"
+      ]
+    ],
+    "the-living-internet": [
+      "A vintage reference to how the Internet was made, kept online.",
+      [
+        "https://www.livinginternet.com/"
+      ]
+    ],
+    "hobbes-internet-timeline": [
+      "A decade-by-decade timeline of the Internet, starting in the 1950s.",
+      [
+        "https://www.zakon.org/robert/internet/timeline/"
+      ]
+    ],
+    "your-world-of-text": [
+      "An infinite shared grid of text that anyone can type on.",
+      [
+        "https://www.yourworldoftext.com/"
+      ]
+    ],
+    "human-benchmark": [
+      "Measure your reaction time and memory in small tests.",
+      [
+        "https://humanbenchmark.com/"
+      ]
+    ],
+    "nonograms-org": [
+      "Japanese crosswords in black and white and in colour.",
+      [
+        "https://www.nonograms.org/"
+      ]
+    ],
+    "simon-tatham-s-puzzles": [
+      "A long-running collection of small logic puzzles.",
+      [
+        "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/"
+      ]
+    ],
+    "hashi-puzzles": [
+      "Connect the islands with bridges.",
+      [
+        "https://www.puzzle-bridges.com/"
+      ]
+    ],
+    "advent-of-code": [
+      "Programming puzzles released every December, with a long archive.",
+      [
+        "https://adventofcode.com/"
+      ]
+    ],
+    "the-cryptopals-challenges": [
+      "Break real cryptography, one exercise at a time.",
+      [
+        "https://cryptopals.com/"
+      ]
+    ],
+    "overthewire-wargames": [
+      "Learn security concepts by playing command-line wargames.",
+      [
+        "https://overthewire.org/wargames/"
+      ]
+    ],
+    "nandgame": [
+      "Build a computer from scratch, starting from a single gate.",
+      [
+        "https://www.nandgame.com/"
+      ]
+    ],
+    "flexbox-froggy": [
+      "Learn CSS by guiding frogs to their lily pads.",
+      [
+        "https://flexboxfroggy.com/"
+      ]
+    ],
+    "grid-garden": [
+      "Learn CSS grid by watering carrots.",
+      [
+        "https://cssgridgarden.com/"
+      ]
+    ],
+    "mastermind-game": [
+      "Crack the colour code. The classic board game.",
+      [
+        "https://mastermindgame.org/"
+      ]
+    ],
+    "draw-a-stickman": [
+      "Draw your own hero and the story carries it along.",
+      [
+        "https://www.drawastickman.com/"
+      ]
+    ],
+    "orisinal": [
+      "Morning Sunshine: Ferry Halim's gentle little Flash games.",
+      [
+        "https://www.ferryhalim.com/orisinal/"
+      ]
+    ],
+    "homestar-runner": [
+      "The cartoon that defined the 2000s web, still updated.",
+      [
+        "https://homestarrunner.com/"
+      ]
+    ],
+    "commodore-ca": [
+      "Commodore computers: history, prototypes and manuals.",
+      [
+        "https://www.commodore.ca/"
+      ]
+    ],
+    "c64-wiki": [
+      "A wiki dedicated to the Commodore 64.",
+      [
+        "https://www.c64-wiki.com/"
+      ]
+    ],
+    "vintage-computer-collection": [
+      "Erik S. Klein's personal collection of vintage computers.",
+      [
+        "https://www.vintage-computer.com/"
+      ]
+    ],
+    "museum-of-the-game": [
+      "A database of arcade and video game machines.",
+      [
+        "https://www.arcade-museum.com/"
+      ]
+    ],
+    "the-video-game-museum": [
+      "Screenshots of more than 13,000 games, sorted by system.",
+      [
+        "https://www.vgmuseum.com/"
+      ]
+    ],
+    "vgmaps": [
+      "The Video Game Atlas: full maps of game levels.",
+      [
+        "https://vgmaps.com/"
+      ]
+    ],
+    "spectrum-computing": [
+      "A database of ZX Spectrum games and software.",
+      [
+        "https://spectrumcomputing.co.uk/"
+      ]
+    ],
+    "world-of-spectrum": [
+      "An archive for the Sinclair ZX Spectrum.",
+      [
+        "https://worldofspectrum.org/"
+      ]
+    ],
+    "msx-resource-center": [
+      "The news, forum and wiki of the MSX community.",
+      [
+        "https://www.msx.org/"
+      ]
+    ],
+    "aminet": [
+      "A software archive for the Amiga, with more than 85,000 packages.",
+      [
+        "https://aminet.net/"
+      ]
+    ],
+    "tasvideos": [
+      "Tool-assisted game movies, for when human skills are just not enough.",
+      [
+        "https://tasvideos.org/"
+      ]
+    ],
+    "scene-org": [
+      "The international demoscene organization and its file archive.",
+      [
+        "https://scene.org/"
+      ]
+    ],
+    "the-mod-archive": [
+      "A huge collection of tracker music modules.",
+      [
+        "https://modarchive.org/"
+      ]
+    ],
+    "high-voltage-sid-collection": [
+      "The Commodore 64 music collection.",
+      [
+        "https://hvsc.c64.org/"
+      ]
+    ],
+    "chip-player-js": [
+      "Play old game and tracker music in the browser.",
+      [
+        "https://chiptune.app/"
+      ]
+    ],
+    "ubuweb-sound": [
+      "An archive of sound art and experimental audio.",
+      [
+        "https://ubu.com/sound/"
+      ]
+    ],
+    "ccmixter": [
+      "A community of Creative Commons remixes.",
+      [
+        "https://ccmixter.org/"
+      ]
+    ],
+    "radio-aporee": [
+      "A global soundmap dedicated to field recording and the art of listening.",
+      [
+        "https://aporee.org/maps/"
+      ]
+    ],
+    "radiobrowser": [
+      "A community-driven database of Internet radio stations.",
+      [
+        "https://www.radio-browser.info/"
+      ]
+    ],
+    "heywhatsthat": [
+      "Pick a point and see which summits are visible from it.",
+      [
+        "https://www.heywhatsthat.com/"
+      ]
+    ],
+    "geonames": [
+      "A database of the world's place names.",
+      [
+        "https://www.geonames.org/"
+      ]
+    ],
+    "open-infrastructure-map": [
+      "The world's hidden infrastructure on one map, from power lines to pipelines.",
+      [
+        "https://openinframap.org/"
+      ]
+    ],
+    "opentopomap": [
+      "Topographic maps from open data.",
+      [
+        "https://opentopomap.org/"
+      ]
+    ],
+    "zoom-earth": [
+      "Near real-time satellite weather and storm tracking.",
+      [
+        "https://zoom.earth/"
+      ]
+    ],
+    "seismicportal": [
+      "Earthquakes around the world, from a European infrastructure.",
+      [
+        "https://www.seismicportal.eu/"
+      ]
+    ],
+    "n2yo": [
+      "Real-time satellite tracking and predictions.",
+      [
+        "https://www.n2yo.com/"
+      ]
+    ],
+    "stellarium": [
+      "A free open-source planetarium for your computer.",
+      [
+        "https://stellarium.org/"
+      ]
+    ],
+    "nasa-exoplanet-archive": [
+      "The data behind thousands of confirmed planets.",
+      [
+        "https://exoplanetarchive.ipac.caltech.edu/"
+      ]
+    ],
+    "rcsb-protein-data-bank": [
+      "A database of the 3D structures of biological molecules.",
+      [
+        "https://www.rcsb.org/"
+      ]
+    ],
+    "pdb-101": [
+      "A molecule of the month, explained with beautiful images.",
+      [
+        "https://pdb101.rcsb.org/"
+      ]
+    ],
+    "ensembl": [
+      "Genome data and annotation.",
+      [
+        "https://www.ensembl.org/"
+      ]
+    ],
+    "tree-of-life-web-project": [
+      "A collaborative map of the diversity of life.",
+      [
+        "https://www.tolweb.org/tree/phylogeny.html"
+      ]
+    ],
+    "wolfram-science": [
+      "Stephen Wolfram's A New Kind of Science, readable online.",
+      [
+        "https://www.wolframscience.com/"
+      ]
+    ],
+    "play-game-of-life": [
+      "John Conway's Game of Life, ready to play.",
+      [
+        "https://playgameoflife.com/"
+      ]
+    ],
+    "conway-s-game-of-life": [
+      "A browser Life simulator with a big pattern library.",
+      [
+        "https://copy.sh/life/"
+      ]
+    ],
+    "betterexplained": [
+      "Math lessons that click.",
+      [
+        "https://betterexplained.com/"
+      ]
+    ],
+    "distill": [
+      "A journal of clear, interactive machine learning articles.",
+      [
+        "https://distill.pub/"
+      ]
+    ],
+    "neural-network-playground": [
+      "Tinker with a neural network in your browser. You can't break it.",
+      [
+        "https://playground.tensorflow.org/"
+      ]
+    ],
+    "cnn-explainer": [
+      "See how a convolutional neural network sees.",
+      [
+        "https://poloclub.github.io/cnn-explainer/"
+      ]
+    ],
+    "boing-boing": [
+      "A directory of mostly wonderful things.",
+      [
+        "https://boingboing.net/"
+      ]
+    ],
+    "kottke-org": [
+      "Home of fine hypertext products since 1998.",
+      [
+        "https://kottke.org/"
+      ]
+    ],
+    "waxy-org": [
+      "Andy Baio's long-running site about Internet culture.",
+      [
+        "https://waxy.org/"
+      ]
+    ],
+    "the-browser": [
+      "A daily selection of the best writing on the Internet.",
+      [
+        "https://thebrowser.com/"
+      ]
+    ],
+    "the-public-domain": [
+      "James Boyle's work on copyright and the commons.",
+      [
+        "https://thepublicdomain.org/"
+      ]
+    ],
+    "archiveteam": [
+      "Rogue archivists saving websites before they vanish.",
+      [
+        "https://wiki.archiveteam.org/"
+      ]
+    ],
+    "retronews": [
+      "French press archives from the BnF.",
+      [
+        "https://www.retronews.fr/"
+      ]
+    ],
+    "ina": [
+      "The French audiovisual archive.",
+      [
+        "https://www.ina.fr/"
+      ]
+    ],
+    "map-warper": [
+      "Stretch old maps onto modern geography.",
+      [
+        "https://mapwarper.net/"
+      ]
+    ],
+    "historypin": [
+      "A community archive of stories and photos pinned to places.",
+      [
+        "https://www.historypin.org/"
+      ]
+    ],
+    "bash-org-archive": [
+      "An archive of the old IRC quote database.",
+      [
+        "https://bash-org-archive.com/"
+      ]
+    ],
+    "internet-sacred-text-archive": [
+      "A vast archive of religious and folklore texts.",
+      [
+        "https://sacred-texts.com/"
+      ]
+    ],
+    "standard-ebooks": [
+      "Free and liberated eBooks, carefully produced for the true book lover.",
+      [
+        "https://standardebooks.org/"
+      ]
+    ],
+    "librivox": [
+      "Free public domain audiobooks read by volunteers.",
+      [
+        "https://librivox.org/"
+      ]
+    ],
+    "wordnik": [
+      "All the words.",
+      [
+        "https://www.wordnik.com/"
+      ]
+    ],
+    "onelook": [
+      "Find a word from its meaning, across hundreds of dictionaries.",
+      [
+        "https://www.onelook.com/"
+      ]
+    ],
+    "world-atlas-of-language-structures": [
+      "Maps of how the world's languages differ.",
+      [
+        "https://wals.info/"
+      ]
+    ],
+    "language-creation-society": [
+      "The society for people who invent languages.",
+      [
+        "https://www.conlang.org/"
+      ]
+    ],
+    "languagehat": [
+      "A long-running blog about language.",
+      [
+        "https://languagehat.com/"
+      ]
+    ],
+    "1001-fonts": [
+      "Thousands of free fonts.",
+      [
+        "https://www.1001fonts.com/"
+      ]
+    ],
+    "tim-holman": [
+      "A maker's portfolio full of pointless, delightful code.",
+      [
+        "https://tholman.com/"
+      ]
+    ],
+    "texter": [
+      "Draw with words. The letters follow your cursor.",
+      [
+        "https://tholman.com/texter/"
+      ]
+    ],
+    "hakim-el-hattab": [
+      "A front-end developer's collection of web experiments.",
+      [
+        "https://hakim.se/"
+      ]
+    ],
+    "web-graphic-experiments": [
+      "A collection of web graphic experiments by Keita Yamada.",
+      [
+        "https://experiments.p5aholic.me/"
+      ]
+    ],
+    "r3f-playground": [
+      "A gravity experiment by Maxime Heckel.",
+      [
+        "https://r3f.maximeheckel.com/"
+      ]
+    ],
+    "cssbattle": [
+      "Daily CSS golf: reproduce a target with the least code.",
+      [
+        "https://cssbattle.dev/"
+      ]
+    ],
+    "hoverstat-es": [
+      "The home of alternative web design.",
+      [
+        "https://hoverstat.es/"
+      ]
+    ],
+    "brutalist-websites": [
+      "A gallery of sites in the ruggedness of brutalist design.",
+      [
+        "https://brutalistwebsites.com/"
+      ]
+    ],
+    "gossip-s-web": [
+      "A directory of handmade websites.",
+      [
+        "https://www.gossipsweb.net/"
+      ]
+    ],
+    "web-curios": [
+      "A weekly round-up of odd things found online.",
+      [
+        "https://webcurios.co.uk/"
+      ]
+    ],
+    "marijn-haverbeke": [
+      "The maker of CodeMirror and author of Eloquent JavaScript.",
+      [
+        "https://marijnhaverbeke.nl/"
+      ]
+    ],
+    "nomnoml": [
+      "Write text, get a UML diagram, with instant feedback.",
+      [
+        "https://nomnoml.com/"
+      ]
+    ],
+    "dither-it": [
+      "Free online image dithering.",
+      [
+        "https://ditherit.com/"
+      ]
+    ],
+    "lunapic": [
+      "An online photo editor with a very long list of effects.",
+      [
+        "https://www2.lunapic.com/editor/"
+      ]
+    ],
+    "bfxr": [
+      "Make sound effects for your games.",
+      [
+        "https://www.bfxr.net/"
+      ]
+    ],
+    "jsfxr": [
+      "An 8-bit sound maker in the browser.",
+      [
+        "https://sfxr.me/"
+      ]
+    ],
+    "online-sequencer": [
+      "Make music online with a shared piano roll.",
+      [
+        "https://onlinesequencer.net/"
+      ]
+    ],
+    "beepbox": [
+      "Sketch and share instrumental chiptune melodies.",
+      [
+        "https://www.beepbox.co/"
+      ]
+    ],
+    "drumbit": [
+      "An online drum machine.",
+      [
+        "https://drumbit.app/"
+      ]
+    ],
+    "dvd-screensaver-maker": [
+      "Make your own bouncing DVD-style screensaver.",
+      [
+        "https://dvdscreensavermaker.com/"
+      ]
+    ],
+    "crzy-site": [
+      "A curated collection of absolutely useless websites.",
+      [
+        "https://crzy.site/"
+      ]
+    ],
+    "boring-websites": [
+      "A webring of small, wonderfully unnecessary sites.",
+      [
+        "https://boringwebsites.art/"
+      ]
+    ],
+    "powerful-websites": [
+      "A catalogue of the Internet's most powerful sites, curated and indexed.",
+      [
+        "https://powerfulwebsites.online/"
+      ]
+    ],
+    "little-alchemy-2": [
+      "The sequel: combine air, earth, fire and water into everything else.",
+      [
+        "https://littlealchemy2.com/"
+      ]
+    ],
+    "scale-of-universe": [
+      "An interactive experience of the sizes of the visible and invisible world.",
+      [
+        "https://scaleofuniverse.com/"
+      ]
+    ],
+    "emulatorjs": [
+      "Embed an emulator into your own website.",
+      [
+        "https://emulatorjs.org/"
+      ]
+    ],
+    "minimal-gallery": [
+      "Hand-picked web design for the love of the simple.",
+      [
+        "https://www.minimal.gallery/"
+      ]
+    ],
+    "logic-puzzles": [
+      "Logic grid puzzles with a long-running community.",
+      [
+        "https://www.logic-puzzles.org/"
+      ]
+    ],
+    "heeeeeeeeeeeeey": [
+      "One word, stretched out by Mike Bodge.",
+      [
+        "https://hooooooooo.com/"
+      ]
+    ],
+    "patience-toys": [
+      "A slow text-mode place: a river of reverence, a garden of breathing, sands of quiet.",
+      [
+        "https://patience.toys/"
+      ]
+    ],
+    "daily-15-puzzle": [
+      "The classic 15 sliding tile puzzle, once a day.",
+      [
+        "https://sliding.toys/mystic-square/15-puzzle/daily"
+      ]
+    ],
+    "remoji": [
+      "Move the cursor like finger-painting to make patterns of tiny animated GIFs that erase themselves.",
+      [
+        "https://remoji.com/"
+      ]
+    ],
+    "pendulum-waves": [
+      "Pendulums of different lengths drift in and out of phase and play as they go.",
+      [
+        "https://musical.toys/toys/pendulum-waves"
+      ]
+    ],
+    "memory-toys": [
+      "A set of browser memory games.",
+      [
+        "https://memory.toys/"
+      ]
+    ],
+    "straighten": [
+      "Someone's bumped the pictures. Again.",
+      [
+        "https://ocd.toys/straighten"
+      ]
+    ],
+    "daily-blob-ross": [
+      "Mix paint until it matches the target colour.",
+      [
+        "https://color.toys/blob-ross/daily/small"
+      ]
+    ],
+    "list-of-individual-dogs": [
+      "Wikipedia's list of famous real dogs.",
+      [
+        "https://en.wikipedia.org/wiki/List_of_individual_dogs"
+      ]
+    ],
+    "picoctf": [
+      "Carnegie Mellon's cybersecurity game, now part of CyLab Security Academy.",
+      [
+        "https://picoctf.org/"
+      ]
+    ],
+    "amiga-news-de": [
+      "News about the Amiga, still published today.",
+      [
+        "https://www.amiga-news.de/"
+      ]
+    ],
+    "amiga-forever": [
+      "A preservation and emulation package for Amiga software.",
+      [
+        "https://www.amigaforever.com/"
+      ]
+    ],
+    "earthcam": [
+      "A network of live webcams around the world.",
+      [
+        "https://www.earthcam.com/"
+      ]
+    ],
+    "nicky-case": [
+      "Shtuff for curious and playful folks, from a maker of playable explanations.",
+      [
+        "https://ncase.me/"
+      ]
+    ],
+    "dicebear": [
+      "Pick a seed, get an avatar. An open-source avatar library.",
+      [
+        "https://www.dicebear.com/"
+      ]
+    ],
+    "anthony-hobday": [
+      "A product designer's plain-text site, with interface and print-and-play games.",
+      [
+        "https://www.anthonyhobday.com/"
+      ]
+    ],
+    "david-walsh-blog": [
+      "A long-running JavaScript blog.",
+      [
+        "https://www.davidwalsh.name/"
+      ]
+    ],
+    "tonematrix": [
+      "Tap a grid to draw a melody that keeps looping.",
+      [
+        "https://tonematrix.audiotool.com/"
+      ]
+    ],
+    "bbc-sound-effects": [
+      "Sound effects from the BBC archive.",
+      [
+        "https://sound-effects.bbcrewind.co.uk/"
+      ]
+    ],
+    "learning-music": [
+      "Interactive lessons on the basics of making music.",
+      [
+        "https://learningmusic.ableton.com/"
+      ]
+    ],
+    "audiotool": [
+      "A full music studio in the browser.",
+      [
+        "https://www.audiotool.com/"
+      ]
+    ],
+    "ads-b-exchange": [
+      "Flight tracking built on a community of receivers.",
+      [
+        "https://www.adsbexchange.com/"
+      ]
+    ],
+    "ihug-you": [
+      "Send someone a digital hug.",
+      [
+        "https://ihug.you/"
+      ]
+    ],
+    "jklm-fun": [
+      "Party games for PC and smartphone.",
+      [
+        "https://www.jklm.fun/"
+      ]
+    ],
+    "playclassic-games": [
+      "Classic DOS, SNES, NES and Game Boy games to play online.",
+      [
+        "https://playclassic.games/"
+      ]
+    ],
+    "trynkit": [
+      "Novelty mini-tools and meme generators.",
+      [
+        "https://pongvn.com/trynkit"
+      ]
+    ],
+    "bundlephobia": [
+      "Find the cost of adding an npm package to your bundle.",
+      [
+        "https://bundlephobia.com/"
+      ]
+    ],
+    "webgl-samples": [
+      "A collection of WebGL samples and demos.",
+      [
+        "https://webglsamples.org/"
+      ]
+    ],
+    "typewolf": [
+      "What's trending in type.",
+      [
+        "https://www.typewolf.com/"
+      ]
+    ],
+    "my90stv": [
+      "Press channel up on an old TV set and watch real 1990s shows and adverts.",
+      [
+        "https://90s.myretrotvs.com/"
+      ]
+    ],
+    "literature-map": [
+      "Type an author and see similar writers float around them on a map.",
+      [
+        "https://literature-map.com/"
+      ]
+    ],
+    "goblin-tools": [
+      "Small tools for when things feel too big, like a to-do list that breaks itself down.",
+      [
+        "https://goblin.tools/"
+      ]
+    ],
+    "the-rasterbator": [
+      "Turn any image into a huge multi-page poster, printed sheet by sheet.",
+      [
+        "https://rasterbator.net/"
+      ]
+    ],
+    "ocearch": [
+      "The organisation that tags sharks, with a map where you can follow them.",
+      [
+        "https://ocearch.org/"
+      ]
+    ],
+    "animated-drawings": [
+      "A Meta research demo that turns static sketches into animations.",
+      [
+        "https://sketch.metademolab.com/"
+      ]
+    ],
+    "donjon": [
+      "A vast plain page of RPG generators, from dungeons to demi-planes.",
+      [
+        "https://donjon.bin.sh/"
+      ]
+    ],
+    "popcat": [
+      "Click a cat's mouth open. Countries compete on a world leaderboard.",
+      [
+        "https://popcat.click/"
+      ]
+    ],
+    "beifall": [
+      "An interactive applause piece by Michael Frei and Mario von Rickenbach.",
+      [
+        "https://beifall.ch/"
+      ]
+    ],
+    "29a-ch": [
+      "Jonas Wagner's personal site of experiments, including tools to forensically analyse photos.",
+      [
+        "https://29a.ch/"
+      ]
+    ],
+    "kittenwar": [
+      "Two kittens enter. You choose. The cutest kitten wins.",
+      [
+        "https://kittenwar.com/"
+      ]
+    ],
+    "fold-n-fly": [
+      "A database of paper airplanes with folding instructions.",
+      [
+        "https://foldnfly.com/"
+      ]
+    ],
+    "shapes-mania": [
+      "Everything for guiltless and shameless relaxation.",
+      [
+        "https://shapesmania.com/"
+      ]
+    ],
+    "science-vs-magic": [
+      "Nico Disseldorp's mathematical toys: constructions, tessellations, fractals and automata.",
+      [
+        "https://sciencevsmagic.net/"
+      ]
+    ],
+    "marble-run": [
+      "Build a marble run track from different bricks, alongside tracks built by other visitors.",
+      [
+        "https://marblerun.at/"
+      ]
+    ],
+    "chicken-on-a-raft": [
+      "Press the chicken to begin. There is a raft.",
+      [
+        "https://chickenonaraft.com/"
+      ]
+    ],
+    "shame-bell": [
+      "Start shaming with a bell.",
+      [
+        "https://shamebell.com/"
+      ]
+    ],
+    "instant-laughing-ostrich": [
+      "An ostrich laughs at you on demand.",
+      [
+        "https://instantostrich.com/"
+      ]
+    ],
+    "festisite": [
+      "A strange toolbox for turning text into hearts, money and playing cards.",
+      [
+        "https://festisite.com/"
+      ]
+    ],
+    "buttonbass": [
+      "Press cubes to play a beat.",
+      [
+        "https://buttonbass.com/"
+      ]
+    ],
+    "kuku-klok": [
+      "An online alarm clock with a choice of wake-up sounds, including a cockerel.",
+      [
+        "https://kukuklok.com/"
+      ]
+    ],
+    "bitlisten": [
+      "Hear Bitcoin transactions as they happen.",
+      [
+        "https://bitlisten.com/"
+      ]
+    ],
+    "clickclickclick": [
+      "A browser game about online profiling. Please click the button.",
+      [
+        "https://clickclickclick.click/"
+      ]
+    ],
+    "the-revolving-internet": [
+      "Constant Dullaart's 2010 artwork in which a well-known search page slowly turns.",
+      [
+        "https://therevolvinginternet.com/"
+      ]
+    ],
+    "what-happened-in-my-birth-year": [
+      "Enter a year and see what was happening.",
+      [
+        "https://whathappenedinmybirthyear.com/"
+      ]
+    ],
+    "game-about-squares": [
+      "A puzzle game about moving squares.",
+      [
+        "https://gameaboutsquares.com/"
+      ]
+    ],
+    "llama-font": [
+      "Type something. It gets spelled in llamas.",
+      [
+        "https://llamafont.com/"
+      ]
+    ],
+    "david-li": [
+      "David Li's experiments, including the simulation behind Blob Opera.",
+      [
+        "https://david.li/"
+      ]
+    ],
+    "moments-of-happiness": [
+      "A side project of small interactive WebGL animal scenes.",
+      [
+        "https://moments.epic.net/"
+      ]
+    ],
+    "large-type": [
+      "Type something and show it in huge letters.",
+      [
+        "https://large-type.com/"
+      ]
+    ],
+    "world-s-dumbest-game": [
+      "How long can you hold the button?",
+      [
+        "https://worldsdumbestgame.com/"
+      ]
+    ],
+    "emoji-kitchen": [
+      "Combine two emojis and get an odd new one.",
+      [
+        "https://emojikitchen.dev/"
+      ]
+    ],
+    "text-faces": [
+      "Click to copy text faces.",
+      [
+        "https://textfac.es/"
+      ]
+    ],
+    "the-uncomfortable": [
+      "Everyday objects deliberately redesigned to be inconvenient.",
+      [
+        "https://theuncomfortable.com/"
+      ]
+    ],
+    "i-don-t-like-work": [
+      "A generator of reasons to work from home.",
+      [
+        "https://idontlike.work/"
+      ]
+    ],
+    "the-hamster-dance": [
+      "The animated hamsters that became one of the first web memes.",
+      [
+        "https://webhamster.com/"
+      ]
+    ],
+    "futile": [
+      "You scroll. It measures. The distance goes on your record.",
+      [
+        "https://futile.ch/"
+      ]
+    ],
+    "purrli": [
+      "The online cat: a customisable purr generator.",
+      [
+        "https://purrli.com/"
+      ]
+    ],
+    "mr-doob": [
+      "The experiments of the creator of three.js.",
+      [
+        "https://mrdoob.com/"
+      ]
+    ],
+    "bouncy-balls": [
+      "Balls that bounce to classroom noise, as a way to keep it down.",
+      [
+        "https://bouncyballs.org/"
+      ]
+    ],
+    "infinite-flowers-zoomquilt": [
+      "An infinite zoom through painted flowers.",
+      [
+        "https://infiniteflowers.net/"
+      ]
+    ],
+    "animated-engines": [
+      "Click an engine to see how it works.",
+      [
+        "https://animatedengines.com/"
+      ]
+    ],
+    "myphysicslab": [
+      "Physics simulations you can drag and disturb.",
+      [
+        "https://myphysicslab.com/"
+      ]
+    ],
+    "pmav-eu": [
+      "A personal page hosting dozens of small ideas.",
+      [
+        "https://pmav.eu/"
+      ]
+    ],
+    "tikolu": [
+      "Small experiments, including a text box anyone can edit.",
+      [
+        "https://tikolu.net/"
+      ]
+    ],
+    "woodgears": [
+      "An engineer's approach to woodworking.",
+      [
+        "https://woodgears.ca/"
+      ]
+    ],
+    "mass-werk": [
+      "Spacewar!, ELIZA, a talking PET 2001 and more preserved historical software.",
+      [
+        "https://masswerk.at/"
+      ]
+    ],
+    "gridland": [
+      "Match. Build. Survive. A match-three game with building and survival.",
+      [
+        "https://gridland.doublespeakgames.com/"
+      ]
+    ],
+    "http-cats": [
+      "HTTP status codes, explained by cats.",
+      [
+        "https://http.cat/"
+      ]
+    ],
+    "i-miss-the-office": [
+      "Close your eyes and listen to imaginary colleagues.",
+      [
+        "https://imisstheoffice.eu/"
+      ]
+    ],
+    "the-longest-joke-in-the-world": [
+      "It goes on for a very long time.",
+      [
+        "https://longestjokeintheworld.com/"
+      ]
+    ],
+    "michael-bach": [
+      "A vision scientist's page, home to a famous collection of optical illusions.",
+      [
+        "https://michaelbach.de/"
+      ]
+    ],
+    "orb-farm": [
+      "A sealed glass ecosystem of pixels that you build and watch live.",
+      [
+        "https://orb.farm/"
+      ]
+    ],
+    "pippin-barr": [
+      "The experimental games of Pippin Barr.",
+      [
+        "https://pippinbarr.com/"
+      ]
+    ],
+    "powerline-io": [
+      "A neon multiplayer snake game.",
+      [
+        "https://powerline.io/"
+      ]
+    ],
+    "sad-trombone": [
+      "One button. Wah wah.",
+      [
+        "https://sadtrombone.com/"
+      ]
+    ],
+    "the-hitchhiker-s-guide-to-the-galaxy-guide": [
+      "An encyclopedia of the Guide. Don't panic.",
+      [
+        "https://hitchhikersgalaxy.guide/"
+      ]
+    ],
+    "ascii-theater": [
+      "Stream free text-based films in your terminal.",
+      [
+        "https://ascii.theater/"
+      ]
+    ],
+    "exhaler": [
+      "A simple breathing animation.",
+      [
+        "https://xhalr.com/"
+      ]
+    ],
+    "fix-my-speakers": [
+      "Plays a tone that claims to eject water from your phone's speakers.",
+      [
+        "https://fixmyspeakers.com/"
+      ]
+    ],
+    "single-serving-sites": [
+      "A directory of sites that do one thing and nothing else.",
+      [
+        "https://singleservingsites.cool/"
+      ]
+    ],
+    "vole-wtf": [
+      "Working towards a dafter Internet.",
+      [
+        "https://vole.wtf/"
+      ]
+    ],
+    "bill-wurtz": [
+      "The songs, videos and notebook of Bill Wurtz.",
+      [
+        "https://billwurtz.com/"
+      ]
+    ],
+    "cloud-appreciation-society": [
+      "The society for people who love the sky.",
+      [
+        "https://cloudappreciationsociety.org/"
+      ]
+    ],
+    "euclidea": [
+      "Geometric construction puzzles with a compass and straightedge.",
+      [
+        "https://euclidea.xyz/"
+      ]
+    ],
+    "potatoland": [
+      "Mark Napier's net art from the early web.",
+      [
+        "https://potatoland.org/"
+      ]
+    ],
+    "html-energy": [
+      "A celebration of writing HTML by hand.",
+      [
+        "https://html.energy/"
+      ]
+    ],
+    "new-art-city": [
+      "Virtual galleries for digital art.",
+      [
+        "https://newart.city/"
+      ]
+    ],
+    "ba-ba-dum": [
+      "A colourful game for learning vocabulary in many languages.",
+      [
+        "https://babadum.com/"
+      ]
+    ],
+    "pangram-me": [
+      "Pangrams to try, in many languages.",
+      [
+        "https://pangram.me/"
+      ]
+    ],
+    "vintage-obscura-radio": [
+      "A radio of obscure records.",
+      [
+        "https://vintageobscura.net/"
+      ]
+    ],
+    "map-of-metal": [
+      "An interactive genealogy of heavy metal genres.",
+      [
+        "https://mapofmetal.com/"
+      ]
+    ],
+    "allrgb": [
+      "Images that use every 24-bit colour exactly once.",
+      [
+        "https://allrgb.com/"
+      ]
+    ],
+    "sandtris": [
+      "A Tetris-style game made of sand: connect the same colour across the board.",
+      [
+        "https://sandtris.com/"
+      ]
+    ],
+    "hexgl": [
+      "A futuristic HTML5 racing game.",
+      [
+        "https://hexgl.bkcore.com/"
+      ]
+    ],
+    "redact-photo": [
+      "Black out parts of an image, entirely in the browser.",
+      [
+        "https://redact.photo/"
+      ]
+    ],
+    "sandpile": [
+      "A live abelian sandpile that avalanches.",
+      [
+        "https://sandpile.art/"
+      ]
+    ],
+    "today-s-rock": [
+      "One procedurally generated 3D rock a day, the same for everyone.",
+      [
+        "https://todaysrock.art/"
+      ]
+    ],
+    "zoomquilt-zzz": [
+      "Another infinitely zooming painting from the Zoomquilt project.",
+      [
+        "https://zzz.zoomquilt.org/"
+      ]
+    ],
+    "infinite-zoom-patterns": [
+      "Colourful patterns that zoom forever, by Nikolaus Baumgarten.",
+      [
+        "https://infinitezoom.net/"
+      ]
+    ],
+    "nasa-solar-system-treks": [
+      "Fly over the Moon, Mars and other worlds in NASA's mapping portals.",
+      [
+        "https://trek.nasa.gov/"
+      ]
+    ],
+    "famelack": [
+      "Free live TV, radio and webcams from around the world.",
+      [
+        "https://tv.garden/"
+      ]
+    ],
+    "explore-org": [
+      "A network of live nature cams around the world.",
+      [
+        "https://explore.org/"
+      ]
+    ],
+    "floor796": [
+      "A giant hand-animated space station packed with pop culture references.",
+      [
+        "https://floor796.com/"
+      ]
+    ],
+    "bomomo": [
+      "Philipp Lenssen's 2008 drawing toy: move your mouse to paint.",
+      [
+        "https://bomomo.com/"
+      ]
+    ],
+    "zoomquilt-2": [
+      "The sequel: another collaborative infinite zoom.",
+      [
+        "https://zoomquilt2.com/"
+      ]
+    ],
+    "noises-online": [
+      "Build a free spatial soundscape with natural recordings.",
+      [
+        "https://noises.online/"
+      ]
+    ],
+    "soundrown": [
+      "Coffee shop, rain, waves and fire sounds.",
+      [
+        "https://soundrown.com/"
+      ]
+    ],
+    "tabletop-audio": [
+      "Ambiences and music for tabletop role-playing games.",
+      [
+        "https://tabletopaudio.com/"
+      ]
+    ],
+    "coffitivity": [
+      "The sound of a coffee shop, for working.",
+      [
+        "https://coffitivity.com/"
+      ]
+    ],
+    "rainy-cafe": [
+      "Rain and cafe sounds for working.",
+      [
+        "https://rainycafe.com/"
+      ]
+    ],
+    "color-hunt": [
+      "Colour palettes shared by designers.",
+      [
+        "https://colorhunt.co/"
+      ]
+    ],
+    "visuwords": [
+      "A dictionary drawn as a living word graph.",
+      [
+        "https://visuwords.com/"
+      ]
+    ],
+    "behind-the-name": [
+      "The etymology and history of first names.",
+      [
+        "https://behindthename.com/"
+      ]
+    ],
+    "which-face-is-real": [
+      "Click on the person who is real. The other one is generated.",
+      [
+        "https://whichfaceisreal.com/"
+      ]
+    ],
+    "autodraw": [
+      "Scribble and it suggests a clean drawing.",
+      [
+        "https://autodraw.com/"
+      ]
+    ],
+    "procatinator": [
+      "Cat GIFs paired with music, one after another.",
+      [
+        "https://procatinator.com/"
+      ]
+    ],
+    "nekoweb": [
+      "Free hosting and a home for handmade personal websites.",
+      [
+        "https://nekoweb.org/"
+      ]
+    ],
+    "unknown-index": [
+      "The directory of unknown websites and tools.",
+      [
+        "https://unknownindex.com/"
+      ]
+    ],
+    "justonemoretab": [
+      "Hand-curated cool websites for curious people. Just one more tab.",
+      [
+        "https://justonemoretab.com/"
+      ]
+    ],
+    "powerfulwebsites-io": [
+      "A curated directory of useful tools.",
+      [
+        "https://powerfulwebsites.io/"
+      ]
+    ],
+    "postcrossing": [
+      "Send postcards to strangers and receive them from around the world.",
+      [
+        "https://postcrossing.com/"
+      ]
+    ],
+    "springhole": [
+      "Writing tips, roleplaying advice, random generators and other things to inspire creativity.",
+      [
+        "https://springhole.net/"
+      ]
+    ],
+    "typelit": [
+      "Practise typing by retyping entire classic books.",
+      [
+        "https://typelit.io/"
+      ]
+    ],
+    "owner-openprocessing": [
+      "A community of creative coding sketches.",
+      [
+        "https://openprocessing.org/"
+      ]
+    ],
+    "owner-jstris": [
+      "Competitive block stacking in the browser.",
+      [
+        "https://jstris.jezevec10.com/"
+      ]
+    ],
+    "owner-vogons": [
+      "A forum for old PC games and hardware.",
+      [
+        "https://www.vogons.org/"
+      ]
+    ],
+    "owner-dosbox": [
+      "An x86 emulator with DOS.",
+      [
+        "https://www.dosbox.com/"
+      ]
+    ],
+    "owner-virtual-piano": [
+      "Play the piano with your computer keyboard.",
+      [
+        "https://www.virtualpiano.net/"
+      ]
+    ],
+    "owner-cloudhiker": [
+      "Random website discovery by category.",
+      [
+        "https://www.cloudhiker.net/"
+      ]
+    ],
+    "owner-rhymezone": [
+      "Find rhymes and related words.",
+      [
+        "https://www.rhymezone.com/"
+      ]
+    ],
+    "owner-endless-horse": [
+      "A horse whose legs go on for as long as you keep scrolling.",
+      [
+        "http://endless.horse/"
+      ]
+    ],
+    "pilot-by-james-harding": [
+      "An Airbus A350 pilot's own interactive graphs and globes of the flights he has flown.",
+      [
+        "https://jameshard.ing/pilot"
+      ]
+    ],
+    "isometric-nyc": [
+      "A giant isometric pixel-art map of New York City.",
+      [
+        "https://cannoneyed.com/isometric-nyc/"
+      ]
+    ],
+    "almost-pong": [
+      "Press space or tap to make the ball jump and keep hitting the paddles for as long as possible.",
+      [
+        "https://www.lessmilk.com/almost-pong/"
+      ]
+    ],
+    "map-coloring-puzzle": [
+      "Colour a map of Britain and Ireland so that no two bordering regions share a colour.",
+      [
+        "https://www.rahulilango.com/coloring/"
+      ]
+    ],
+    "no-days-off": [
+      "Ten years and seven months of running every single day, visualised: 3,881 days and 13,454 miles.",
+      [
+        "https://nodaysoff.run"
+      ]
+    ],
+    "ipod-js": [
+      "An iPod Classic built for the web, with Cover Flow, music and games.",
+      [
+        "https://tannerv.com/ipod"
+      ]
+    ],
+    "moving-objects-in-3d-space": [
+      "A tap-through visual essay that starts with one question: how do you move an object along a spherical helix?",
+      [
+        "https://visualrambling.space/moving-objects-in-3d/"
+      ]
+    ],
+    "see-a-satellite-tonight": [
+      "Find out where to look to see a satellite in the night sky, no telescope required.",
+      [
+        "https://james.darpinian.com/satellites/"
+      ]
+    ],
+    "bastardica": [
+      "A type foundry for bastard web fonts: mix, stretch and squish two fonts into one, such as Times New Roman with every other glyph in Arial.",
+      [
+        "https://bastardica.mitpit.com"
+      ]
+    ],
+    "deal-with-it-generator": [
+      "An over-engineered generator for \"Deal With It\" sunglasses GIFs, made in the browser.",
+      [
+        "https://emoji.build/deal-with-it-generator/"
+      ]
+    ],
+    "central-bank-simulator": [
+      "Run the central bank of a village that produces apples. Your only lever is the interest rate.",
+      [
+        "https://benoitessiambre.com/macro.html"
+      ]
+    ],
+    "horizon": [
+      "The current sky at your approximate location, rendered as a CSS gradient and refreshed every minute.",
+      [
+        "https://sky.dlazaro.ca"
+      ]
+    ],
+    "atlas-of-space": [
+      "An interactive exploration of the planets, moons, asteroids and other objects of the Solar System.",
+      [
+        "https://atlasof.space/"
+      ]
+    ],
+    "emoji-to-scale": [
+      "Your favourite emojis, to scale, more or less: from a 3 mm mosquito upwards.",
+      [
+        "https://javier.xyz/emoji-to-scale/"
+      ]
+    ],
+    "shademap": [
+      "Every mountain, building and tree shadow in the world, simulated for any date and time.",
+      [
+        "https://shademap.app"
+      ]
+    ],
+    "america-road-trip-simulator": [
+      "Drive real U.S. highways in a desktop-style window, with maps, radio, articles and photos along the way.",
+      [
+        "https://4m3ric4.com"
+      ]
+    ],
+    "unknown-pleasures": [
+      "An experimental WebGL audio visualiser.",
+      [
+        "https://pouria.dev/unknown-pleasures"
+      ]
+    ],
+    "back-of-your-hand": [
+      "How well do you know your area? Locate streets on a map, alone or in multiplayer.",
+      [
+        "https://backofyourhand.com/"
+      ]
+    ],
+    "rotaboxes": [
+      "A relaxing daily photo puzzle: rotate each square of the picture back into place.",
+      [
+        "https://rotaboxes.com"
+      ]
+    ],
+    "fontemon": [
+      "The world's first video game in a font. The whole game lives in one .otf file: no JavaScript, no HTML.",
+      [
+        "https://www.coderelay.io/fontemon.html"
+      ]
+    ],
+    "lend-me-your-ears": [
+      "A Simon-style ear-training game: listen to melodies and play them back on a piano.",
+      [
+        "https://lend-me-your-ears.specr.net"
+      ]
+    ],
+    "trains-fyi": [
+      "Live positions of passenger trains around the world, from Amtrak to JR, on one real-time map.",
+      [
+        "https://trains.fyi/"
+      ]
+    ],
+    "we-have-a-black-hole-at-home": [
+      "A simplified black hole playground you can explore on screen, or place in your room in augmented reality.",
+      [
+        "https://blackhole.plav.in"
+      ]
+    ],
+    "ofrak-tetris": [
+      "Tetris, but the blocks are assembly instructions that run on an in-browser CPU emulator.",
+      [
+        "https://ofrak.com/tetris/"
+      ]
+    ],
+    "inflightsimulator": [
+      "A flight simulator where you are only a passenger. Pick a destination and collect country flags as flights finish.",
+      [
+        "https://inflightsimulator.com"
+      ]
+    ],
+    "forty-news": [
+      "Real-time news, delayed forty years. Today's headlines from exactly 40 years ago.",
+      [
+        "https://forty.news"
+      ]
+    ],
+    "plantarium": [
+      "Grow 3D plants in the browser by connecting nodes, starting from a stem.",
+      [
+        "https://plant.max-richter.dev"
+      ]
+    ],
+    "byte-a-visual-archive": [
+      "A zoomable, searchable visual archive of BYTE magazine.",
+      [
+        "https://byte.tsundoku.io"
+      ]
+    ],
+    "all-the-views": [
+      "Every view on Earth checked for the longest line of sight. The winner runs 530 km across the Kunlun Mountains.",
+      [
+        "https://alltheviews.world"
+      ]
+    ],
+    "titleart": [
+      "Make text like it's 1997: every classic WordArt style, shape and 3-D effect, in the browser.",
+      [
+        "https://titleart.dvy.io/"
+      ]
+    ],
+    "space-now": [
+      "A live 3D map of the Solar System with planets, moons, asteroids, comets and Earth satellites where they are now.",
+      [
+        "https://space.bl2.net/"
+      ]
+    ],
+    "time-flies": [
+      "A visualisation of the passage of time, using flies.",
+      [
+        "https://time-flies.koenvangilst.nl/"
+      ]
+    ],
+    "projekt-overflow": [
+      "A RISC-V assembly board game about hacking your opponent, made to teach how buffer overflows work. Playable on the web or printable.",
+      [
+        "https://punkx.org/overflow/"
+      ]
+    ],
+    "eschersketch": [
+      "A drawing tool that repeats your lines across wallpaper-group symmetries.",
+      [
+        "https://eschersket.ch"
+      ]
+    ],
+    "layoutit-terra": [
+      "An interactive terrain generator made entirely with CSS.",
+      [
+        "https://terra.layoutit.com"
+      ]
+    ],
+    "isopolis-san-francisco": [
+      "San Francisco as one giant isometric pixel painting, with guided tours and its own radio.",
+      [
+        "https://sf.isopolis.city/"
+      ]
+    ],
+    "ads-b-massive-visualizer": [
+      "Aircraft positions drawn on a map, with views from Boeing versus Airbus to gliders, balloons and emergencies.",
+      [
+        "https://adsb.exposed/"
+      ]
+    ],
+    "a-novel-music-keyboard": [
+      "A new instrument built on rational numbers. Play harmony in just intonation without any music background.",
+      [
+        "https://ad8e.pages.dev/keyboard"
+      ]
+    ],
+    "defrag-the-game": [
+      "Defragment a virtual hard drive, as a game. Choose drive C, D or E.",
+      [
+        "https://defrag-game.com"
+      ]
+    ],
+    "warsaw-in-voxels": [
+      "Central Warsaw in one-metre voxels, built from OpenStreetMap and LiDAR data.",
+      [
+        "https://p.migdal.pl/warsaw-vibe-voxel/"
+      ]
+    ],
+    "putt-day": [
+      "A daily hole of mini golf, the same for everyone, made by the community.",
+      [
+        "https://putt.day/"
+      ]
+    ],
+    "lofi-cities": [
+      "Endless lofi music generated live in the browser, over pixel-art city nights.",
+      [
+        "https://loficities.com/"
+      ]
+    ],
+    "billard": [
+      "Make music by letting balls collide. Set the key, mode, gravity and speed.",
+      [
+        "https://billard.medusis.com/"
+      ]
+    ],
+    "paper-tactics": [
+      "A turn-based pen-and-paper duel played on a square grid, to learn and play online.",
+      [
+        "https://www.paper-tactics.com"
+      ]
+    ],
+    "how-browsers-work": [
+      "An interactive guide to what happens between typing a URL and seeing a page.",
+      [
+        "https://howbrowserswork.com/"
+      ]
+    ],
+    "interactive-middle-earth-map": [
+      "A map of Middle-earth with 128 events from The Lord of the Rings, The Hobbit and The Silmarillion, and the journeys between them.",
+      [
+        "https://middle-earth-interactive-map.web.app/"
+      ]
+    ],
+    "ub-hnchen": [
+      "An animated live map of Berlin's city trains.",
+      [
+        "https://xn--ubhnchen-1za.vercel.app/"
+      ]
+    ],
+    "exposed-by-default": [
+      "Everything your browser hands out automatically to every site, from fonts to sensors. Runs in the browser.",
+      [
+        "https://neberej.github.io/exposedbydefault/"
+      ]
+    ],
+    "number-gacha": [
+      "Collect, level up and battle numbers. A gacha game distilled to its essence.",
+      [
+        "https://isabisabel.com/gacha/"
+      ]
+    ],
+    "smarthome": [
+      "SmartHome: an adventure game. It starts with \"Wake Up\".",
+      [
+        "https://smarthome.steviep.xyz"
+      ]
+    ],
+    "random-hacker-news": [
+      "The Hacker News front page from a random day of its history.",
+      [
+        "https://randomhackernews.com/"
+      ]
+    ],
+    "lego-island-in-the-browser": [
+      "LEGO Island (1997) playable in the browser: an unofficial fan recreation built from the decompiled original.",
+      [
+        "https://isle.pizza"
+      ]
+    ],
+    "ribbie": [
+      "Today's MLB games, live in pixel art, pitch by pitch.",
+      [
+        "https://ribbie.tv/watch"
+      ]
+    ],
+    "robopianist": [
+      "A piano-playing robot simulation, running in the browser.",
+      [
+        "https://kevinzakka.github.io/robopianist-demo/"
+      ]
+    ],
+    "gravity-simulator": [
+      "An interactive 3D N-body and three-body problem simulator with presets and trails.",
+      [
+        "https://trisolarchaos.com/"
+      ]
+    ],
+    "gb-renewables-map": [
+      "A live map of renewable energy generation in Great Britain.",
+      [
+        "https://renewables-map.robinhawkes.com"
+      ]
+    ],
+    "eigendrum": [
+      "Draw any shape and hear it as a drum: its frequencies are computed from the outline, not sampled.",
+      [
+        "https://baselashraf81.github.io/eigendrum/"
+      ]
+    ],
+    "quake-srp": [
+      "Quake (1996) ported to safe Rust and WebAssembly. Play the shareware episode in the browser.",
+      [
+        "https://quake-srp.pages.dev/"
+      ]
+    ],
+    "yamanote-fun": [
+      "The sound of riding Tokyo's Yamanote Line all the way around, station by station.",
+      [
+        "https://www.yamanote.fun/"
+      ]
+    ],
+    "geekring": [
+      "A webring for geeks of all sorts: funny, quirky, personal sites that are not on page 1 of the search engines.",
+      [
+        "https://geekring.net/"
+      ]
+    ],
+    "little-worlds": [
+      "Random little procedural pixel worlds.",
+      [
+        "https://jason.today/little-worlds"
+      ]
+    ],
+    "moderator-mayhem": [
+      "A fast-paced game about the difficulties of content moderation.",
+      [
+        "https://moderatormayhem.engine.is/"
+      ]
+    ],
+    "sinerider": [
+      "A game about love and graphing, from Hack Club.",
+      [
+        "https://sinerider.com/"
+      ]
+    ],
+    "how-random-are-you": [
+      "Say numbers out loud as randomly as you can, while a predictor in your browser guesses each one first.",
+      [
+        "https://lab.specr.net/rigged-draw/"
+      ]
+    ],
+    "exaequos": [
+      "An operating system that runs entirely in the web browser, with a shell, editors and a windowing system.",
+      [
+        "https://www.exaequos.com"
+      ]
+    ],
+    "roman-name-attestations": [
+      "A map of about 250,000 inscriptions from across the Roman Empire that record personal names.",
+      [
+        "https://new.roman-names.com/"
+      ]
+    ],
+    "buildmytransit": [
+      "A New York subway simulator and route designer.",
+      [
+        "https://buildmytransit.nyc"
+      ]
+    ],
+    "chilly-atc": [
+      "Live air traffic control radio blended with ambient music, for focus.",
+      [
+        "https://www.chillyatc.com/"
+      ]
+    ],
+    "a-game-of-life-and-ghosts": [
+      "Conway's Game of Life with its past generations stacked in 3D like ghosts.",
+      [
+        "https://stacked-game-of-life.koenvangilst.nl/"
+      ]
+    ],
+    "retrotick": [
+      "Run classic Windows and DOS programs in the browser: drop an .exe, or try SkiFree, FreeCell and old screensavers.",
+      [
+        "https://retrotick.com/"
+      ]
+    ],
+    "poincake": [
+      "An infinite canvas for notes inside the non-Euclidean Poincaré disk.",
+      [
+        "https://uonr.github.io/poincake/"
+      ]
+    ],
+    "sokyokuban": [
+      "A Sokoban-style puzzle game on a hyperbolic plane, with a vaporwave look.",
+      [
+        "https://sokyokuban.com/"
+      ]
+    ],
+    "ncube": [
+      "Rotating objects from the fourth, fifth and nth dimensions, visualised.",
+      [
+        "https://ncube.ndavd.com"
+      ]
+    ],
+    "the-duck-pond": [
+      "A live pond of mallards. No recordings: every quack is synthesised as it happens. You can throw peas.",
+      [
+        "https://celphase.github.io/duck-pond/"
+      ]
+    ],
+    "dark-patterns-detective": [
+      "Eight realistic checkouts, sign-ups and cancel flows. Spot the trick, then see the honest version.",
+      [
+        "https://games.productartistry.com/games/dark-patterns"
+      ]
+    ],
+    "stack-exchange-simulator": [
+      "Stack Overflow and Stack Exchange questions generated with Markov chains, with an easy and a hard quiz.",
+      [
+        "https://se-simulator.lw1.at/"
+      ]
+    ],
+    "a-walkable-history-of-art": [
+      "A 3D museum of art history: zoom through periods and artists, then walk galleries of their paintings.",
+      [
+        "https://artmuseum.artfrompixels.com/"
+      ]
+    ],
+    "glitchy": [
+      "A circuit-bent camera simulator: rewire virtual chip pins to glitch your live video. Processed on your device.",
+      [
+        "https://glitchycam.com"
+      ]
+    ],
+    "desktopcolors-com": [
+      "An archive of every solid desktop background colour shipped by classic operating systems, starting with Windows 95 teal.",
+      [
+        "https://desktopcolors.com"
+      ]
+    ],
+    "iss-in-real-time": [
+      "Twenty-five years aboard the International Space Station, replayed day by day from historical mission material.",
+      [
+        "https://issinrealtime.org"
+      ]
+    ],
+    "heikki-s-garden-of-flowers": [
+      "An archive of about 2,500 pictures composed entirely of type ornaments, characters and rule, across four centuries.",
+      [
+        "https://garden-of-flowers.heikkilotvonen.com/"
+      ]
+    ],
+    "ridealong": [
+      "Board a live London Tube train and ride it through a 3D London.",
+      [
+        "https://ride.nexttrain.london/"
+      ]
+    ],
+    "dancemusic-wtf-300": [
+      "A quiz game for learning what 57 electronic dance music subgenres sound like.",
+      [
+        "http://dancemusic.wtf/"
+      ]
+    ],
+    "all-the-buildings-in-manhattan": [
+      "An interactive 3D visualisation of every building in Manhattan.",
+      [
+        "https://tbaldw.in/nyc-buildings"
+      ]
+    ],
+    "encarta-95-web": [
+      "The Encarta 95 CD-ROM encyclopedia, browsable on the web.",
+      [
+        "https://benwinding.github.io/encarta_95_web/"
+      ]
+    ],
+    "franzelio": [
+      "Draw lines, make music, share your instrument.",
+      [
+        "https://franzelio.franzai.com/"
+      ]
+    ],
+    "sailnavsim": [
+      "A sailing navigation simulator where you sail and race online.",
+      [
+        "https://8bitbyte.ca/sailnavsim/"
+      ]
+    ],
+    "turtle-audio": [
+      "A music sequencer inspired by turtle graphics: text commands draw lines that play sounds.",
+      [
+        "http://turtle.audio"
+      ]
+    ],
+    "silent-shark": [
+      "A tactical, map-based WWII submarine simulator, with a campaign, scenarios and tutorials.",
+      [
+        "https://silentshark.app/alpha/"
+      ]
+    ],
+    "silent-poems": [
+      "Lavinia Petrache's visual expression of unspoken thoughts.",
+      [
+        "https://silentpoems.net/"
+      ]
+    ],
+    "forestry-diary": [
+      "Eighteen years of daily work diaries kept by US Forest Service ranger Reuben P. Box, 1927 to 1945, scanned page by page.",
+      [
+        "https://forestrydiary.com/"
+      ]
+    ],
+    "azgaar-s-fantasy-map-generator": [
+      "A free web app to create and edit fantasy maps, for writers, game masters and cartographers.",
+      [
+        "https://azgaar.github.io/Fantasy-Map-Generator"
+      ]
+    ],
+    "notable-people": [
+      "A world map of the birthplaces of the most notable person from each place, by Topi Tjukanov.",
+      [
+        "https://tjukanovt.github.io/notable-people"
+      ]
+    ],
+    "snowbox": [
+      "Sculpt and share your own snowthingie. A Christmas experiment.",
+      [
+        "https://www.snwbx.com"
+      ]
+    ],
+    "google-feud": [
+      "How does Google autocomplete this search? A parody guessing game, not affiliated with Google.",
+      [
+        "https://googlefeud.com"
+      ]
+    ],
+    "flagwaver": [
+      "Load any image and watch it wave as a flag in the wind.",
+      [
+        "https://krikienoid.github.io/flagwaver/"
+      ]
+    ],
+    "fractal-jigsaw-puzzle": [
+      "A jigsaw puzzle whose pieces are themselves jigsaw puzzles, ending in an image from the Mandelbrot set.",
+      [
+        "https://thatmichaelpark.github.io/fractal-jigsaw-puzzle/"
+      ]
+    ],
+    "inspirobot": [
+      "An artificial intelligence dedicated to generating unlimited inspirational quotes for the \"endless enrichment of pointless human existence\".",
+      [
+        "https://inspirobot.me"
+      ]
+    ],
+    "iss-docking-simulator": [
+      "Pilot a Dragon 2 to the International Space Station with the controls used by NASA astronauts.",
+      [
+        "https://iss-sim.spacex.com"
+      ]
+    ],
+    "city-roads": [
+      "Pick a city and every single road in it is drawn on one screen.",
+      [
+        "https://anvaka.github.io/city-roads/"
+      ]
+    ],
+    "patience-is-a-virtue": [
+      "Loading, please wait.",
+      [
+        "http://www.patience-is-a-virtue.org/"
+      ]
+    ],
+    "every-day-i-m": [
+      "EVERY DAY I'M HUSTLIN'.",
+      [
+        "http://www.everydayim.com"
+      ]
+    ],
+    "yes-no-if": [
+      "A 2014 web artwork by Rafaël Rozendaal, from a family collection.",
+      [
+        "https://www.yesnoif.com"
+      ]
+    ],
+    "lacquerlacquer-com": [
+      "These nails need to get lacquered.",
+      [
+        "https://lacquerlacquer.com"
+      ]
+    ],
+    "corgi-orgy": [
+      "Woof woof. A page of corgis with music.",
+      [
+        "https://corgiorgy.com"
+      ]
+    ],
+    "cross-divisions": [
+      "A 2016 web artwork by Rafaël Rozendaal.",
+      [
+        "https://www.crossdivisions.com"
+      ]
+    ],
+    "omfgdogs": [
+      "OMFGDOGS. Help keep all the dogs running.",
+      [
+        "https://www.omfgdogs.com"
+      ]
+    ],
+    "tunnel-snakes-rule": [
+      "Tunnel Snakes Rule. A one-video tribute.",
+      [
+        "http://tunnelsnakes.com"
+      ]
+    ],
+    "the-chillest-monkey": [
+      "The chillest of monkeys, with 33 simultaneous Orinoco Flows.",
+      [
+        "http://chillestmonkey.com"
+      ]
+    ],
+    "scroll-o-meter": [
+      "Do you scroll to live, or live to scroll? Measures how many miles you scroll.",
+      [
+        "http://scroll-o-meter.club"
+      ]
+    ],
+    "chihuahua-spin": [
+      "A spinning chihuahua, with a counter of how many spins you have sat through.",
+      [
+        "http://chihuahuaspin.com"
+      ]
+    ],
+    "build-shruggie": [
+      "Build the shruggie emoticon, piece by piece.",
+      [
+        "http://buildshruggie.com"
+      ]
+    ],
+    "if-it-were-my-home": [
+      "The lottery of birth: compare life where you live with life in another country.",
+      [
+        "http://www.ifitweremyhome.com"
+      ]
+    ],
+    "is-it-christmas": [
+      "Answers one question, and on nearly every day of the year the answer is no.",
+      [
+        "https://isitchristmas.com/"
+      ]
+    ],
+    "townscaper": [
+      "Click on water to grow a small colourful town. There is no goal. The WebGL build needs a desktop browser.",
+      [
+        "https://oskarstalberg.com/Townscaper/"
+      ]
+    ],
+    "i-has-a-bucket": [
+      "The walrus and the bucket, immortalised on one page.",
+      [
+        "https://ihasabucket.com/"
+      ]
+    ],
+    "crouton-net": [
+      "A single crouton on an otherwise empty web page.",
+      [
+        "https://crouton.net/"
+      ]
+    ],
+    "not-day-of-the-week": [
+      "A page that tells you which day it is not.",
+      [
+        "https://notdayoftheweek.com/"
+      ]
+    ],
+    "ishkur-s-guide-to-electronic-music": [
+      "A sprawling interactive map of electronic music genres.",
+      [
+        "https://music.ishkur.com/"
+      ]
+    ],
+    "taco-spin": [
+      "A taco spins. A counter records your spins.",
+      [
+        "https://tacospin.com/"
+      ]
+    ],
+    "everything-is-terrible": [
+      "Found footage collages of the worst VHS tapes. Can include bad taste.",
+      [
+        "https://everythingisterrible.com/"
+      ]
+    ],
+    "owner-perchance": [
+      "A platform of user-made random generators.",
+      [
+        "https://perchance.org/"
+      ]
+    ],
+    "fourmilab": [
+      "John Walker's huge personal site of science, software and essays.",
+      [
+        "https://www.fourmilab.ch/"
+      ]
+    ],
+    "owner-project-euler": [
+      "Mathematical programming problems.",
+      [
+        "https://projecteuler.net/"
+      ]
+    ],
+    "universal-paperclips": [
+      "An incremental game about making paperclips. Its web version was not designed for phones.",
+      [
+        "https://www.decisionproblem.com/paperclips/"
+      ]
+    ],
+    "little-alchemy": [
+      "The original Little Alchemy: combine elements to see what you can come up with.",
+      [
+        "https://littlealchemy.com/"
+      ]
+    ],
+    "foldit": [
+      "A crowdsourcing computer game that lets you contribute to scientific research by playing.",
+      [
+        "https://fold.it/"
+      ]
+    ],
+    "corn-dog-on-corn-dog": [
+      "A plate with corn dogs on it. That is the whole site.",
+      [
+        "https://corndogoncorndog.com/"
+      ]
+    ],
+    "nulling-the-void": [
+      "Grey shapes drifting across a black page.",
+      [
+        "https://nullingthevoid.com/"
+      ]
+    ],
+    "looped-for-infinity": [
+      "An endless loop of black-and-white shapes turning in the dark.",
+      [
+        "https://loopedforinfinity.com/"
+      ]
+    ],
+    "messy-nessy-chic": [
+      "Messy Nessy's Cabinet: curious stories and places, with a weekly list of things found on the Internet.",
+      [
+        "https://www.messynessychic.com/"
+      ]
+    ],
+    "the-paleobiology-database": [
+      "A database of fossil occurrences and taxa, revealing the history of life.",
+      [
+        "https://paleobiodb.org/"
+      ]
+    ],
+    "the-os-2-museum": [
+      "Michal Necasek's site on OS/2, vintage PC computing and random musings.",
+      [
+        "https://www.os2museum.com/"
+      ]
+    ],
+    "ouais-mais-bon": [
+      "Three faces staring back at you, named after the Swiss French shrug \"ouais mais bon\" (yeah, but well).",
+      [
+        "https://ouaismaisbon.ch/"
+      ]
+    ],
+    "hot-takes-and-even-hotter-pies": [
+      "Hot takes and even hotter pies: a field guide map of bakeries and pubs across Australia.",
+      [
+        "https://piemap.au/"
+      ]
+    ],
+    "maxwellcat-world": [
+      "Walk around a 3D world as a black cat, alongside the other cats online.",
+      [
+        "https://maxwellcat.world/"
+      ]
+    ],
+    "national-cipher-challenge": [
+      "A University of Southampton code-breaking competition, with challenges, case files and a leaderboard.",
+      [
+        "https://www.cipherchallenge.org/"
+      ]
+    ],
+    "owner-demozoo": [
+      "A database of demoscene productions, groups and parties.",
+      [
+        "https://demozoo.org/"
+      ]
+    ]
+  },
+  "offline": {
+    "the-never-ending-digital-pizza": "perpetual.pizza answers 402 DEPLOYMENT_DISABLED on 2026-11-05",
+    "owner-stumblingon": "stumblingon.com refused every connection on 2026-11-05",
+    "sampulator": "sampulator.com now shows only \"hello daawg\" on 2026-11-05: the sampler is gone"
+  },
+  "url_fixes": {
+    "line-mode-browser-2013": "https://line-mode.cern.ch/www/hypertext/WWW/TheProject.html",
+    "heavens-above": "https://heavens-above.com/",
+    "famelack": "https://famelack.com/",
+    "flash-museum": "https://flashmuseum.net/",
+    "logic-puzzles": "https://logic.puzzlebaron.com/"
+  },
+  "name_fixes": {
+    "heeeeeeeeeeeeey": "HOOOOOOOOOOOOOO!"
+  },
+  "self_check": {
+    "date": "2026-11-05",
+    "method": "Each description compared with the text of its own site, fetched with curl and, for JavaScript pages, rendered in Chromium. The site itself is the source. Claims the page text did not support were removed.",
+    "pending": [],
+    "visual_review": {
+      "date": "2026-11-05",
+      "method": "Pages rendered in Chromium, screenshotted after loading (and after a click, hover or longer wait where the page needed it), and looked at. Descriptions were confirmed or rewritten to match what the page shows."
+    }
+  },
+  "paused": {
+    "line-mode-browser-2013": "line-mode.cern.ch answered HTTP 503 on every address on 2026-11-05 13:20; kept in the Archive, out of RANDOM until it answers again",
+    "robohash": "2026-11-05: Cloudflare 525, origin unreachable",
+    "fileformat-info": "2026-11-05: Cloudflare 521, origin down"
+  },
+  "trusted": {
+    "note": "Accepted on the reliability of their source, never read against the site itself: anti-bot walls or a graphics card stopped every automated check. Shown as such in the app.",
+    "date": "2026-11-05",
+    "ids": {
+      "absurd-trolley-problems": "curated list",
+      "ambient-chaos": "curated list",
+      "asteroid-launcher": "curated list",
+      "bury-me-with-my-money": "curated list",
+      "doodal": "curated list",
+      "draw-a-perfect-circle": "curated list",
+      "earth-reviews": "curated list",
+      "great-big-nothing": "curated list",
+      "infinite-craft": "curated list",
+      "internet-artifacts": "curated list",
+      "koalas-to-the-max": "curated list",
+      "life-stats": "curated list",
+      "owner-biodiversity-heritage-library": "owner-selected",
+      "owner-gallica": "owner-selected",
+      "owner-gifcities": "owner-selected",
+      "owner-internet-pinball-database": "owner-selected",
+      "owner-internet-roadtrip": "owner-selected",
+      "owner-lemon64": "owner-selected",
+      "owner-mobygames": "owner-selected",
+      "owner-museum-of-endangered-sounds": "owner-selected",
+      "owner-not-a-robot": "owner-selected",
+      "owner-observable": "owner-selected",
+      "owner-omniglot": "owner-selected",
+      "owner-online-etymology-dictionary": "owner-selected",
+      "owner-openverse": "owner-selected",
+      "owner-population-pyramid": "owner-selected",
+      "owner-radioreference": "owner-selected",
+      "owner-shadertoy": "owner-selected",
+      "owner-the-cutting-room-floor": "owner-selected",
+      "owner-the-lost-media-wiki": "owner-selected",
+      "owner-the-spriters-resource": "owner-selected",
+      "progress": "curated list",
+      "sandboxels": "curated list",
+      "stimulation-clicker": "curated list",
+      "the-auction-game": "curated list",
+      "the-deep-sea": "curated list",
+      "the-password-game": "curated list",
+      "the-size-of-space": "curated list",
+      "tv-tropes": "curated list",
+      "windows-93": "curated list",
+      "wonders-of-street-view": "curated list"
+    }
+  }
+}

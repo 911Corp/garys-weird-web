@@ -1,0 +1,2510 @@
+[
+ {
+  "url": "https://neal.fun/",
+  "name": "Neal.fun",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "http://www.staggeringbeauty.com/",
+  "name": "Staggering Beauty",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://thisissand.com/",
+  "name": "This Is Sand",
+  "category": "Art & Experiments",
+  "description": "Make colorful sand art by pouring pixels.",
+  "tags": [
+   "sand",
+   "art",
+   "creative"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.mapcrunch.com/",
+  "name": "MapCrunch",
+  "category": "Weird & WTF",
+  "description": "Teleport to random places on Street View.",
+  "tags": [
+   "random",
+   "streetview",
+   "world"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://littlealchemy2.com/",
+  "name": "Little Alchemy 2",
+  "category": "Games & Toys",
+  "description": "Combine basic elements to invent new ones.",
+  "tags": [
+   "alchemy",
+   "craft",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://asoftmurmur.com/",
+  "name": "A Soft Murmur",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "http://endless.horse/",
+  "name": "Endless Horse",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://checkboxrace.com/",
+  "name": "Checkbox Race",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.webdesignmuseum.org/",
+  "name": "Web Design Museum",
+  "category": "Old Web & Archives",
+  "description": "Explore the history of website and interface design.",
+  "tags": [
+   "design",
+   "history",
+   "web"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://archive.org/details/internetarcade",
+  "name": "Internet Arcade",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.fallingfalling.com/",
+  "name": "Falling Falling",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://findtheinvisiblecow.com/",
+  "name": "Find the Invisible Cow",
+  "category": "Games & Toys",
+  "description": "Locate an invisible cow using audio clues.",
+  "tags": [
+   "audio",
+   "game",
+   "absurd"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://screamintothevoid.com/",
+  "name": "Scream Into the Void",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.boredbutton.com/",
+  "name": "Bored Button",
+  "category": "Games & Toys",
+  "description": "Jump between simple games and distractions.",
+  "tags": [
+   "random",
+   "games",
+   "fun"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://thequietplaceproject.xyz/",
+  "name": "The Quiet Place Project",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.incredibox.com/",
+  "name": "Incredibox",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://hexells.com/",
+  "name": "Hexells",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://stars.chromeexperiments.com/",
+  "name": "100,000 Stars",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://driveandlisten.herokuapp.com/",
+  "name": "Drive & Listen",
+  "category": "World & Science",
+  "description": "Virtually drive through cities while listening to local radio.",
+  "tags": [
+   "travel",
+   "radio",
+   "video"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.music-map.com/",
+  "name": "Music-Map",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://radiooooo.com/",
+  "name": "Radiooooo",
+  "category": "Art & Experiments",
+  "description": "Explore music by country and decade on a map.",
+  "tags": [
+   "music",
+   "history",
+   "world"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.geoguessr.com/",
+  "name": "GeoGuessr",
+  "category": "Games & Toys",
+  "description": "Guess locations from street-level imagery.",
+  "tags": [
+   "geography",
+   "game",
+   "world"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://wikitrivia.tomjwatson.com/",
+  "name": "WikiTrivia",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/password-game/",
+  "name": "The Password Game",
+  "category": "Games & Toys",
+  "description": "A password puzzle whose rules keep escalating.",
+  "tags": [
+   "puzzle",
+   "absurd",
+   "interactive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/infinite-craft/",
+  "name": "Infinite Craft",
+  "category": "Games & Toys",
+  "description": "Combine concepts to discover increasingly unlikely things.",
+  "tags": [
+   "craft",
+   "combinations",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/absurd-trolley-problems/",
+  "name": "Absurd Trolley Problems",
+  "category": "Games & Toys",
+  "description": "Make increasingly questionable moral decisions.",
+  "tags": [
+   "ethics",
+   "absurd",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/space-elevator/",
+  "name": "Space Elevator",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/deep-sea/",
+  "name": "The Deep Sea",
+  "category": "World & Science",
+  "description": "Scroll down through the depths of the ocean.",
+  "tags": [
+   "ocean",
+   "scroll",
+   "education"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/internet-artifacts/",
+  "name": "Internet Artifacts",
+  "category": "Old Web & Archives",
+  "description": "Explore an interactive timeline of internet history.",
+  "tags": [
+   "history",
+   "web",
+   "archive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/earth-reviews/",
+  "name": "Earth Reviews",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "http://savethesounds.info/",
+  "name": "The Museum of Endangered Sounds",
+  "category": "Old Web & Archives",
+  "description": "Remember the noises made by aging technologies.",
+  "tags": [
+   "sound",
+   "nostalgia",
+   "archive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://webamp.org/",
+  "name": "Webamp",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://windows96.net/",
+  "name": "Windows 96",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://gifcities.org/",
+  "name": "GifCities",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://thehtml.review/",
+  "name": "The HTML Review",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://ncase.me/loopy/",
+  "name": "LOOPY",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://ncase.me/polygons/",
+  "name": "Parable of the Polygons",
+  "category": "World & Science",
+  "description": "Explore how small biases can create larger patterns.",
+  "tags": [
+   "simulation",
+   "society",
+   "interactive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://ncase.me/simulating/",
+  "name": "Simulating the World",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.flightradar24.com/",
+  "name": "FlightRadar24",
+  "category": "World & Science",
+  "description": "Watch aircraft moving around the world.",
+  "tags": [
+   "planes",
+   "live",
+   "map"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.lightpollutionmap.info/",
+  "name": "Light Pollution Map",
+  "category": "World & Science",
+  "description": "See where the night sky is affected by artificial light.",
+  "tags": [
+   "night",
+   "sky",
+   "map"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.earthcam.com/",
+  "name": "EarthCam",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://madebyevan.com/webgl-water/",
+  "name": "WebGL Water",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+  "name": "WebGL Fluid Simulation",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://particle-clicker.web.cern.ch/",
+  "name": "Particle Clicker",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://littlebigsnake.com/",
+  "name": "Little Big Snake",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://make-everything-ok.com/",
+  "name": "Make Everything OK",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.nyan.cat/",
+  "name": "Nyan Cat",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.rainymood.com/",
+  "name": "Rainy Mood",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.donothingfor2minutes.com/",
+  "name": "Do Nothing for 2 Minutes",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://blank.org/",
+  "name": "Blank.org",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.ismycomputeron.com/",
+  "name": "Is My Computer On?",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://heeeeeeeey.com/",
+  "name": "Heeeeeeeey",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://hooooooooo.com/",
+  "name": "Hooooooooo",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://randomcolour.com/",
+  "name": "Random Colour",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://hasthelargehadroncolliderdestroyedtheworldyet.com/",
+  "name": "Has the LHC Destroyed the World Yet?",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://hackertyper.com/",
+  "name": "Hacker Typer",
+  "category": "Retro & Geek",
+  "description": "Mash keys to look like a movie hacker.",
+  "tags": [
+   "terminal",
+   "parody",
+   "hacker"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://beesbeesbees.com/",
+  "name": "Bees Bees Bees",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://dontevenreply.com/",
+  "name": "Don't Even Reply",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://apod.nasa.gov/apod/astropix.html",
+  "name": "Astronomy Picture of the Day",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://trypap.com/",
+  "name": "Passive Aggressive Password Machine",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.sometimesredsometimesblue.com/",
+  "name": "Sometimes Red Sometimes Blue",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.hmpg.net/",
+  "name": "The End of the Internet",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://iambored.site/",
+  "name": "I Am Bored",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://crzy.site/",
+  "name": "crzy.site",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://boringwebsites.art/",
+  "name": "Boring Websites",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://wrongulator.com/",
+  "name": "Wrongulator",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://braincell.lol/",
+  "name": "braincell.lol",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://dvdscreensavermaker.com/",
+  "name": "DVD Screensaver Maker",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://isnickelbacktheworstbandever.tumblr.com/",
+  "name": "Is Nickelback the Worst Band Ever?",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.isthatcherdeadyet.co.uk/",
+  "name": "Is Margaret Thatcher Dead Yet?",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.thepointless.com/",
+  "name": "The Dots",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://kimjongillookingatthings.tumblr.com/",
+  "name": "Kim Jong-Il Looking at Things",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://instantrimshot.com/",
+  "name": "Instant Rimshot",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.clarifyscience.info/",
+  "name": "A Dot for Each Second",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://ihug.you/",
+  "name": "iHug.You",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.movenowthinklater.com/",
+  "name": "Move Now Think Later",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://shutupandtakemymoney.com/",
+  "name": "Shut Up and Take My Money",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/List_of_individual_dogs",
+  "name": "List of Individual Dogs",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.grandpanoclothes.com/",
+  "name": "Grandpa No Clothes",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.patience-is-a-virtue.org/",
+  "name": "Patience is a Virtue",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.rock-paper-scissors-game.com/",
+  "name": "Rock Paper Scissors",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://fuckyeahbutton.org/",
+  "name": "Fuck Yeah Button",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://leavepage.aurelitec.com/",
+  "name": "Leave Page",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://powerfulwebsites.online/",
+  "name": "Powerful Websites",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://prankmyface.lol/",
+  "name": "Prank My Face",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://pongvn.com/",
+  "name": "Trynkit",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://ai-meme.cdqyfdbymn.me/",
+  "name": "DeepSeek Meme Gallery",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://chriswijnia.com/",
+  "name": "1 Million Emojis",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://2minutedrillgame.app/",
+  "name": "2 Minute Drill Game",
+  "category": null,
+  "description": null,
+  "tags": [],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/size-of-space/",
+  "name": "The Size of Space",
+  "category": "World & Science",
+  "description": "Compare the scale of objects across the universe.",
+  "tags": [
+   "space",
+   "scale",
+   "visualization"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/perfect-circle/",
+  "name": "Draw a Perfect Circle",
+  "category": "Games & Toys",
+  "description": "Try drawing a mathematically perfect circle.",
+  "tags": [
+   "drawing",
+   "challenge",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://neal.fun/spend/",
+  "name": "Spend Bill Gates' Money",
+  "category": "Games & Toys",
+  "description": "A playful exercise in spending an enormous imaginary fortune.",
+  "tags": [
+   "simulation",
+   "money",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://noclip.website/",
+  "name": "Noclip",
+  "category": "Retro & Geek",
+  "description": "Freely explore 3D environments from video games.",
+  "tags": [
+   "games",
+   "3d",
+   "exploration"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://geektyper.com/",
+  "name": "GeekTyper",
+  "category": "Retro & Geek",
+  "description": "Pretend to operate a cinematic hacker terminal.",
+  "tags": [
+   "terminal",
+   "retro",
+   "parody"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://news.ycombinator.com/",
+  "name": "Hacker News",
+  "category": "Tools & Utilities",
+  "description": "A long-running community for programming and technology links.",
+  "tags": [
+   "tech",
+   "community",
+   "links"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://search.marginalia.nu/",
+  "name": "Marginalia Search",
+  "category": "Tools & Utilities",
+  "description": "Search engine focused on the small and independent web.",
+  "tags": [
+   "search",
+   "indie",
+   "web"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://archive.org/",
+  "name": "Internet Archive",
+  "category": "Old Web & Archives",
+  "description": "A vast library of digital artifacts, software and media.",
+  "tags": [
+   "archive",
+   "history",
+   "software"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://web.archive.org/",
+  "name": "Wayback Machine",
+  "category": "Old Web & Archives",
+  "description": "Travel through snapshots of websites from the past.",
+  "tags": [
+   "archive",
+   "history",
+   "time"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://obsoletemedia.org/",
+  "name": "Museum of Obsolete Media",
+  "category": "Old Web & Archives",
+  "description": "A catalog of forgotten and obsolete media formats.",
+  "tags": [
+   "media",
+   "retro",
+   "history"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.futureme.org/",
+  "name": "FutureMe",
+  "category": "Tools & Utilities",
+  "description": "Write a letter to your future self.",
+  "tags": [
+   "letters",
+   "time",
+   "personal"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://musicmap.info/",
+  "name": "Musicmap",
+  "category": "Art & Experiments",
+  "description": "Navigate an interactive map of musical genres.",
+  "tags": [
+   "music",
+   "map",
+   "history"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://typatone.com/",
+  "name": "Typatone",
+  "category": "Art & Experiments",
+  "description": "Turn typed words into musical patterns.",
+  "tags": [
+   "typing",
+   "music",
+   "sound"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://en.akinator.com/",
+  "name": "Akinator",
+  "category": "Games & Toys",
+  "description": "A guessing game that tries to identify your character.",
+  "tags": [
+   "guessing",
+   "questions",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://play2048.co/",
+  "name": "2048",
+  "category": "Games & Toys",
+  "description": "Merge numbered tiles until you reach 2048.",
+  "tags": [
+   "puzzle",
+   "numbers",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.nytimes.com/games/wordle/index.html",
+  "name": "Wordle",
+  "category": "Games & Toys",
+  "description": "Guess the daily five-letter word.",
+  "tags": [
+   "words",
+   "daily",
+   "puzzle"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.geoguessr.com/seterra/",
+  "name": "Seterra",
+  "category": "World & Science",
+  "description": "Learn geography with interactive map quizzes.",
+  "tags": [
+   "geography",
+   "maps",
+   "quiz"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://virtualvacation.us/guess",
+  "name": "City Guesser",
+  "category": "Games & Toys",
+  "description": "Guess cities by watching street-level videos.",
+  "tags": [
+   "travel",
+   "video",
+   "geography"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.windy.com/",
+  "name": "Windy",
+  "category": "World & Science",
+  "description": "Explore animated weather layers on a world map.",
+  "tags": [
+   "weather",
+   "map",
+   "visualization"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.marinetraffic.com/",
+  "name": "MarineTraffic",
+  "category": "World & Science",
+  "description": "Explore global ship movements on a map.",
+  "tags": [
+   "ships",
+   "tracking",
+   "map"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.openstreetmap.org/",
+  "name": "OpenStreetMap",
+  "category": "Tools & Utilities",
+  "description": "Explore a collaboratively edited map of the world.",
+  "tags": [
+   "maps",
+   "open",
+   "data"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.openrailwaymap.org/",
+  "name": "OpenRailwayMap",
+  "category": "World & Science",
+  "description": "Explore railway infrastructure on an interactive map.",
+  "tags": [
+   "trains",
+   "map",
+   "infrastructure"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.solarsystemscope.com/",
+  "name": "Solar System Scope",
+  "category": "World & Science",
+  "description": "Explore a 3D model of the solar system.",
+  "tags": [
+   "planets",
+   "3d",
+   "space"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://scaleofuniverse.com/",
+  "name": "Scale of the Universe",
+  "category": "World & Science",
+  "description": "Zoom between microscopic and cosmic scales.",
+  "tags": [
+   "scale",
+   "science",
+   "zoom"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://mapoftheuniverse.net/",
+  "name": "Map of the Universe",
+  "category": "World & Science",
+  "description": "Explore a map of the observable universe.",
+  "tags": [
+   "cosmology",
+   "map",
+   "space"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://eyes.nasa.gov/",
+  "name": "Nasa Eyes",
+  "category": "World & Science",
+  "description": "Explore interactive NASA visualizations of space missions.",
+  "tags": [
+   "nasa",
+   "space",
+   "3d"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.radioreference.com/",
+  "name": "Radio Reference",
+  "category": "Retro & Geek",
+  "description": "Explore radio frequency and scanner communities.",
+  "tags": [
+   "radio",
+   "frequencies",
+   "geek"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "http://websdr.org/",
+  "name": "WebSDR",
+  "category": "Retro & Geek",
+  "description": "Tune remote software-defined radio receivers over the web.",
+  "tags": [
+   "radio",
+   "sdr",
+   "signals"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://rx.linkfanel.net/",
+  "name": "KiwiSDR Public Receivers",
+  "category": "Retro & Geek",
+  "description": "Explore public software-defined radio receivers.",
+  "tags": [
+   "radio",
+   "sdr",
+   "world"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.shadertoy.com/",
+  "name": "Shadertoy",
+  "category": "Art & Experiments",
+  "description": "Explore tiny GPU programs that generate visuals.",
+  "tags": [
+   "shader",
+   "gpu",
+   "creative"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://codepen.io/",
+  "name": "CodePen",
+  "category": "Tools & Utilities",
+  "description": "Browse and remix frontend code experiments.",
+  "tags": [
+   "code",
+   "frontend",
+   "creative"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://observablehq.com/",
+  "name": "Observable",
+  "category": "Tools & Utilities",
+  "description": "Explore interactive data notebooks and visualizations.",
+  "tags": [
+   "data",
+   "notebooks",
+   "visualization"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://ncase.me/",
+  "name": "Nicky Case",
+  "category": "Art & Experiments",
+  "description": "Interactive explanations, simulations and web toys.",
+  "tags": [
+   "simulations",
+   "learning",
+   "interactive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://explorabl.es/",
+  "name": "Explorable Explanations",
+  "category": "Tools & Utilities",
+  "description": "A directory of interactive explanations.",
+  "tags": [
+   "learning",
+   "interactive",
+   "tools"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.desmos.com/calculator",
+  "name": "Desmos",
+  "category": "Tools & Utilities",
+  "description": "Explore equations with an interactive graphing calculator.",
+  "tags": [
+   "math",
+   "graph",
+   "visualization"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.geogebra.org/graphing",
+  "name": "GeoGebra",
+  "category": "Tools & Utilities",
+  "description": "Play with interactive mathematical constructions.",
+  "tags": [
+   "math",
+   "geometry",
+   "graph"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://demonstrations.wolfram.com/",
+  "name": "Wolfram Demonstrations",
+  "category": "World & Science",
+  "description": "Explore interactive scientific and mathematical demonstrations.",
+  "tags": [
+   "science",
+   "math",
+   "interactive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.piskelapp.com/",
+  "name": "Piskel",
+  "category": "Tools & Utilities",
+  "description": "Create pixel art and sprites in your browser.",
+  "tags": [
+   "pixel",
+   "art",
+   "sprites"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.tldraw.com/",
+  "name": "Tldraw",
+  "category": "Tools & Utilities",
+  "description": "Create interactive sketches on an infinite canvas.",
+  "tags": [
+   "canvas",
+   "drawing",
+   "design"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://asciiflow.com/",
+  "name": "ASCIIFlow",
+  "category": "Tools & Utilities",
+  "description": "Draw diagrams using plain text characters.",
+  "tags": [
+   "ascii",
+   "diagram",
+   "terminal"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://caniuse.com/",
+  "name": "Can I Use",
+  "category": "Tools & Utilities",
+  "description": "Check browser support for web platform features.",
+  "tags": [
+   "web",
+   "compatibility",
+   "dev"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://bundlephobia.com/",
+  "name": "Bundlephobia",
+  "category": "Tools & Utilities",
+  "description": "Inspect the approximate size of JavaScript packages.",
+  "tags": [
+   "javascript",
+   "performance",
+   "dev"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://jakearchibald.github.io/svgomg/",
+  "name": "SVGOMG",
+  "category": "Tools & Utilities",
+  "description": "Optimize SVG files with a visual interface.",
+  "tags": [
+   "svg",
+   "optimization",
+   "design"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://tiny-helpers.dev/",
+  "name": "Tiny Helpers",
+  "category": "Tools & Utilities",
+  "description": "Find small utilities for web developers.",
+  "tags": [
+   "dev",
+   "tools",
+   "directory"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://coolors.co/",
+  "name": "Coolors",
+  "category": "Tools & Utilities",
+  "description": "Generate and explore color palettes.",
+  "tags": [
+   "colors",
+   "design",
+   "utility"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.khroma.co/",
+  "name": "Khroma",
+  "category": "Tools & Utilities",
+  "description": "Explore color combinations with personalized suggestions.",
+  "tags": [
+   "color",
+   "design",
+   "ai"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://fontjoy.com/",
+  "name": "Fontjoy",
+  "category": "Tools & Utilities",
+  "description": "Generate font pairing suggestions.",
+  "tags": [
+   "fonts",
+   "typography",
+   "design"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.typewolf.com/",
+  "name": "Typewolf",
+  "category": "Tools & Utilities",
+  "description": "Explore typography and font inspiration.",
+  "tags": [
+   "fonts",
+   "design",
+   "web"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.awwwards.com/",
+  "name": "Awwwards",
+  "category": "Art & Experiments",
+  "description": "Explore experimental and award-winning web design.",
+  "tags": [
+   "web",
+   "design",
+   "inspiration"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://webglsamples.org/",
+  "name": "WebGL Samples",
+  "category": "Retro & Geek",
+  "description": "Explore graphics demos and WebGL examples.",
+  "tags": [
+   "webgl",
+   "graphics",
+   "code"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://threejs.org/examples/",
+  "name": "Three.js Examples",
+  "category": "Retro & Geek",
+  "description": "Explore interactive 3D graphics examples.",
+  "tags": [
+   "3d",
+   "webgl",
+   "code"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://js1k.com/",
+  "name": "JS1k Archive",
+  "category": "Retro & Geek",
+  "description": "Browse JavaScript demos made under tiny size constraints.",
+  "tags": [
+   "demoscene",
+   "javascript",
+   "retro"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://demozoo.org/",
+  "name": "Demozoo",
+  "category": "Retro & Geek",
+  "description": "Browse an archive of demoscene releases and groups.",
+  "tags": [
+   "demoscene",
+   "archive",
+   "retro"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.ipdb.org/",
+  "name": "Internet Pinball Database",
+  "category": "Retro & Geek",
+  "description": "Search a detailed database of pinball machines.",
+  "tags": [
+   "pinball",
+   "history",
+   "games"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.mamedev.org/",
+  "name": "MAME",
+  "category": "Retro & Geek",
+  "description": "Learn about arcade machine emulation and preservation.",
+  "tags": [
+   "emulation",
+   "arcade",
+   "history"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.dosgamesarchive.com/",
+  "name": "DOS Games Archive",
+  "category": "Retro & Geek",
+  "description": "Explore classic DOS games and their history.",
+  "tags": [
+   "dos",
+   "retro",
+   "games"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.dosbox.com/",
+  "name": "DOSBox",
+  "category": "Retro & Geek",
+  "description": "Explore a classic DOS emulation project.",
+  "tags": [
+   "dos",
+   "emulation",
+   "software"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://emulatorjs.org/",
+  "name": "EmulatorJS",
+  "category": "Retro & Geek",
+  "description": "A browser-based emulator frontend project.",
+  "tags": [
+   "emulation",
+   "browser",
+   "code"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://archive.org/details/softwarelibrary",
+  "name": "Archive.org Software Library",
+  "category": "Old Web & Archives",
+  "description": "Browse preserved software and computer history.",
+  "tags": [
+   "software",
+   "archive",
+   "retro"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://tcrf.net/",
+  "name": "The Cutting Room Floor",
+  "category": "Retro & Geek",
+  "description": "Discover unused content and development secrets in games.",
+  "tags": [
+   "games",
+   "unused",
+   "history"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://hiddenpalace.org/",
+  "name": "Hidden Palace",
+  "category": "Retro & Geek",
+  "description": "Explore documentation about video game prototypes.",
+  "tags": [
+   "games",
+   "prototypes",
+   "history"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.spriters-resource.com/",
+  "name": "The Spriters Resource",
+  "category": "Retro & Geek",
+  "description": "Browse sprite art from video games.",
+  "tags": [
+   "sprites",
+   "art",
+   "retro"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.models-resource.com/",
+  "name": "The Models Resource",
+  "category": "Retro & Geek",
+  "description": "Explore extracted 3D game models.",
+  "tags": [
+   "models",
+   "3d",
+   "games"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.sounds-resource.com/",
+  "name": "The Sounds Resource",
+  "category": "Retro & Geek",
+  "description": "Browse sound resources from video games.",
+  "tags": [
+   "sounds",
+   "retro",
+   "games"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://famicom.party/",
+  "name": "Famicom Party",
+  "category": "Retro & Geek",
+  "description": "An unusual community project inspired by retro games.",
+  "tags": [
+   "retro",
+   "community",
+   "games"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://thispersondoesnotexist.com/",
+  "name": "This Person Does Not Exist",
+  "category": "Weird & WTF",
+  "description": "View synthetic faces generated by a model.",
+  "tags": [
+   "ai",
+   "faces",
+   "synthetic"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://quickdraw.withgoogle.com/data",
+  "name": "Quick, Draw! Dataset",
+  "category": "World & Science",
+  "description": "Explore a large collection of crowd-drawn doodles.",
+  "tags": [
+   "dataset",
+   "drawing",
+   "ai"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://artsandculture.google.com/",
+  "name": "Google Arts & Culture",
+  "category": "Art & Experiments",
+  "description": "Explore art collections and interactive cultural exhibits.",
+  "tags": [
+   "art",
+   "museum",
+   "culture"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://artvee.com/",
+  "name": "Artvee",
+  "category": "Art & Experiments",
+  "description": "Browse public-domain and historical artwork collections.",
+  "tags": [
+   "art",
+   "archive",
+   "public-domain"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.atlasobscura.com/",
+  "name": "Atlas Obscura",
+  "category": "World & Science",
+  "description": "Explore unusual places and overlooked stories.",
+  "tags": [
+   "places",
+   "travel",
+   "curiosities"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.davidrumsey.com/",
+  "name": "David Rumsey Map Collection",
+  "category": "Old Web & Archives",
+  "description": "Explore digitized antique maps.",
+  "tags": [
+   "maps",
+   "history",
+   "archive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.safestyle-windows.co.uk/the-secret-door/",
+  "name": "The Secret Door",
+  "category": "Weird & WTF",
+  "description": "Open a door to a random Street View location.",
+  "tags": [
+   "random",
+   "travel",
+   "door"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://skribbl.io/",
+  "name": "Skribbl",
+  "category": "Games & Toys",
+  "description": "Play multiplayer drawing and guessing games.",
+  "tags": [
+   "drawing",
+   "multiplayer",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://garticphone.com/",
+  "name": "Gartic Phone",
+  "category": "Games & Toys",
+  "description": "Play a drawing-and-telephone party game.",
+  "tags": [
+   "drawing",
+   "party",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://tetr.io/",
+  "name": "Tetr.io",
+  "category": "Games & Toys",
+  "description": "Play competitive block-stacking puzzles.",
+  "tags": [
+   "blocks",
+   "puzzle",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://jstris.jezevec10.com/",
+  "name": "Jstris",
+  "category": "Games & Toys",
+  "description": "Play a fast browser block-stacking game.",
+  "tags": [
+   "blocks",
+   "game",
+   "competitive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.chess.com/puzzles",
+  "name": "Chess.com Puzzles",
+  "category": "Games & Toys",
+  "description": "Solve interactive chess puzzles.",
+  "tags": [
+   "chess",
+   "puzzles",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://lichess.org/",
+  "name": "Lichess",
+  "category": "Games & Toys",
+  "description": "Play and study chess on an open platform.",
+  "tags": [
+   "chess",
+   "open",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://orteil.dashnet.org/cookieclicker/",
+  "name": "Cookie Clicker",
+  "category": "Games & Toys",
+  "description": "Bake a completely unreasonable number of cookies.",
+  "tags": [
+   "incremental",
+   "cookies",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.fallenlondon.com/",
+  "name": "Fallen London",
+  "category": "Games & Toys",
+  "description": "Explore a sprawling gothic browser-based story world.",
+  "tags": [
+   "story",
+   "mystery",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://notpron.com/notpron/",
+  "name": "Notpron",
+  "category": "Mysteries & Puzzles",
+  "description": "A legendary series of increasingly difficult internet puzzles.",
+  "tags": [
+   "puzzle",
+   "web",
+   "mystery"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.cipherchallenge.org/",
+  "name": "Cipher Challenge",
+  "category": "Mysteries & Puzzles",
+  "description": "Explore cryptography puzzles and challenges.",
+  "tags": [
+   "crypto",
+   "puzzles",
+   "learning"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.coolmathgames.com/0-riddle-school",
+  "name": "The Riddle School",
+  "category": "Mysteries & Puzzles",
+  "description": "A classic point-and-click puzzle game.",
+  "tags": [
+   "puzzle",
+   "retro",
+   "game"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://wikiroulette.co/",
+  "name": "WikiRoulette",
+  "category": "Weird & WTF",
+  "description": "Open a random Wikipedia article.",
+  "tags": [
+   "wikipedia",
+   "random",
+   "knowledge"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Special:Random",
+  "name": "Wikipedia Random",
+  "category": "Weird & WTF",
+  "description": "Jump to a random encyclopedia article.",
+  "tags": [
+   "wikipedia",
+   "random",
+   "knowledge"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://commons.wikimedia.org/wiki/Special:Random/File",
+  "name": "Wikimedia Commons Random",
+  "category": "Weird & WTF",
+  "description": "Discover a random media file from Wikimedia Commons.",
+  "tags": [
+   "random",
+   "images",
+   "archive"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://openverse.org/",
+  "name": "Openverse",
+  "category": "Tools & Utilities",
+  "description": "Search openly licensed images and audio.",
+  "tags": [
+   "search",
+   "creative",
+   "media"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.infiniteconversation.com/",
+  "name": "The Infinite Conversation",
+  "category": "Weird & WTF",
+  "description": "Watch a synthetic conversation that continues indefinitely.",
+  "tags": [
+   "ai",
+   "conversation",
+   "experimental"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://listen.hatnote.com/",
+  "name": "Listen to Wikipedia",
+  "category": "Art & Experiments",
+  "description": "Hear Wikipedia edits represented as sounds.",
+  "tags": [
+   "wikipedia",
+   "sonification",
+   "data"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://pudding.cool/2018/12/3d-cities-story/",
+  "name": "The Pudding Population Mountains",
+  "category": "World & Science",
+  "description": "See urban population density as a 3D landscape.",
+  "tags": [
+   "cities",
+   "data",
+   "visualization"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://onemillioncheckboxes.com/",
+  "name": "One Million Checkboxes",
+  "category": "Weird & WTF",
+  "description": "A social web experiment with a million checkboxes.",
+  "tags": [
+   "checkboxes",
+   "collective",
+   "experiment"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://robohash.org/",
+  "name": "RoboHash",
+  "category": "Tools & Utilities",
+  "description": "Generate deterministic robot avatars from text.",
+  "tags": [
+   "avatars",
+   "robots",
+   "hash"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://www.dicebear.com/",
+  "name": "DiceBear",
+  "category": "Tools & Utilities",
+  "description": "Generate customizable avatar graphics.",
+  "tags": [
+   "avatars",
+   "svg",
+   "design"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://thisisnotajumpscare.com/",
+  "name": "This Is a Website",
+  "category": "Weird & WTF",
+  "description": "An odd little corner of the experimental web.",
+  "tags": [
+   "weird",
+   "experimental",
+   "web"
+  ],
+  "origin": "attached"
+ },
+ {
+  "url": "https://zombo.com/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://html5zombo.com/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "http://corndog.io/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://nooooooooooooooo.com/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://thenicestplace.net/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.lingscars.com/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "http://arngren.net/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "http://superbad.com/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://jodi.org/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://poolside.fm/",
+  "name": null,
+  "category": "weird",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://sandboxels.r74n.com/",
+  "name": null,
+  "category": "games",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://twinbeard.com/frog-fractions/",
+  "name": null,
+  "category": "games",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://kittensgame.com/web/",
+  "name": null,
+  "category": "games",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://minesweeperonline.com/",
+  "name": null,
+  "category": "games",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://pairdrop.net/",
+  "name": null,
+  "category": "tools",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://haveibeenpwned.com/",
+  "name": null,
+  "category": "tools",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://downforeveryoneorjustme.com/",
+  "name": null,
+  "category": "tools",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.timeanddate.com/",
+  "name": null,
+  "category": "tools",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.wolframalpha.com/",
+  "name": null,
+  "category": "tools",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://mynoise.net/",
+  "name": null,
+  "category": "tools",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://blog.geocities.institute/",
+  "name": null,
+  "category": "history",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://knowyourmeme.com/",
+  "name": null,
+  "category": "history",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "http://catb.org/jargon/",
+  "name": null,
+  "category": "history",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://neocities.org/",
+  "name": null,
+  "category": "history",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://killedbygoogle.com/",
+  "name": null,
+  "category": "history",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://csszengarden.com/",
+  "name": null,
+  "category": "history",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.xanadu.com/",
+  "name": null,
+  "category": "history",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://openprocessing.org/",
+  "name": null,
+  "category": "creative",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://editor.p5js.org/",
+  "name": null,
+  "category": "creative",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://experiments.withgoogle.com/",
+  "name": null,
+  "category": "creative",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://sonic-pi.net/",
+  "name": null,
+  "category": "creative",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://natureofcode.com/",
+  "name": null,
+  "category": "creative",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://generativeartistry.com/",
+  "name": null,
+  "category": "creative",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.old-computers.com/",
+  "name": null,
+  "category": "retro",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://computerhistory.org/",
+  "name": null,
+  "category": "retro",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.computinghistory.org.uk/",
+  "name": null,
+  "category": "retro",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://guidebookgallery.org/",
+  "name": null,
+  "category": "retro",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.lemon64.com/",
+  "name": null,
+  "category": "retro",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.vogons.org/",
+  "name": null,
+  "category": "retro",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://theretroweb.com/",
+  "name": null,
+  "category": "retro",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.retroarch.com/",
+  "name": null,
+  "category": "emulation",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://js-dos.com/",
+  "name": null,
+  "category": "emulation",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://vamigaweb.github.io/",
+  "name": null,
+  "category": "emulation",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.lexaloffle.com/pico-8.php",
+  "name": null,
+  "category": "emulation",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://win95.ajf.me/",
+  "name": null,
+  "category": "emulation",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.zooniverse.org/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://eternagame.org/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://mathworld.wolfram.com/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://neal.fun/asteroid-launcher/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://ptable.com/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "http://hyperphysics.phy-astr.gsu.edu/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "http://www.atlasoftheuniverse.com/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://xeno-canto.org/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.inaturalist.org/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://setosa.io/ev/",
+  "name": null,
+  "category": "science",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.ventusky.com/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://informationisbeautiful.net/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://ourworldindata.org/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.gapminder.org/tools/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.falstad.com/circuit/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "http://hint.fm/wind/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.populationpyramid.net/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.thetruesize.com/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://histography.io/",
+  "name": null,
+  "category": "visualizations",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://tvtropes.org/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.cabinetmagazine.org/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.futilitycloset.com/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.oldbookillustrations.com/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.gutenberg.org/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://kagi.com/smallweb",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://ubu.com/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.lostmediawiki.com/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://www.openculture.com/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ },
+ {
+  "url": "https://radiooooo.app/",
+  "name": null,
+  "category": "rabbit-holes",
+  "description": null,
+  "tags": [],
+  "origin": "own"
+ }
+]
